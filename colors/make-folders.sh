@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 
 for theme in '-blue' '-purple' '-pink' '-red' '-orange' '-yellow' '-green' '-teal' '-grey'; do
-  for type in '-nord' '-dracula'; do
+  for type in '-nord' '-dracula' '-pastel'; do
     if [[ "$type" == '-nord' ]]; then
       case "$theme" in
         -blue)
@@ -62,6 +62,38 @@ for theme in '-blue' '-purple' '-pink' '-red' '-orange' '-yellow' '-green' '-tea
           ;;
         -grey)
           folder_color='#757a99'
+          ;;
+      esac
+    fi
+
+    if [[ "$type" == '-pastel' ]]; then
+      case "$theme" in
+        -blue)
+          folder_color='#b9cfde'
+          ;;
+        -purple)
+          folder_color='#c5b3cd'
+          ;;
+        -pink)
+          folder_color='#f4b9be'
+          ;;
+        -red)
+          folder_color='#ec9b97'
+          ;;
+        -orange)
+          folder_color='#f5cba3'
+          ;;
+        -yellow)
+          folder_color='#fae3a8'
+          ;;
+        -green)
+          folder_color='#add49f'
+          ;;
+        -teal)
+          folder_color='#a8decc'
+          ;;
+        -grey)
+          folder_color='#a19d91'
           ;;
       esac
     fi

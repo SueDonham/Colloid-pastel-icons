@@ -16,7 +16,7 @@ SRC_DIR="$(cd "$(dirname "$0")" && pwd)"
 
 THEME_NAME=Colloid
 COLOR_VARIANTS=('-light' '-dark' '')
-SCHEME_VARIANTS=('' '-nord' '-dracula')
+SCHEME_VARIANTS=('' '-nord' '-dracula' '-pastel')
 THEME_VARIANTS=('' '-purple' '-pink' '-red' '-orange' '-yellow' '-green' '-teal' '-grey')
 
 usage() {
@@ -154,6 +154,10 @@ while [[ "$#" -gt 0 ]]; do
             ;;
           dracula)
             schemes+=("${SCHEME_VARIANTS[2]}")
+            shift
+            ;;
+          pastel)
+            schemes+=("${SCHEME_VARIANTS[3]}")
             shift
             ;;
           all)
