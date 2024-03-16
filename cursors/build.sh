@@ -1,68 +1,92 @@
 #! /usr/bin/env bash
 
-# check command avalibility
+
+DIST=$PWD/dist
+BUILD=$PWD/build
+SRC=$PWD/src
+SVG=$SRC/svg
+ALIASES=$SRC/cursorList
+CONFIG=$SRC/config
+
+SIZES=('1' '1.25' '1.5' '2' '2.5' '3')
+
+
+# Check command availability:
 has_command() {
-  "$1" -v $1 > /dev/null 2>&1
+  "$1" -v "$1" > /dev/null 2>&1
 }
 
-function create {
-	cd "$SRC"
-	mkdir -p x1 x1_25 x1_5 x2
 
-	cd "$SRC"/$1
-	find . -name "*.svg" -type f -exec sh -c 'inkscape -o "../x1/${0%.svg}.png" -w 32 -h 32 $0' {} \;
-	find . -name "*.svg" -type f -exec sh -c 'inkscape -o "../x1_25/${0%.svg}.png" -w 40 -w 40 $0' {} \;
-	find . -name "*.svg" -type f -exec sh -c 'inkscape -o "../x1_5/${0%.svg}.png" -w 48 -w 48 $0' {} \;
-	find . -name "*.svg" -type f -exec sh -c 'inkscape -o "../x2/${0%.svg}.png" -w 64 -w 64 $0' {} \;
+# Create png files from svgs:
+function export_png(){
+    png_path=$BUILD/$1/x$2  # build/variant/size
+    mkdir -p "$png_path"
 
-	cd "$SRC"
+    echo "Exporting $3px pngs for $1 variant..."
 
-	OUTPUT="$BUILD"/cursors
-	ALIASES="$SRC"/cursorList
+    for file in $SVG-$1/*; do
+        in=${file##*/}      # name.svg
+        out=${in%.*}.png    # name.png
 
-	if [ ! -d "$BUILD" ]; then
-		mkdir "$BUILD"
-	fi
-	if [ ! -d "$OUTPUT" ]; then
-		mkdir "$OUTPUT"
-	fi
+        inkscape --export-filename=$png_path/$out -w $3 -h $3 $SVG-$1/$in
+    done
 
-	echo -ne "Generating cursor theme...\\r"
-	for CUR in config/*.cursor; do
-		BASENAME="$CUR"
-		BASENAME="${BASENAME##*/}"
-		BASENAME="${BASENAME%.*}"
-		
-		xcursorgen "$CUR" "$OUTPUT/$BASENAME"
-	done
-	echo -e "Generating cursor theme... DONE"
+}
 
-	cd "$OUTPUT"
 
-	#generate aliases
-	echo -ne "Generating shortcuts...\\r"
-	while read ALIAS; do
-		FROM="${ALIAS#* }"
-		TO="${ALIAS% *}"
+# Create cursor theme:
+function create(){
+	var=$1
+    theme="Colloid Pastel ${var^} Cursors"
+	build_path=$BUILD/$var
+    dist_path="$DIST-$var/cursors"
 
-		if [ -e $TO ]; then
-			continue
-		fi
-		ln -sr "$FROM" "$TO"
+    mkdir -p "$build_path" "$dist_path"
+
+
+    # Call export_png function for each size/resolution:
+    for s in "${!SIZES[@]}"; do
+        size="${SIZES[$s]}"
+        res=$(echo "$size*24" | bc) # resolution = 24 * size
+        res=${res%.*}               # truncate at decimal
+        export_png "$var" "$size" "$res"
+    done
+
+
+    cp "$CONFIG"/*.cursor "$build_path" # Copy .cursor files to where xcursorgen can find them
+
+    # Create cursors:
+    cd $build_path
+    for c in *.cursor; do
+        xcursorgen $c $dist_path/${c%.*}
+    done
+
+
+    # Link cursors to aliases:
+    cd $dist_path
+    while read ALIAS; do
+		from="${ALIAS#* }"
+		to="${ALIAS% *}"
+
+        if [ -e "$to" ]; then continue; fi
+
+		ln -s "$from" "$to"
 	done < "$ALIASES"
-	echo -e "Generating shortcuts... DONE"
 
-	cd "$PWD"
 
-	echo -ne "Generating Theme Index...\\r"
-	INDEX="$OUTPUT/../index.theme"
-	if [ ! -e "$OUTPUT/../$INDEX" ]; then
-		touch "$INDEX"
-		echo -e "[Icon Theme]\nName=$THEME\n" > "$INDEX"
+    # Create index.theme file:
+	INDEX="../index.theme"
+	if [ ! -e $INDEX ]; then
+		touch $INDEX
+		echo -e "[Icon Theme]\nName=$theme\nComment=Pastel version of Colloid-cursors\n" > "$INDEX"
 	fi
-	echo -e "Generating Theme Index... DONE"
+
+
+	echo "Done!"
 }
 
+
+# Check for dependencies:
 if [ ! "$(which xcursorgen 2> /dev/null)" ]; then
   echo xorg-xcursorgen needs to be installed to generate the cursors.
   if has_command zypper; then
@@ -93,16 +117,10 @@ if [ ! "$(which inkscape 2> /dev/null)" ]; then
   fi
 fi
 
-# generate pixmaps from svg source
-SRC=$PWD/src
 
-THEME="Colloid Cursors"
-BUILD="$SRC/../dist"
-create svg
 
-THEME="Colloid-dark Cursors"
-BUILD="$SRC/../dist-dark"
-create svg-white
+# Create light and dark variants:
+create "light"
+create "dark"
 
-cd "$SRC"
-rm -rf x1 x1_25 x1_5 x2
+rm -r "$BUILD"    # Clean up PNGs and copies of .cursor files

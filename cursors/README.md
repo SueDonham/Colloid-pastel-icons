@@ -1,37 +1,28 @@
-# Colloid cursors
-This is an x-cursor theme inspired by Colloid theme and
-based on [capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors).
+# Colloid Pastel Cursors
+An x-cursor theme based on those of [Colloid-icon-theme](https://github.com/vinceliuice/Colloid-icon-theme/tree/main/cursors).
+
+
+## Previews
+![01](preview.png)
+
 
 ## Installation
-To install the cursor theme simply copy the compiled theme to your icons
-directory. For local user installation:
+### Manual installation
+Copy the compiled theme(s), located in the /dist subdirectories, to your icons directory.
 
+### Scripted installation
+Open a terminal in the cursors directory.
+For user-level installation, run:
 ```
 ./install.sh
 ```
 
-For system-wide installation for all users:
-
+For system-wide installation, run:
 ```
 sudo ./install.sh
 ```
 
-Then set the theme with your preferred desktop tools.
+## Modifying or building from source
+Dependencies: [xorg-xcursorgen](https://gitlab.freedesktop.org/xorg/app/xcursorgen) and [inkscape](https://inkscape.org/).
 
-## Building from source
-
-`xorg-xcursorgen` and `inkscape` are required depends
-
-You'll find everything you need to build and modify this cursor set in
-the `src/` directory. To build the xcursor theme from the SVG source
-run:
-
-```
-./build.sh
-```
-
-This will generate the pixmaps and appropriate aliases.
-The freshly compiled cursor theme will be located in `dist/`
-
-## Preview
-![01](preview.png)
+[build.sh](./build.sh) creates a cursor theme based on the images in [/src](./src) and the sizes and hotspots in the .cursor files found in [/config](./src/config).

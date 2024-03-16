@@ -21,52 +21,52 @@
 24 4 4 x1/progress-21.png 30
 24 4 4 x1/progress-22.png 30
 24 4 4 x1/progress-23.png 30
-30 5 5 x1_25/progress-01.png 30
-30 5 5 x1_25/progress-02.png 30
-30 5 5 x1_25/progress-03.png 30
-30 5 5 x1_25/progress-04.png 30
-30 5 5 x1_25/progress-05.png 30
-30 5 5 x1_25/progress-06.png 30
-30 5 5 x1_25/progress-07.png 30
-30 5 5 x1_25/progress-08.png 30
-30 5 5 x1_25/progress-09.png 30
-30 5 5 x1_25/progress-10.png 30
-30 5 5 x1_25/progress-11.png 30
-30 5 5 x1_25/progress-12.png 30
-30 5 5 x1_25/progress-13.png 30
-30 5 5 x1_25/progress-14.png 30
-30 5 5 x1_25/progress-15.png 30
-30 5 5 x1_25/progress-16.png 30
-30 5 5 x1_25/progress-17.png 30
-30 5 5 x1_25/progress-18.png 30
-30 5 5 x1_25/progress-19.png 30
-30 5 5 x1_25/progress-20.png 30
-30 5 5 x1_25/progress-21.png 30
-30 5 5 x1_25/progress-22.png 30
-30 5 5 x1_25/progress-23.png 30
-36 6 6 x1_5/progress-01.png 30
-36 6 6 x1_5/progress-02.png 30
-36 6 6 x1_5/progress-03.png 30
-36 6 6 x1_5/progress-04.png 30
-36 6 6 x1_5/progress-05.png 30
-36 6 6 x1_5/progress-06.png 30
-36 6 6 x1_5/progress-07.png 30
-36 6 6 x1_5/progress-08.png 30
-36 6 6 x1_5/progress-09.png 30
-36 6 6 x1_5/progress-10.png 30
-36 6 6 x1_5/progress-11.png 30
-36 6 6 x1_5/progress-12.png 30
-36 6 6 x1_5/progress-13.png 30
-36 6 6 x1_5/progress-14.png 30
-36 6 6 x1_5/progress-15.png 30
-36 6 6 x1_5/progress-16.png 30
-36 6 6 x1_5/progress-17.png 30
-36 6 6 x1_5/progress-18.png 30
-36 6 6 x1_5/progress-19.png 30
-36 6 6 x1_5/progress-20.png 30
-36 6 6 x1_5/progress-21.png 30
-36 6 6 x1_5/progress-22.png 30
-36 6 6 x1_5/progress-23.png 30
+30 5 5 x1.25/progress-01.png 30
+30 5 5 x1.25/progress-02.png 30
+30 5 5 x1.25/progress-03.png 30
+30 5 5 x1.25/progress-04.png 30
+30 5 5 x1.25/progress-05.png 30
+30 5 5 x1.25/progress-06.png 30
+30 5 5 x1.25/progress-07.png 30
+30 5 5 x1.25/progress-08.png 30
+30 5 5 x1.25/progress-09.png 30
+30 5 5 x1.25/progress-10.png 30
+30 5 5 x1.25/progress-11.png 30
+30 5 5 x1.25/progress-12.png 30
+30 5 5 x1.25/progress-13.png 30
+30 5 5 x1.25/progress-14.png 30
+30 5 5 x1.25/progress-15.png 30
+30 5 5 x1.25/progress-16.png 30
+30 5 5 x1.25/progress-17.png 30
+30 5 5 x1.25/progress-18.png 30
+30 5 5 x1.25/progress-19.png 30
+30 5 5 x1.25/progress-20.png 30
+30 5 5 x1.25/progress-21.png 30
+30 5 5 x1.25/progress-22.png 30
+30 5 5 x1.25/progress-23.png 30
+36 6 6 x1.5/progress-01.png 30
+36 6 6 x1.5/progress-02.png 30
+36 6 6 x1.5/progress-03.png 30
+36 6 6 x1.5/progress-04.png 30
+36 6 6 x1.5/progress-05.png 30
+36 6 6 x1.5/progress-06.png 30
+36 6 6 x1.5/progress-07.png 30
+36 6 6 x1.5/progress-08.png 30
+36 6 6 x1.5/progress-09.png 30
+36 6 6 x1.5/progress-10.png 30
+36 6 6 x1.5/progress-11.png 30
+36 6 6 x1.5/progress-12.png 30
+36 6 6 x1.5/progress-13.png 30
+36 6 6 x1.5/progress-14.png 30
+36 6 6 x1.5/progress-15.png 30
+36 6 6 x1.5/progress-16.png 30
+36 6 6 x1.5/progress-17.png 30
+36 6 6 x1.5/progress-18.png 30
+36 6 6 x1.5/progress-19.png 30
+36 6 6 x1.5/progress-20.png 30
+36 6 6 x1.5/progress-21.png 30
+36 6 6 x1.5/progress-22.png 30
+36 6 6 x1.5/progress-23.png 30
 48 8 8 x2/progress-01.png 30
 48 8 8 x2/progress-02.png 30
 48 8 8 x2/progress-03.png 30
@@ -90,3 +90,49 @@
 48 8 8 x2/progress-21.png 30
 48 8 8 x2/progress-22.png 30
 48 8 8 x2/progress-23.png 30
+60 10 10 x2.5/progress-01.png 30
+60 10 10 x2.5/progress-02.png 30
+60 10 10 x2.5/progress-03.png 30
+60 10 10 x2.5/progress-04.png 30
+60 10 10 x2.5/progress-05.png 30
+60 10 10 x2.5/progress-06.png 30
+60 10 10 x2.5/progress-07.png 30
+60 10 10 x2.5/progress-08.png 30
+60 10 10 x2.5/progress-09.png 30
+60 10 10 x2.5/progress-10.png 30
+60 10 10 x2.5/progress-11.png 30
+60 10 10 x2.5/progress-12.png 30
+60 10 10 x2.5/progress-13.png 30
+60 10 10 x2.5/progress-14.png 30
+60 10 10 x2.5/progress-15.png 30
+60 10 10 x2.5/progress-16.png 30
+60 10 10 x2.5/progress-17.png 30
+60 10 10 x2.5/progress-18.png 30
+60 10 10 x2.5/progress-19.png 30
+60 10 10 x2.5/progress-20.png 30
+60 10 10 x2.5/progress-21.png 30
+60 10 10 x2.5/progress-22.png 30
+60 10 10 x2.5/progress-23.png 30
+72 12 12x3/progress-01.png 30
+72 12 12x3/progress-02.png 30
+72 12 12x3/progress-03.png 30
+72 12 12x3/progress-04.png 30
+72 12 12x3/progress-05.png 30
+72 12 12x3/progress-06.png 30
+72 12 12x3/progress-07.png 30
+72 12 12x3/progress-08.png 30
+72 12 12x3/progress-09.png 30
+72 12 12x3/progress-10.png 30
+72 12 12x3/progress-11.png 30
+72 12 12x3/progress-12.png 30
+72 12 12x3/progress-13.png 30
+72 12 12x3/progress-14.png 30
+72 12 12x3/progress-15.png 30
+72 12 12x3/progress-16.png 30
+72 12 12x3/progress-17.png 30
+72 12 12x3/progress-18.png 30
+72 12 12x3/progress-19.png 30
+72 12 12x3/progress-20.png 30
+72 12 12x3/progress-21.png 30
+72 12 12x3/progress-22.png 30
+72 12 12x3/progress-23.png 30

@@ -2,25 +2,36 @@
 
 ROOT_UID=0
 DEST_DIR=
-THEME_NAME=Colloid
+THEME_NAME=Colloid-pastel
 
 # Destination directory
 if [ "$UID" -eq "$ROOT_UID" ]; then
   DEST_DIR="/usr/share/icons"
 else
-  DEST_DIR="$HOME/.local/share/icons"
+  DEST_DIR="$HOME/.icons"
 fi
 
-if [ -d "$DEST_DIR/$THEME_NAME-cursors" ]; then
-  rm -r "$DEST_DIR/$THEME_NAME-cursors"
+
+
+
+# Copy light or dark cursor variant to DEST_DIR:
+copy_variant(){
+var=$1
+dest_dir=$DEST_DIR/$THEME_NAME-$var-cursors
+
+
+if [ -d "$dest_dir" ]; then
+  rm -r "$dest_dir"
 fi
 
-if [ -d "$DEST_DIR/$THEME_NAME-dark-cursors" ]; then
-  rm -r "$DEST_DIR/$THEME_NAME-dark-cursors"
-fi
+mkdir -p $dest_dir
+cp -r dist-$var/* $dest_dir
+}
 
-cp -r dist "$DEST_DIR/$THEME_NAME-cursors"
-cp -r dist-dark "$DEST_DIR/$THEME_NAME-dark-cursors"
 
-echo "Finished..."
+cd "$(dirname "$0")"
+copy_variant 'light'
+copy_variant 'dark'
+
+echo "Cursors copied to $DEST_DIR"
 
