@@ -1,13 +1,11 @@
-<svg width="16" height="16" version="1.1" viewBox="0 0 4.2335 4.2335" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-.79381 -.79416)">
-  <g transform="translate(0,-291.18)">
-   <g transform="translate(3.969,1.588)">
-    <rect transform="matrix(0,-1,-1,0,0,0)" x="-294.62" y="-1.058" width="4.233" height="4.233" rx="2.117" ry="2.117" fill="#ff8135"/>
-    <path d="m-2.117 292.24h2.117v1.323h-2.117z" fill="#ffffff"/>
-    <rect x="-1.72" y="291.31" width="1.323" height="1.852" ry=".661" fill="none" stroke="#ffffff" stroke-linejoin="round" stroke-width=".265"/>
-   </g>
-   <rect x="1.852" y="293.56" width="1.058" height=".265" ry="0" fill="#ff8135" paint-order="markers stroke fill"/>
-  </g>
-  <path d="m2.9105 0.79377c-1.1727 0-2.1167 0.94406-2.1167 2.1167 0 0.044499 0.001455 0.088495 0.004134 0.1323 0.067936-1.1105 0.98444-1.9844 2.1126-1.9844s2.0447 0.87394 2.1126 1.9844c0.00268-0.0438 0.00414-0.087797 0.00414-0.1323 0-1.1727-0.94406-2.1167-2.1167-2.1167z" fill="#ffffff" opacity=".1" stroke-width="1.0001"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 4.234 4.234">
+    <g transform="translate(-.794 -291.974)">
+        <g transform="translate(3.969 1.588)">
+            <rect width="4.233" height="4.233" x="-294.62" y="-1.058" fill="#eeac7c" rx="2.117" ry="2.117" transform="matrix(0 -1 -1 0 0 0)"/>
+            <path fill-opacity=".46" d="M-2.117 292.24H0v1.323h-2.117z"/>
+            <rect width="1.323" height="1.852" x="-1.72" y="291.31" fill="none" stroke="#000" stroke-linejoin="round" stroke-opacity=".46" stroke-width=".265" ry=".661"/>
+        </g>
+        <rect width="1.058" height=".265" x="1.852" y="293.56" fill="#eeac7c" paint-order="markers stroke fill" ry="0"/>
+    </g>
+    <path d="M2.117 0A2.112 2.112 0 0 0 .004 2.249C.072 1.139.99.264 2.117.264s2.044.874 2.112 1.985A2.112 2.112 0 0 0 2.116 0z" opacity=".2"/>
 </svg>

@@ -1,10 +1,10 @@
-<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <rect width="2" height="16" fill="#363636"/>
- <rect x="2" width="2" height="16" fill="#363636" opacity=".9"/>
- <rect x="4" width="2" height="16" fill="#363636" opacity=".7"/>
- <rect x="6" width="2" height="16" fill="#363636" opacity=".6"/>
- <rect x="8" width="2" height="16" fill="#363636" opacity=".5"/>
- <rect x="10" width="2" height="16" fill="#363636" opacity=".4"/>
- <rect x="12" width="2" height="16" fill="#363636" opacity=".3"/>
- <rect x="14" width="2" height="16" fill="#363636" opacity=".2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <path fill="#050505" fill-opacity=".7" d="M0 0h2v16H0z"/>
+    <path fill="#050505" d="M2 0h2v16H2z" opacity=".9"/>
+    <path fill="#050505" d="M4 0h2v16H4z" opacity=".7"/>
+    <path fill="#050505" d="M6 0h2v16H6z" opacity=".6"/>
+    <path fill="#050505" d="M8 0h2v16H8z" opacity=".5"/>
+    <path fill="#050505" d="M10 0h2v16h-2z" opacity=".4"/>
+    <path fill="#050505" d="M12 0h2v16h-2z" opacity=".3"/>
+    <path fill="#050505" d="M14 0h2v16h-2z" opacity=".2"/>
 </svg>

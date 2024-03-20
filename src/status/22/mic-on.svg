@@ -1,9 +1,11 @@
-<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#4285f4; }</style>
- </defs>
- <g transform="translate(3,-5)" class="ColorScheme-Text" fill="currentColor">
-  <rect x="5" y="9" width="6" height="10" ry="3"/>
-  <path d="m3.5 14c-0.277 0-0.5 0.223-0.5 0.5v1.5c0 2.6 1.967 4.725 4.5 4.975v1.025h-2a0.5 0.5 0 1 0 0 1h5a0.5 0.5 0 1 0 0-1h-2v-1.025a4.988 4.988 0 0 0 4.5-4.975v-1.5a0.5 0.5 0 1 0-1 0v1.5c0 2.216-1.784 4-4 4s-4-1.784-4-4v-1.5c0-0.277-0.223-0.5-0.5-0.5z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Highlight{color:#a0b6cb}
+        </style>
+    </defs>
+    <g fill="currentColor" style="color:#050505;opacity:.7" transform="translate(3 -5)">
+        <rect width="6" height="10" x="5" y="9" ry="3"/>
+        <path d="M3.5 14c-.277 0-.5.223-.5.5V16a4.99 4.99 0 0 0 4.5 4.975V22h-2a.5.5 0 1 0 0 1h5a.5.5 0 1 0 0-1h-2v-1.025A4.988 4.988 0 0 0 13 16v-1.5a.5.5 0 1 0-1 0V16c0 2.216-1.784 4-4 4s-4-1.784-4-4v-1.5c0-.277-.223-.5-.5-.5z"/>
+    </g>
 </svg>

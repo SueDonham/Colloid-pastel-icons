@@ -1,6 +1,6 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(1.1237 0 0 1.1237 .72201 -1.404e-7)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0">
-  <path d="M 11.4744,13.73832 0.5,0.5" stroke="#da0000" stroke-opacity=".72727"/>
-  <path d="m5.3481 13.155-2.6405-10.132 9.7457 4.7427" stroke="#363636"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0">
+        <path stroke="#d98c8c" stroke-opacity=".727" stroke-width="1.1237" d="M13.616 15.438 1.284.562"/>
+        <path stroke="#050505" stroke-opacity=".7" stroke-width="1.1237" d="M6.732 14.782 3.765 3.397l10.95 5.33"/>
+    </g>
 </svg>

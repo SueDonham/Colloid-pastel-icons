@@ -1,11 +1,9 @@
-<svg width="16" height="16.031" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <title>Gnome Symbolic Icon Theme</title>
- <g transform="translate(-444 35)" fill="#363636">
-  <path d="m446.22-34c-0.64785 0-1.1875 0.53965-1.1875 1.1875v4.625c0 0.64785 0.53965 1.1875 1.1875 1.1875h11.656c0.64785 0 1.1562-0.53965 1.1562-1.1875v-4.625c0-0.64785-0.5084-1.1875-1.1562-1.1875h-11.656zm0 1h11.656c0.11114 0 0.15625 0.07636 0.15625 0.1875v4.625c0 0.11114-0.0451 0.1875-0.15625 0.1875h-11.656c-0.11114 0-0.1875-0.07636-0.1875-0.1875v-4.625c0-0.11114 0.0764-0.1875 0.1875-0.1875z" color="#000000" enable-background="new" style="block-progression:tb;text-indent:0;text-transform:none"/>
-  <path d="m454-32v1 0.0312l1.5312 1.375 1.4688-1.4062v-1h-0.75781l-0.73828 0.74609-0.72657-0.74609z" color="#000000" enable-background="new" style="block-progression:tb;text-indent:0;text-transform:none"/>
-  <path d="m446.22-26c-0.64785 0-1.1875 0.53965-1.1875 1.1875v4.6562c0 0.64785 0.53965 1.1875 1.1875 1.1875h11.656c0.64785 0 1.1562-0.53965 1.1562-1.1875v-4.6562c0-0.64785-0.5084-1.1875-1.1562-1.1875h-11.656zm0 1h11.656c0.11114 0 0.15625 0.07636 0.15625 0.1875v4.6562c0 0.11114-0.0451 0.1875-0.15625 0.1875h-11.656c-0.11114 0-0.1875-0.07636-0.1875-0.1875v-4.6562c0-0.11114 0.0764-0.1875 0.1875-0.1875z" color="#000000" enable-background="new" style="block-progression:tb;text-indent:0;text-transform:none"/>
-  <rect x="448" y="-24" width="8" height="2" rx="0" ry="0" color="#000000" enable-background="new"/>
-  <rect x="445.53" y="-29" width="12.861" height="1" rx="0" ry="0" color="#000000" enable-background="new" opacity=".3"/>
-  <rect x="445.53" y="-20.969" width="12.861" height="1" rx="0" ry="0" color="#000000" enable-background="new" opacity=".3"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16.031">
+    <g fill="#050505" color="#000" opacity=".7" transform="translate(-444 35)">
+        <path d="M446.22-34c-.648 0-1.187.54-1.187 1.188v4.624c0 .648.54 1.188 1.187 1.188h11.656c.648 0 1.156-.54 1.156-1.187v-4.625c0-.648-.508-1.188-1.156-1.188H446.22zm0 1h11.656c.111 0 .156.076.156.188v4.624c0 .112-.045.188-.156.188H446.22a.179.179 0 0 1-.187-.187v-4.625c0-.112.076-.188.187-.188z" style="block-progression:tb;text-indent:0;text-transform:none"/>
+        <path d="M454-32v1.031l1.531 1.375L457-31v-1h-.758l-.738.746-.727-.746zM446.22-26c-.648 0-1.187.54-1.187 1.188v4.656c0 .648.54 1.187 1.187 1.187h11.656c.648 0 1.156-.54 1.156-1.187v-4.657c0-.647-.508-1.187-1.156-1.187H446.22zm0 1h11.656c.111 0 .156.076.156.188v4.656c0 .11-.045.187-.156.187H446.22a.179.179 0 0 1-.187-.187v-4.657c0-.11.076-.187.187-.187z" style="block-progression:tb;text-indent:0;text-transform:none"/>
+        <rect width="8" height="2" x="448" y="-24" rx="0" ry="0"/>
+        <rect width="12.861" height="1" x="445.53" y="-29" opacity=".3" rx="0" ry="0"/>
+        <rect width="12.861" height="1" x="445.53" y="-20.969" opacity=".3" rx="0" ry="0"/>
+    </g>
 </svg>

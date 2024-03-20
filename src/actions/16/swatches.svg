@@ -1,12 +1,12 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect transform="rotate(90)" x="5.994" y="-5.0216" width="3.9986" height="3.992" color="#000000" fill="#ffbf00" fill-rule="evenodd" stroke-width=".99882"/>
- <rect transform="rotate(90)" x="5.994" y="-10.012" width="3.9986" height="3.992" color="#000000" fill="#ff69bc" fill-rule="evenodd" stroke-width=".99882"/>
- <rect transform="rotate(90)" x=".99574" y="-10.012" width="3.9986" height="3.992" color="#000000" fill="#ffffff" fill-rule="evenodd" stroke-width=".99882"/>
- <rect transform="rotate(90)" x="10.992" y="-5.0216" width="2.9989" height="3.992" color="#000000" fill="#c8c8c8" fill-rule="evenodd" stroke-width=".99882"/>
- <rect transform="rotate(90)" x="5.994" y="-15.002" width="3.9986" height="3.992" color="#000000" fill="#f0fa00" fill-rule="evenodd" stroke-width=".99882"/>
- <path d="m10.012 10.992v3.9986l-3.992-0.99965v-2.9989z" color="#000000" fill="#a4602b" fill-rule="evenodd" stroke-width=".99882"/>
- <rect transform="rotate(90)" x="10.992" y="-15.002" width="3.9986" height="3.992" color="#000000" fill="#00c626" fill-rule="evenodd" stroke-width=".99882"/>
- <rect transform="rotate(90)" x=".99574" y="-5.0216" width="3.9986" height="3.992" color="#000000" fill="#8ab3de" fill-rule="evenodd" stroke-width=".99882"/>
- <rect transform="rotate(90)" x=".99574" y="-15.002" width="3.9986" height="3.992" color="#000000" fill="#ff0000" fill-rule="evenodd" stroke-width=".99882"/>
- <path d="m0.5 0a0.49946 0.49946 0 0 0-0.5 0.5v13.652a0.49946 0.49946 0 0 0 0.66797 0.4707c1.3684-0.48938 4.054-1.0649 6.5996 0.40234 3.7783 2.1777 8.4375 0.02344 8.4375 0.02344a0.49946 0.49946 0 0 0 0.29492-0.45703v-14.092a0.49946 0.49946 0 0 0-0.5-0.5h-9.9785zm0.49805 0.99805h4.0234v4.0352h-4.0234zm5.0215 0h3.9922v4.0352h-3.9922zm4.9902 0h3.9922v4.0352h-3.9922zm-10.012 5.0332h4.0234v4.0352h-4.0234zm5.0215 0h3.9922v4.0352h-3.9922zm4.9902 0h3.9922v4.0352h-3.9922zm-10.012 5.0332h4.0234v2.1777c-1.6189-0.25188-2.9767 0.0047-4.0234 0.31641zm5.0215 0h3.9922v3.7852c-0.76262-0.10487-1.5339-0.27894-2.2461-0.68945-0.58364-0.33639-1.167-0.52112-1.7461-0.68945zm4.9902 0h3.9922v3.1543c-0.29709 0.12201-1.9116 0.70663-3.9922 0.68945z" color="#000000" fill="#363636" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <path fill="#fae3a8" fill-rule="evenodd" d="M5.022 5.994v3.999H1.03V5.994z" color="#000"/>
+    <path fill="#f4b9be" fill-rule="evenodd" d="M10.012 5.994v3.999H6.02V5.994z" color="#000"/>
+    <path fill="#fff" fill-rule="evenodd" d="M10.012.996v3.999H6.02V.996z" color="#000"/>
+    <path fill="#c8c8c8" fill-rule="evenodd" d="M5.022 10.992v2.999H1.03v-2.999z" color="#000"/>
+    <path fill="#e8e87d" fill-rule="evenodd" d="M15.002 5.994v3.999H11.01V5.994z" color="#000"/>
+    <path fill="#d5c190" fill-rule="evenodd" d="M10.012 10.992v3.999l-3.992-1v-2.999z" color="#000"/>
+    <path fill="#add49f" fill-rule="evenodd" d="M15.002 10.992v3.999H11.01v-3.999z" color="#000"/>
+    <path fill="#bac3de" fill-rule="evenodd" d="M5.022.996v3.999H1.03V.996z" color="#000"/>
+    <path fill="#ec9b97" fill-rule="evenodd" d="M15.002.996v3.999H11.01V.996z" color="#000"/>
+    <path fill="#050505" fill-opacity=".7" d="M.5 0a.5.5 0 0 0-.5.5v13.652a.5.5 0 0 0 .668.47c1.368-.489 4.054-1.064 6.6.403 3.778 2.178 8.437.023 8.437.023a.5.5 0 0 0 .295-.457V.5a.5.5 0 0 0-.5-.5H5.521zm.498.998h4.023v4.035H.998zm5.022 0h3.992v4.035H6.02zm4.99 0h3.992v4.035H11.01zM.998 6.031H5.02v4.035H.998zm5.021 0h3.992v4.035H6.02zm4.99 0h3.993v4.035h-3.993zM.997 11.064h4.024v2.178c-1.62-.252-2.977.005-4.024.317zm5.022 0h3.992v3.786c-.762-.105-1.534-.28-2.246-.69-.584-.336-1.167-.52-1.746-.69zm4.99 0h3.992v3.155c-.297.122-1.911.706-3.992.69z" color="#000" style="-inkscape-stroke:none"/>
 </svg>

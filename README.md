@@ -1,28 +1,32 @@
-## Colloid icon theme
+# Colloid-pastel icon theme
+A pastel spin on vinceliuice's [Colloid icon theme](https://github.com/vinceliuice/Colloid-icon-theme)
 
-![1](preview.png?raw=true)
+![1](preview.png)
 
-## Donate
 
-If you like my project, you can buy me a coffee:
+## Installation:
+Download and extract the [zip file](https://github.com/SueDonham/Colloid-pastel-icons/archive/refs/heads/main.zip) or open a terminal and run: 
+```
+git clone https://github.com/SueDonham/Colloid-pastel-icons.git
+``` 
 
-<span class="paypal"><a href="https://www.paypal.me/vinceliuice" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
 
-## Install tips
-
-Usage:  `./install.sh`  **[OPTIONS...]**
+[install.sh](./install.sh) script usage:  `./install.sh`  **[OPTIONS...]**
 
 ```
 -d, --dest DIR          Specify destination directory (Default: $HOME/.local/share/icons)
--n, --name NAME         Specify theme name (Default: Colloid)
--s, --scheme TYPES      Specify folder color scheme variant(s) [default|nord|dracula|all]
--t, --theme VARIANTS    Specify folder color variant(s) [default|purple|pink|red|orange|yellow|green|teal|grey|all] (Default: blue)
+-n, --name NAME         Specify theme name (Default: Colloid-pastel)
+-c, --folder COLORS     Specify folder color variant(s) [default|blue|pink|red|orange|yellow|green|teal|grey|all] (Default: purple)
 -h, --help              Show help
 ```
-> For example: install teal nord version -> run: `./install.sh -s nord -t teal`
+For example, to install a version with blue folders and call it Connie instead of Colloid-pastel, open a terminal in your Colloid-pastel-icons directory and run:
+```
+./install.sh -c blue -n Connie
+```
 
-> For more information, run: `./install.sh -h`
+For more information, run:
+```
+./install.sh -h
+```
 
-![1](folder-default.png?raw=true)
-![2](folder-nord.png?raw=true)
-![3](folder-dracula.png?raw=true)
+After installing the icon theme, the script will offer to install the matching [cursor theme](cursors/README.md), as well.

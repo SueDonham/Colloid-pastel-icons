@@ -1,6 +1,6 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g id="draw-geometry-line-perpendicular" transform="matrix(1.1237 0 0 1.1237 -754.01 -98.788)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0">
-  <path d="m683.6 101.65-10.974-13.238" stroke="#da0000" stroke-opacity=".72727"/>
-  <path d="m674.47 97.313 7.1053-5.3887" stroke="#363636"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0">
+        <path stroke="#d98c8c" stroke-opacity=".727" stroke-width="1.1237" d="M14.151 15.436 1.82.561"/>
+        <path stroke="#050505" stroke-opacity=".7" stroke-width="1.1237" d="m3.892 10.563 7.984-6.056"/>
+    </g>
 </svg>

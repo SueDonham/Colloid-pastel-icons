@@ -1,13 +1,10 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <style id="current-color-scheme" type="text/css">.ColorScheme-NeutralText {
-            color:#f67400;
-        }
-        .ColorScheme-Text {
-            color:#232629;
-        }</style>
- <g transform="translate(-3 -2.9995)">
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-18.999" y="-18.999" width="15.998" height="15.998" rx="8.001" ry="8.001" fill="#f67400" stroke-width="3.7794"/>
-  <path d="m11 3c-4.432 0-8 3.568-8 8 0 0.16818 0.0055 0.33446 0.015625 0.5 0.25676-4.197 3.7206-7.5 7.9844-7.5s7.7276 3.303 7.9844 7.5c0.01013-0.16554 0.01563-0.33182 0.01563-0.5 0-4.432-3.568-8-8-8z" fill="#ffffff" opacity=".1" stroke-width="3.7798"/>
-  <path d="m15 6-2 2-1-1-1.75 1.75 3 3 1.75-1.75-1-1 2-2v-0.5c0-0.277-0.223-0.5-0.5-0.5zm-6.25 4.25-1.75 1.75 1 1-2 2v0.5c0 0.277 0.223 0.5 0.5 0.5h0.5l2-2 1 1 1.75-1.75z" fill="#ffffff"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <style id="current-color-scheme" type="text/css">
+        .ColorScheme-NeutralText{color:#ffce99}.ColorScheme-Text{color:#232629}
+    </style>
+    <g transform="translate(-3 -3)">
+        <rect width="15.998" height="15.998" x="-18.999" y="-18.999" fill="#ffce99" stroke-width="3.779" rx="8.001" ry="8.001" transform="matrix(0 -1 -1 0 0 0)"/>
+        <path stroke-width="3.78" d="M11 3a7.982 7.982 0 0 0-7.984 8.5C3.272 7.303 6.736 4 11 4s7.728 3.303 7.984 7.5A7.982 7.982 0 0 0 11 3z" opacity=".2"/>
+        <path fill-opacity=".46" d="m15 6-2 2-1-1-1.75 1.75 3 3L15 10l-1-1 2-2v-.5c0-.277-.223-.5-.5-.5zm-6.25 4.25L7 12l1 1-2 2v.5c0 .277.223.5.5.5H7l2-2 1 1 1.75-1.75z"/>
+    </g>
 </svg>

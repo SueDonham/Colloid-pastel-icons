@@ -1,6 +1,3 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g transform='translate(-553 -97)'>
-        <path d='M566 103l-5 5-5-5z' fill='#363636'/>
-        
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <path fill="#050505" fill-opacity=".7" d="m13 6-5 5-5-5z"/>
 </svg>

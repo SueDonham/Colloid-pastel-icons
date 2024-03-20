@@ -1,10 +1,10 @@
-<svg width="16" height="16.012" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="7.5" cy="1.5" r="1.5" fill="#363636" stop-color="#000000" style="paint-order:stroke fill markers"/>
- <path d="m6 7v2c0 1.108 0.892 2 2 2h1v-1h-1c-0.554 0-1-0.446-1-1v-2h-1z" fill="#363636" stop-color="#000000" style="paint-order:stroke fill markers"/>
- <rect x="8" y="5" width="1" height="6" rx="0" ry="0" fill="#363636" stop-color="#000000" style="paint-order:stroke fill markers"/>
- <path d="m7 5c-0.554 0-1 0.446-1 1v1h1v-1h1v1h1v-1c0-0.554-0.446-1-1-1h-1z" fill="#363636" stop-color="#000000" style="paint-order:stroke fill markers"/>
- <path d="m8.4395 5.1465a0.5 0.5 0 0 0 0 0.70703l2 2a0.50005 0.50005 0 0 0 0.35352 0.14648h3a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-2.793l-1.8535-1.8535a0.5 0.5 0 0 0-0.70703 0z" color="#000000" fill="#363636" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <rect x="8" y="10" width="3" height="1" fill="#363636" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
- <path d="m11.123 10.015a0.5 0.5 0 0 0-0.37891 0.05469 0.5 0.5 0 0 0-0.17188 0.6875l3 5a0.5 0.5 0 0 0 0.6875 0.17188 0.5 0.5 0 0 0 0.17188-0.6875l-3-5a0.5 0.5 0 0 0-0.30859-0.22656z" color="#000000" fill="#363636" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <path d="m5 7.0352a4.506 4.506 0 0 0-4 4.4707 4.506 4.506 0 0 0 4.5059 4.5059 4.506 4.506 0 0 0 4.4707-4.0117h-1.0117a3.494 3.494 0 0 1-3.459 3 3.494 3.494 0 0 1-3.4941-3.4941 3.494 3.494 0 0 1 2.9883-3.4551v-1.0156z" fill="#363636" opacity=".35" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16.012">
+    <circle cx="7.5" cy="1.5" r="1.5" fill="#050505" fill-opacity=".7" style="paint-order:stroke fill markers"/>
+    <path fill="#050505" fill-opacity=".7" d="M6 7v2c0 1.108.892 2 2 2h1v-1H8c-.554 0-1-.446-1-1V7H6z" style="paint-order:stroke fill markers"/>
+    <rect width="1" height="6" x="8" y="5" fill="#050505" fill-opacity=".7" rx="0" ry="0" style="paint-order:stroke fill markers"/>
+    <path fill="#050505" fill-opacity=".7" d="M7 5c-.554 0-1 .446-1 1v1h1V6h1v1h1V6c0-.554-.446-1-1-1H7z" style="paint-order:stroke fill markers"/>
+    <path fill="#050505" fill-opacity=".7" d="M8.44 5.147a.5.5 0 0 0 0 .707l2 2a.5.5 0 0 0 .353.146h3a.5.5 0 0 0 .5-.5.5.5 0 0 0-.5-.5H11L9.147 5.147a.5.5 0 0 0-.708 0z" color="#000" style="-inkscape-stroke:none"/>
+    <path fill="#050505" fill-opacity=".7" d="M8 10h3v1H8z" style="paint-order:stroke fill markers"/>
+    <path fill="#050505" fill-opacity=".7" d="M11.123 10.015a.5.5 0 0 0-.379.055.5.5 0 0 0-.172.687l3 5a.5.5 0 0 0 .688.172.5.5 0 0 0 .172-.687l-3-5a.5.5 0 0 0-.309-.227z" color="#000" style="-inkscape-stroke:none"/>
+    <path fill="#050505" d="M5 7.035a4.506 4.506 0 0 0-4 4.47 4.506 4.506 0 0 0 4.506 4.507A4.506 4.506 0 0 0 9.976 12H8.966a3.494 3.494 0 0 1-3.46 3 3.494 3.494 0 0 1-3.493-3.494A3.494 3.494 0 0 1 5 8.051V7.035z" opacity=".35" style="paint-order:stroke fill markers"/>
 </svg>

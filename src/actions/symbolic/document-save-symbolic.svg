@@ -1,9 +1,9 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#363636;
-      }</style>
- </defs>
- <path class="ColorScheme-Text" d="m7 4v6.0859l-1.7988-1.7988-0.70703 0.70703 3.0059 3.0059 3.0059-3.0059-0.70703-0.70703-1.7988 1.7988v-6.0859h-1z" fill="currentColor"/>
- <path class="ColorScheme-Text" d="m4 0c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h8c1.662 0 3-1.338 3-3v-9l-4-4zm0 1h6v2c0 1.108 0.892 2 2 2h2v8c0 1.108-0.892 2-2 2h-8c-1.108 0-2-0.892-2-2v-10c0-1.108 0.892-2 2-2z" color="#363636" fill="currentColor"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text{color:#050505;opacity:.7}
+        </style>
+    </defs>
+    <path fill="currentColor" d="M7 4v6.086L5.201 8.287l-.707.707L7.5 12l3.006-3.006-.707-.707L8 10.086V4H7z" class="ColorScheme-Text"/>
+    <path fill="currentColor" fill-opacity=".7" d="M4 0C2.338 0 1 1.338 1 3v10c0 1.662 1.338 3 3 3h8c1.662 0 3-1.338 3-3V4l-4-4zm0 1h6v2c0 1.108.892 2 2 2h2v8c0 1.108-.892 2-2 2H4c-1.108 0-2-.892-2-2V3c0-1.108.892-2 2-2z" class="ColorScheme-Text" color="#050505"/>
 </svg>

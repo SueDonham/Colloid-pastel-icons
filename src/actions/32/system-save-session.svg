@@ -1,14 +1,14 @@
-<svg version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#363636;
-      }</style>
- </defs>
- <path d="m16 1c-8.2759 0-15 6.7241-15 15s6.7241 15 15 15 15-6.7241 15-15-6.7241-15-15-15z" color="#000000" fill="#77cb75" overflow="visible" stroke-width="1.0345"/>
- <path d="m16 6a10 10 0 0 0-10 10 10 10 0 0 0 10 10 10 10 0 0 0 10-10 10 10 0 0 0-10-10zm0 1a9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9 9 9 0 0 1 9-9z" fill="#ffffff" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"/>
- <g transform="translate(0,2.5)" fill="#ffffff" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-  <rect x="15.5" y="9" width="1" height="9" rx=".5" ry=".5" stroke-width=".90453"/>
-  <rect transform="rotate(-45)" x="-1.5607" y="17.187" width="1" height="7" rx=".5" ry=".5" stroke-width=".79772"/>
-  <rect transform="matrix(-.70711 -.70711 -.70711 .70711 0 0)" x="-24.188" y="-5.44" width="1" height="7" rx=".5" ry=".5" stroke-width=".79772"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg535" version="1.1" viewBox="0 0 32 32">
+    <defs id="defs521">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text{color:#050505;opacity:.7}
+        </style>
+    </defs>
+    <path id="path523" fill="#badbec" stroke-width="1.034" d="M16 1C7.724 1 1 7.724 1 16s6.724 15 15 15 15-6.724 15-15S24.276 1 16 1z" color="#000" overflow="visible"/>
+    <path id="path525" fill="#000" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" d="M16 6A10 10 0 0 0 6 16a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 16 6zm0 1a9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9 9 9 0 0 1 9-9z" style="fill:#000;fill-opacity:1"/>
+    <g id="g533" fill="#000" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" style="fill:#000;fill-opacity:1" transform="translate(0 2.5)">
+        <rect id="rect527" width="1" height="9" x="15.5" y="9" stroke-width=".905" rx=".5" ry=".5" style="fill:#000;fill-opacity:1"/>
+        <rect id="rect529" width="1" height="7" x="-1.561" y="17.187" stroke-width=".798" rx=".5" ry=".5" style="fill:#000;fill-opacity:1" transform="rotate(-45)"/>
+        <rect id="rect531" width="1" height="7" x="-24.188" y="-5.44" stroke-width=".798" rx=".5" ry=".5" style="fill:#000;fill-opacity:1" transform="scale(-1 1) rotate(-45)"/>
+    </g>
 </svg>

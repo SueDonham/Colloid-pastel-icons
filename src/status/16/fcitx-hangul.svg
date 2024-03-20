@@ -1,7 +1,4 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css"/>
- </defs>
- <path d="m5 2h2v1h-2zm6 1h1v3h2v1h-2v4h-1zm-8 1h6v1h-6zm3 2c1.597 0 3 1.058 3 2.5s-1.403 2.5-3 2.5-3-1.058-3-2.5 1.403-2.5 3-2.5zm0 1c-1.165 0-2 0.733-2 1.5s0.835 1.5 2 1.5 2-0.733 2-1.5-0.835-1.5-2-1.5zm-1 5h1v1h7v1h-8z" color="#363636" fill="currentColor"/>
- <path class="ColorScheme-Text" d="m3 0c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h9.9989c1.662 0 3-1.338 3-3v-10c0-1.662-1.338-3-3-3zm0 1h9.9989c1.108 0 2 0.892 2 2v10c0 1.108-0.892 2-2 2h-9.9989c-1.108 0-2-0.892-2-2v-10c0-1.108 0.892-2 2-2z" color="#363636" fill="currentColor"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <path fill="currentColor" fill-opacity=".7" d="M5 2h2v1H5zm6 1h1v3h2v1h-2v4h-1zM3 4h6v1H3zm3 2c1.597 0 3 1.058 3 2.5S7.597 11 6 11 3 9.942 3 8.5 4.403 6 6 6zm0 1c-1.165 0-2 .733-2 1.5S4.835 10 6 10s2-.733 2-1.5S7.165 7 6 7zm-1 5h1v1h7v1H5z" color="#050505"/>
+    <path fill="currentColor" fill-opacity=".7" d="M3 0C1.338 0 0 1.338 0 3v10c0 1.662 1.338 3 3 3h9.999c1.662 0 3-1.338 3-3V3c0-1.662-1.338-3-3-3zm0 1h9.999c1.108 0 2 .892 2 2v10c0 1.108-.892 2-2 2H3c-1.108 0-2-.892-2-2V3c0-1.108.892-2 2-2z" class="ColorScheme-Text" color="#050505"/>
 </svg>

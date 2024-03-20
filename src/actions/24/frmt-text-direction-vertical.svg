@@ -1,12 +1,9 @@
-<svg width="24" height="24" version="1.1">
-  <defs>
-    <style id="current-color-scheme" type="text/css">
-      .ColorScheme-Text { color:#363636; }
-    </style>
-  </defs>
- <path d="m4 1c-1.662 0-3 1.338-3 3v16c0 1.662 1.338 3 3 3h16c1.662 0 3-1.338 3-3v-16c0-1.662-1.338-3-3-3zm0 1h16c1.108 0 2 0.892 2 2v16c0 1.108-0.892 2-2 2h-16c-1.108 0-2-0.892-2-2v-16c0-1.108 0.892-2 2-2z" style="fill:currentColor" class="ColorScheme-Text"/>
- <path d="m17 4c-0.725 0-1.4567 0.21223-2.0312 0.67188s-0.96875 1.1892-0.96875 2.0781v4a0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5-0.5v-2.25h4v2.25a0.5 0.5 0 0 0 0.5 0.5 0.5 0.5 0 0 0 0.5-0.5v-4c0-0.88889-0.39419-1.6185-0.96875-2.0781s-1.3062-0.67188-2.0312-0.67188zm0 1c0.525 0 1.0433 0.16277 1.4062 0.45312s0.59375 0.68576 0.59375 1.2969v0.75h-4v-0.75c0-0.61111 0.23081-1.0065 0.59375-1.2969s0.88125-0.45312 1.4062-0.45312z" style="fill:currentColor" class="ColorScheme-Text"/>
- <path d="m17.5 20 2.5-3h-2v-5h-1v5h-2z" style="fill:currentColor" class="ColorScheme-Text"/>
- <path d="m11.5 20 2.5-3h-2v-13h-1v13h-2z" style="fill:currentColor" class="ColorScheme-Text"/>
- <path d="m5.5 20 2.5-3h-2v-13h-1v13h-2z" style="fill:currentColor" class="ColorScheme-Text"/>
+<svg width="24" height="24">
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text{color:#050505;opacity:.7}
+        </style>
+    </defs>
+    <path d="M4 1C2.338 1 1 2.338 1 4v16c0 1.662 1.338 3 3 3h16c1.662 0 3-1.338 3-3V4c0-1.662-1.338-3-3-3zm0 1h16c1.108 0 2 .892 2 2v16c0 1.108-.892 2-2 2H4c-1.108 0-2-.892-2-2V4c0-1.108.892-2 2-2z" class="ColorScheme-Text" style="fill:currentColor"/>
+    <path d="M17 4c-.725 0-1.457.212-2.031.672S14 5.862 14 6.75v4a.5.5 0 0 0 .5.5.5.5 0 0 0 .5-.5V8.5h4v2.25a.5.5 0 0 0 .5.5.5.5 0 0 0 .5-.5v-4c0-.889-.394-1.619-.969-2.078S17.725 4 17.001 4zm0 1c.525 0 1.043.163 1.406.453S19 6.14 19 6.75v.75h-4v-.75c0-.611.23-1.006.594-1.297S16.474 5 17 5zM17.5 20l2.5-3h-2v-5h-1v5h-2zM11.5 20l2.5-3h-2V4h-1v13H9zM5.5 20 8 17H6V4H5v13H3z" class="ColorScheme-Text" style="fill:currentColor"/>
 </svg>

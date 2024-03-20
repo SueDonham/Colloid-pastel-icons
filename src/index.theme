@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Colloid
-Comment=Flat clean style icon theme for linux.
+Name=Colloid-pastel
+Comment=A flat, pastel icon theme for linux.
 Inherits=hicolor
 Example=folder
 

@@ -1,10 +1,12 @@
-<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; }</style>
- </defs>
- <g class="ColorScheme-Text" fill="currentColor">
-  <path class="ColorScheme-Text" x="4" d="m6.9609 2c-1.0865 0-1.9609 0.87448-1.9609 1.9609v14.078c0 1.0865 0.87448 1.9609 1.9609 1.9609h8.0391c1.0865 0 1.9609-0.87448 1.9609-1.9609v-14.078c0-1.0865-0.87448-1.9609-1.9609-1.9609zm0.039062 1h7.961c0.554 0 1 0.446 1 1v14c0 0.554-0.446 1-1 1h-7.961c-0.554 0-1-0.446-1-1v-14c0-0.554 0.446-1 1-1z"/>
-  <rect class="ColorScheme-Text" x="8" y="2" width="6" height="2" rx="1" ry="1"/>
- </g>
- <rect class="ColorScheme-Text" x="8" y="17.5" width="6" height=".5" rx=".25" ry=".25" fill="currentColor" opacity=".5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text{color:#050505;opacity:.7}
+        </style>
+    </defs>
+    <g fill="currentColor" class="ColorScheme-Text">
+        <path d="M6.96 2C5.875 2 5 2.874 5 3.96V18.04c0 1.086.874 1.96 1.96 1.96H15c1.087 0 1.96-.874 1.96-1.96V3.96C16.96 2.874 16.087 2 15 2zM7 3h7.961c.554 0 1 .446 1 1v14c0 .554-.446 1-1 1H7c-.554 0-1-.446-1-1V4c0-.554.446-1 1-1z" class="ColorScheme-Text"/>
+        <rect width="6" height="2" x="8" y="2" class="ColorScheme-Text" rx="1" ry="1"/>
+    </g>
+    <rect width="6" height=".5" x="8" y="17.5" fill="currentColor" class="ColorScheme-Text" opacity=".5" rx=".25" ry=".25"/>
 </svg>

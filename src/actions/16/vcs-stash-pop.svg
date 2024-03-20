@@ -1,15 +1,11 @@
-<svg id="svg13" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg13" version="1.1" viewBox="0 0 16 16">
     <style id="current-color-scheme" type="text/css">
-        .ColorScheme-Text {
-            color:#363636;
-        }
-        .ColorScheme-Highlight {
-            color:#3daee9;
-        }</style>
+        .ColorScheme-Text{color:#050505;opacity:.7}
+    </style>
     <g stroke-linecap="square">
-        <path id="path3" class="ColorScheme-Text" fill="currentColor" d="m2 8v6h5v-6h-1v3h-3v-3zm1 4h3v1h-3z"/>
-        <path id="path5" class="ColorScheme-Highlight" fill="currentColor" d="m3 9h3v1h-3z"/>
-        <path id="path7" class="ColorScheme-Text" fill="currentColor" d="m5.9511719 2a2 2 0 0 0-1.9511719 2v4h1v-4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v7h1v-7a2 2 0 0 0-1.951172-2 2 2 0 0 0-0.048828 0h-4a2 2 0 0 0-0.048828 0z"/>
+        <path id="path3" fill="currentColor" d="M2 8v6h5V8H6v3H3V8zm1 4h3v1H3z" class="ColorScheme-Text"/>
+        <path id="path5" fill="currentColor" d="M3 9h3v1H3z" style="color:#a0b6cb"/>
+        <path id="path7" fill="currentColor" d="M5.951 2A2 2 0 0 0 4 4v4h1V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v7h1V4a2 2 0 0 0-1.951-2A2 2 0 0 0 10 2H6a2 2 0 0 0-.049 0z" class="ColorScheme-Text"/>
     </g>
-    <path id="path9" d="M 9.5 8.7929688 L 8.7929688 9.5 L 9.1464844 9.8535156 L 11.5 12.207031 L 13.853516 9.8535156 L 14.207031 9.5 L 13.5 8.7929688 L 13.146484 9.1464844 L 11.5 10.792969 L 9.8535156 9.1464844 L 9.5 8.7929688 z " class="ColorScheme-Text" fill="currentColor"/>
+    <path id="path9" fill="currentColor" d="m9.5 8.793-.707.707.353.354 2.354 2.353 2.354-2.353.353-.354-.707-.707-.354.353-1.646 1.647-1.646-1.647-.354-.353z" class="ColorScheme-Text"/>
 </svg>

@@ -1,10 +1,5 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g color='#363636' transform='translate(-613 -77)'>
-        <rect fill='#363636' height='1' overflow='visible' style='marker:none' width='14' x='614' y='78'/>
-        <rect fill='#363636' height='1' overflow='visible' style='marker:none' width='10' x='614' y='81'/>
-        <rect fill='#363636' height='1' overflow='visible' style='marker:none' width='10' x='614' y='87'/>
-        <rect fill='#363636' height='1' overflow='visible' style='marker:none' width='14' x='614' y='90'/>
-        <rect fill='#363636' height='1' overflow='visible' style='marker:none' width='14' x='614' y='84'/>
-        
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g fill="#050505" color="#050505">
+        <path d="M614 78h14v1h-14zM614 81h10v1h-10zM614 87h10v1h-10zM614 90h14v1h-14zM614 84h14v1h-14z" opacity=".7" overflow="visible" style="marker:none" transform="translate(-613 -77)"/>
     </g>
 </svg>

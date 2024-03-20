@@ -1,9 +1,11 @@
-<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#4285f4; }</style>
- </defs>
- <g transform="translate(4,4)" fill="#f55f55">
-  <path class="error" d="m5.5254 4.8184 2.4746 2.4746 2.4746-2.4746 0.70703 0.70703-2.4746 2.4746 2.4746 2.4746-0.70703 0.70703-2.4746-2.4746-2.4746 2.4746-0.70703-0.70703 2.4746-2.4746-2.4746-2.4746z"/>
-  <path d="m8 0a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm-0.09375 1a7 7 0 0 1 0.09375 0 7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 6.9062-7z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            
+        </style>
+    </defs>
+    <g fill="#ec9b97">
+        <path d="M9.525 8.818 12 11.293l2.475-2.475.707.707L12.707 12l2.475 2.475-.707.707L12 12.707l-2.475 2.475-.707-.707L11.293 12 8.818 9.525z" class="error"/>
+        <path d="M12 4a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm-.094 1A7 7 0 0 1 12 5a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 6.906-7z"/>
+    </g>
 </svg>

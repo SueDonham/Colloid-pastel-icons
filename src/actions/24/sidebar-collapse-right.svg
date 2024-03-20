@@ -1,13 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
-  <style type="text/css" id="current-color-scheme">
-        .ColorScheme-Text {
-            color:#363636;
-        }
-    </style>
-  <g transform="translate(1,1)">
-    <g class="ColorScheme-Text" fill="currentColor">
-      <path d="m19 3v16h-16v-16zm-5 1h-10v14h10z" stroke-linecap="square" stroke-linejoin="round"/>
-      <path d="m7.353516 6.6464844 4.353515 4.3535156-4.353515 4.353516-.707032-.707032 3.646485-3.646484-3.646485-3.6464844z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+    <g fill="currentColor" style="color:#050505;opacity:.7">
+        <path d="M20 4v16H4V4zm-5 1H5v14h10z"/>
+        <path d="M8.354 7.646 12.707 12l-4.353 4.354-.708-.708L11.293 12 7.646 8.354z"/>
     </g>
-  </g>
 </svg>

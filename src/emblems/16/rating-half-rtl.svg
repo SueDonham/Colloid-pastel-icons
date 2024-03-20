@@ -1,13 +1,10 @@
-<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-            color:#232629;
-        }</style>
- <g transform="translate(-3 -3)">
-  <circle transform="scale(1,-1)" cx="11" cy="-11" r="8" fill="#3daee9"/>
-  <path d="m11 3c-4.432 0-8 3.568-8 8 0 0.16818 0.0055 0.33446 0.015625 0.5 0.25676-4.197 3.7206-7.5 7.9844-7.5s7.7276 3.303 7.9844 7.5c0.01013-0.16554 0.01563-0.33182 0.01563-0.5 0-4.432-3.568-8-8-8z" fill="#ffffff" opacity=".1" stroke-width="3.7798"/>
-  <g fill="#ffffff">
-   <path class="ColorScheme-Highlight" d="m11 5.556 1.7 3.444 3.8 0.552-2.75 2.6805 0.649 3.785-3.399-1.787-3.399 1.787 0.649-3.785-2.75-2.6805 3.8-0.552z" color="#3daee9" opacity=".5"/>
-   <path d="m11 5.5566v8.6738l3.3984 1.7871-0.64844-3.7852 2.75-2.6797-3.8008-0.55273z"/>
-  </g>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g transform="translate(-3 -3)">
+        <circle cx="11" cy="-11" r="8" fill="#a3c9dc" transform="scale(1 -1)"/>
+        <path d="M11 3a7.982 7.982 0 0 0-7.984 8.5C3.272 7.303 6.736 4 11 4s7.728 3.303 7.984 7.5A7.982 7.982 0 0 0 11 3z" opacity=".2"/>
+        <g fill-opacity=".46">
+            <path d="M11 5.556 12.7 9l3.8.552-2.75 2.68.649 3.786L11 14.23l-3.399 1.787.649-3.785-2.75-2.68L9.3 9z" class="ColorScheme-Highlight" color="#a3c9dc" opacity=".5"/>
+            <path d="M11 5.557v8.673l3.398 1.787-.648-3.785 2.75-2.68L12.7 9z"/>
+        </g>
+    </g>
 </svg>

@@ -1,0 +1,15 @@
+# JetBrains:
+./idea/**
+
+
+# Kate:
+.*.kate-swp
+.swp.*
+
+
+# Linux/KDE:
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*

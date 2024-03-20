@@ -1,12 +1,9 @@
-<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg">
-    <style type="text/css" id="current-color-scheme">
-        .ColorScheme-Text {
-            color:#363636;
-        }
-        .ColorScheme-NegativeText {
-            color:#da4453;
-        }
-    </style><g transform="translate(1,1)">
-    <path id="strikethrough" d="m4 4.707031 15.292969 15.292969.707031-.707031-15.2929688-15.292969z" fill="#da4453"/>
-    <path d="m12 4a1 1 0 0 0-1 1 1 1 0 0 0 0.009766 0.128906 3.9999999 3.9999999 0 0 0-2.2402348 1.519532l0.7167969 0.716796a3 3 0 0 1 2.5136719-1.365234 3 3 0 0 1 3 3c0 3 0.585938 4 2.585938 6h-0.464844l1 1h0.878906v-1c-2-2-3-3-3-6a3.9999999 3.9999999 0 0 0-3.009766-3.871094 1 1 0 0 0 0.009766-0.128906 1 1 0 0 0-1-1zm-4.0527344 6.068359c-0.2253625 2.204726-1.2061347 3.19051-2.9472656 4.931641v1h8.878906l-1-1h-6.4648435c1.4796441-1.479644 2.1821771-2.415859 2.4492187-4.015625zm2.3222656 6.931641a2 2 0 0 0-0.2695312 1 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-0.271484-1z" class="ColorScheme-Text" fill="currentColor" fill-rule="evenodd"/>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+    <style id="current-color-scheme" type="text/css">
+        .ColorScheme-NegativeText{color:#d98c8c}
+    </style>
+    <g transform="translate(1 1)">
+        <path id="strikethrough" fill="#d98c8c" d="M4 4.707 19.293 20l.707-.707L4.707 4z"/>
+        <path fill="currentColor" fill-rule="evenodd" d="M12 4a1 1 0 0 0-1 1 1 1 0 0 0 .01.129 4 4 0 0 0-2.24 1.52l.716.716A3 3 0 0 1 12 6a3 3 0 0 1 3 3c0 3 .586 4 2.586 6h-.465l1 1H19v-1c-2-2-3-3-3-6a4 4 0 0 0-3.01-3.871A1 1 0 0 0 13 5a1 1 0 0 0-1-1zm-4.053 6.068C7.722 12.273 6.741 13.258 5 15v1h8.879l-1-1H6.414c1.48-1.48 2.182-2.416 2.45-4.016zM10.27 17a2 2 0 0 0-.27 1 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-.271-1z" style="color:#050505;opacity:.7"/>
+    </g>
+</svg>

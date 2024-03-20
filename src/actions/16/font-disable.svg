@@ -1,10 +1,4 @@
-<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-            color:#363636;
-        }
-        .ColorScheme-NegativeText {
-            color:#da4453;
-        }</style>
-    <path class="ColorScheme-Text" d="m6.3828 2-4.3828 11h1.3574l1.1895-3h4.7949c0.23616-0.49856 0.58683-0.93424 1.0234-1.2715l-2.6797-6.7285h-1.3027zm0.62305 1.3281 2.1211 5.6719h-4.1856z" fill="currentColor"/>
-    <path class="ColorScheme-NegativeText" d="m15 11.5a2.5 2.5 0 0 0-2.5-2.5 2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5m-1 0a1.5 1.5 0 0 1-0.14844 0.64453l-1.9966-1.9965a1.5 1.5 0 0 1 0.645-0.148 1.5 1.5 0 0 1 1.5 1.5m-0.85547 1.3516a1.5 1.5 0 0 1-0.64453 0.14844 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 0.14844-0.64453z" fill="currentColor"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+    <path fill="currentColor" d="M6.383 2 2 13h1.357l1.19-3h4.795a3.5 3.5 0 0 1 1.023-1.271L7.685 2H6.384zm.623 1.328L9.126 9H4.942z" style="color:#050505;opacity:.7"/>
+    <path fill="currentColor" d="M15 11.5A2.5 2.5 0 0 0 12.5 9a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5m-1 0a1.5 1.5 0 0 1-.148.645l-1.997-1.997A1.5 1.5 0 0 1 12.5 10a1.5 1.5 0 0 1 1.5 1.5m-.856 1.352A1.5 1.5 0 0 1 12.5 13a1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 .148-.644z" style="color:#d98c8c"/>
 </svg>
