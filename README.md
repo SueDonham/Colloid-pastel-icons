@@ -5,6 +5,10 @@ A pastel spin on vinceliuice's [Colloid icon theme](https://github.com/vinceliui
 
 
 ## Installation:
+### Easy way:
+Pre-built [icon](https://www.pling.com/p/2139476) and [cursor](https://www.pling.com/p/2139483/) themes are available for download on [Pling](https://www.pling.com/u/sdonham/products).
+
+### Fun way:
 Download and extract the [zip file](https://github.com/SueDonham/Colloid-pastel-icons/archive/refs/heads/main.zip) or open a terminal and run: 
 ```
 git clone https://github.com/SueDonham/Colloid-pastel-icons.git
@@ -29,4 +33,4 @@ For more information, run:
 ./install.sh -h
 ```
 
-After installing the icon theme, the script will offer to install the matching [cursor theme](cursors/README.md), as well.
+After installing the icon theme, the script will offer to install the matching [cursor themes](cursors/README.md), as well.

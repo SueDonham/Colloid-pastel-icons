@@ -17,7 +17,7 @@ fi
 # Copy light or dark cursor variant to DEST_DIR:
 copy_variant(){
 var=$1
-dest_dir=$DEST_DIR/$THEME_NAME-$var-cursors
+dest_dir=$DEST_DIR/$THEME_NAME-cursors-$var
 
 
 if [ -d "$dest_dir" ]; then
