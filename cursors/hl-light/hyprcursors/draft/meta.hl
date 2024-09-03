@@ -1,0 +1,12 @@
+hotspot_x = .1666666666
+hotspot_y = .8333333333
+
+define_size = 0, draft.svg, 50
+
+define_override = draft
+hotspot_x = .1666666666
+hotspot_y = .8333333333
+
+define_size = 0, draft.svg, 50
+
+define_override = draft

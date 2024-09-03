@@ -1,0 +1,12 @@
+hotspot_x = .5000000000
+hotspot_y = .8333333333
+
+define_size = 0, down-arrow.svg, 50
+
+define_override = down-arrow
+hotspot_x = .5000000000
+hotspot_y = .8333333333
+
+define_size = 0, down-arrow.svg, 50
+
+define_override = down-arrow
