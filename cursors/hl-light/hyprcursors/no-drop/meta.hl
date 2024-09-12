@@ -1,0 +1,7 @@
+hotspot_x = .1666666666
+hotspot_y = .1666666666
+
+define_size = 0, no-drop.svg, 50
+
+define_override = no-drop
+define_override = forbidden

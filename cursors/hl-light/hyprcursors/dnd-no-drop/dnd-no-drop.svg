@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+    <defs>
+        <filter id="b" width="1.444" height="1.444" x="-.222" y="-.222" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="1.202"/>
+        </filter>
+        <filter id="a" width="1.48" height="1.48" x="-.24" y="-.24" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="1.601"/>
+        </filter>
+    </defs>
+    <path d="M17 7.962c-.9 0-1.549.679-1.793 1.508-.344-.277-.74-.508-1.207-.508-1.09 0-2 .91-2 2v4.42c-.309-.196-.613-.42-1-.42-1.09 0-2 .91-2 2v5c0 .272.054.537.156.78A2.007 2.007 0 0 0 11 23.962h2.879l-.14-.01c.172.024.38.034.607 0l-.166.014H22c1.333 0 2.275-.814 2.644-1.553.37-.742.356-1.45.356-1.45v-8c0-1.091-.91-2-2-2-.387 0-.691.223-1 .42v-.42c0-1.091-.91-2-2-2-.468 0-.864.23-1.207.507-.244-.83-.893-1.508-1.793-1.508z" enable-background="new" filter="url(#a)" opacity=".35" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+    <path fill="#2c2c2c" d="M16 6.962c-.9 0-1.549.679-1.793 1.508-.344-.277-.74-.508-1.207-.508-1.09 0-2 .91-2 2v4.42c-.309-.196-.613-.42-1-.42-1.09 0-2 .91-2 2v5c0 .272.054.537.156.78A2.007 2.007 0 0 0 10 22.962h2.879l-.14-.01c.172.024.38.034.607 0l-.166.014H21c1.333 0 2.275-.814 2.644-1.553.37-.742.356-1.45.356-1.45v-8c0-1.091-.91-2-2-2-.387 0-.691.223-1 .42v-.42c0-1.091-.91-2-2-2-.468 0-.864.23-1.207.507-.244-.83-.893-1.508-1.793-1.508zm-3 5a1 1 0 0 0 .889.994l1 .112A1 1 0 0 0 16 12.073v.221a1 1 0 0 0 .889.994l1 .112a1 1 0 0 0 1.11-.994v.222a1 1 0 0 0 .89.994l1 .112a1 1 0 0 0 1.11-.995v7.223s-.013.291-.144.553-.188.447-.855.447h-7.82a1 1 0 0 0-.166.014h.005a1 1 0 0 0-.14-.01H10v-5a1 1 0 0 0 1 1h1a1 1 0 0 0 1-1v-3z" enable-background="new" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+    <path fill="#fff" d="M16 7.962c-.554 0-1 .446-1 1v3.111l-1-.11v-2c0-.555-.446-1-1-1s-1 .445-1 1v6h-1c0-.555-.446-1-1-1s-1 .445-1 1v5a.986.986 0 0 0 .293.707 1 1 0 0 0 .707.292h2.879c.099.014.2.017.3 0H21c2 0 2-2 2-2v-8c0-.554-.446-1-1-1s-1 .446-1 1v.778l-1-.112V9.962c0-.554-.446-1-1-1s-1 .446-1 1v2.444l-1-.112V8.962c0-.554-.446-1-1-1z" enable-background="new"/>
+    <path fill="#2c2c2c" d="M11 13.962v4h1v-4z" enable-background="new"/>
+    <path fill="none" d="M4 3.962h24v24H4z" opacity=".2"/>
+    <path d="M23.468 17a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13z" filter="url(#b)" opacity=".2" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+    <circle cx="23.5" cy="22.5" r="6.5" fill="#de8a8a"/>
+    <path fill="#fff" d="M19.611 18.611a5.5 5.5 0 0 0 0 7.778 5.5 5.5 0 0 0 7.778 0 5.5 5.5 0 0 0 0-7.778 5.5 5.5 0 0 0-7.778 0zm.707.707a4.5 4.5 0 0 1 5.987-.33l-6.318 6.318a4.5 4.5 0 0 1 .331-5.988zm.377 6.694 6.319-6.318a4.5 4.5 0 0 1-.332 5.988 4.5 4.5 0 0 1-5.987.33z"/>
+</svg>
