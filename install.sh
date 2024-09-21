@@ -65,7 +65,7 @@ install() {
   if [[ ${variant} == '-dark' ]]; then
     mkdir -p ${THEME_DIR}/{apps,categories,devices,emblems,mimetypes,places,status}
     cp -r "${SRC_DIR}"/src/actions   ${THEME_DIR}
-    cp -r "${SRC_DIR}"/src/apps/symbolic ${THEME_DIR}/apps
+    cp -r "${SRC_DIR}"/src/apps/{22,symbolic} ${THEME_DIR}/apps
     cp -r "${SRC_DIR}"/src/categories/symbolic ${THEME_DIR}/categories
     cp -r "${SRC_DIR}"/src/emblems/symbolic    ${THEME_DIR}/emblems
     cp -r "${SRC_DIR}"/src/mimetypes/symbolic  ${THEME_DIR}/mimetypes

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22" height="22" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#050505;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Accent {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#050505;
+      }</style>
+ <g id="kalarm" transform="translate(-326 -534.36)">
+  <rect id="rect4178" x="326" y="534.36" width="22" height="22" fill="none"/>
+  <path id="path4183" class="ColorScheme-Text" d="m337 537.36a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 0.16797 0.68555 5 5 0 0 0-3.668 4.8144 3.5 6 0 0 1-3 5.9316v1.0215 0.0469h11.088a1.5 1.5 0 0 0-0.0879 0.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-0.0879-0.5h2.0879v-0.0469-1.0215a3.5 6 0 0 1-3-5.9316 5 5 0 0 0-3.666-4.8184 1.5 1.5 0 0 0 0.16602-0.68164 1.5 1.5 0 0 0-1.5-1.5zm0 3a4 4 0 0 1 4 4 4.5 7 0 0 0 2.1953 6h-12.391a4.5 7 0 0 0 2.1953-6 4 4 0 0 1 4-4z" fill="currentColor"/>
+ </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22" height="22" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#050505;
+      }</style>
+ <g id="kgpg">
+  <path id="path1" class="ColorScheme-Text" d="m11 3c-2.216 0-4 1.784-4 4v3h-2v2 7h1 10 1v-9h-1-1v-3c0-2.216-1.784-4-4-4zm0 1c1.662 0 3 1.561 3 3.5v2.5h-6v-2.5c0-1.939 1.338-3.5 3-3.5zm-5 7h10v7h-10z" fill="currentColor"/>
+  <rect id="rect1" width="22" height="22" fill="none"/>
+ </g>
+</svg>

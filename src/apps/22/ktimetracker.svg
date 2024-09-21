@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg39" width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <radialGradient id="a" cx="11" cy="12" r="6" gradientUnits="userSpaceOnUse">
+  <stop id="stop2" stop-color="#65ab77" offset="0"/>
+  <stop id="stop4" stop-color="#add49f" offset="1"/>
+ </radialGradient>
+ <linearGradient id="b" x1="9" x2="16.052" y1="11" y2="18.052" gradientUnits="userSpaceOnUse">
+  <stop id="stop7" offset="0"/>
+  <stop id="stop9" stop-opacity="0" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x1="204.87" x2="204.87" y1="197.2" y2="198.84" gradientTransform="matrix(2.4296 2.4296 -2.4296 2.4296 1.3643 -972.83)" gradientUnits="userSpaceOnUse">
+  <stop id="stop12" stop-color="#9b9ea2" offset="0"/>
+  <stop id="stop14" stop-color="#1a1b1e" offset="1"/>
+ </linearGradient>
+ <g id="g23" stroke-width="3">
+  <path id="path17" d="m11 6h4l2-2 2.5 2.5-1.5 1.63v3.87h-7z" fill="url(#c)"/>
+  <path id="path19" d="m7 2v2h8v-2zm4 2a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8z" fill="#686b6f"/>
+  <circle id="circle21" cx="11" cy="12" r="6" fill="#eff8ff"/>
+ </g>
+ <path id="path25" d="m11 11-1.4141 2.4141 5.4141 5.5859h4v-6l-2-2z" fill="url(#b)" opacity=".2"/>
+ <g id="g37" stroke-width="3">
+  <path id="path27" d="m11 6a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-6-6zm0 1a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5z" opacity=".15"/>
+  <path id="path29" d="m11 6v6h6a6 6 0 0 0-6-6z" fill="url(#a)"/>
+  <path id="path31" d="m11 11h6v2h-6z" fill="#4f4f4f"/>
+  <path id="path33" transform="matrix(.70711 -.70711 .70711 .70711 0 0)" d="m1.2929 16.263c0 1.1046-0.89543 2-2 2-1.1046 0-1.9997-0.89543-1.9997-2s0.89513-2 1.9997-2c1.1046 0 2 0.89543 2 2z" fill="#686b6f"/>
+  <circle id="circle35" cx="11" cy="12" r="1" fill="#9b9ea2"/>
+ </g>
+</svg>

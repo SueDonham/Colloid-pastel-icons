@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22" height="22" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#050505;
+      }</style>
+ <g id="22-22-cantata" transform="translate(0,-10)">
+  <path id="path7" class="ColorScheme-Text" d="m11 13a7.9998 8 0 0 0-8 8 7.9998 8 0 0 0 8 8 7.9998 8 0 0 0 8-8 7.9998 8 0 0 0-8-8zm0 1a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z" fill="currentColor" fill-opacity=".6"/>
+  <path id="path9" class="ColorScheme-Text" d="m10 13v11.045c-0.83718-0.3612-1.8093-0.26358-2.8457 0.16602-1.7348 0.7184-2.7294 2.2932-2.2227 3.5176 0.50678 1.2248 2.3254 1.6368 4.0605 0.91797 1.3688-0.5684 2.207-2.0455 2.207-2.9355v-8.7109s3.2012 0.39961 3.2012 3.5996c0 2.4-0.80083 3.2012-2.8008 5.2012 2-1.2 3.5996-2.8012 3.5996-5.2012 0-3.2-2.4692-4.6391-3.1016-5.2715-0.39999-0.4-0.89844-1.9277-0.89844-1.9277l-1.1992-0.40039z" fill="currentColor"/>
+  <path id="path11" d="m0 10v22h22v-22h-22z" fill="none"/>
+ </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22" height="22" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#050505;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Accent {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#050505;
+      }</style>
+ <g id="kopete">
+  <path id="rect4144" class="ColorScheme-Text" d="m3 3v12h3v4l4-4h9v-12zm1 1h14v10h-14zm9.2344 0.5293-0.23828 0.47656c1.2589 0.94222 2.0011 2.4217 2.0039 3.9941-0.0028 1.5724-0.74505 3.0519-2.0039 3.9941l0.23828 0.47266c1.6929-0.84563 2.7633-2.5745 2.7656-4.4668-8.63e-4 -1.8937-1.0715-3.6244-2.7656-4.4707zm-7.2344 0.4707v2h2v-2zm3 3v2h4v-2zm-3 3v2h2v-2z" fill="currentColor"/>
+  <rect id="rect4186" width="22" height="22" fill="none"/>
+ </g>
+</svg>
