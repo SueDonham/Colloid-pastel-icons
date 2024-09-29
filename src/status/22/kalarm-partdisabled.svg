@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22" height="22" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#a0b6cb;
+      }
+      .ColorScheme-ButtonText {
+        color:#363636;
+      }</style>
+ <g id="kalarm-partdisabled" transform="translate(-326 -534.36)">
+  <rect id="rect4178-6-3" x="326" y="534.36" width="22" height="22" fill="none"/>
+  <path id="path17" class="ColorScheme-Text" transform="translate(282 534.36)" d="m55 3c-0.82843 0-1.5 0.67157-1.5 1.5 6.63e-4 0.23862 0.05825 0.47364 0.16797 0.68555-2.1654 0.59851-3.6658 2.5678-3.668 4.8145-2e-3 2.98-1.2795 5.5059-3 5.9316v1.0684h10v-1h-8.1953c1.359-1.2605 2.1925-3.5387 2.1953-6 0-2.2091 1.7909-4 4-4s4 1.7909 4 4c0.0029 1.0388 0.1543 2.0636 0.44336 3h1.0293c-0.3085-0.91149-0.47152-1.9462-0.47266-3-1.82e-4 -2.2475-1.5-4.2187-3.666-4.8184 0.10844-0.2109 0.16534-0.4445 0.16602-0.68164 0-0.82843-0.67157-1.5-1.5-1.5z" fill="currentColor"/>
+  <path id="path19" class="ColorScheme-Text" d="m340 548.36v6h5v-6z" fill="currentColor" fill-opacity=".6"/>
+ </g>
+</svg>

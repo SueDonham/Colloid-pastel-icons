@@ -1,3 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <path fill="#050505" fill-opacity=".7" d="M7 1v1H5.5C3.561 2 2 3.561 2 5.5S3.561 9 5.5 9H7v5H3v1h4v1h1v-1h1.5c1.939 0 3.5-1.561 3.5-3.5S11.439 8 9.5 8H8V3h4V2H8V1H7zM5.5 3H7v5H5.5C4.115 8 3 6.885 3 5.5S4.115 3 5.5 3zM8 9h1.5c1.385 0 2.5 1.115 2.5 2.5S10.885 14 9.5 14H8V9z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -1036.4)">
+  <path d="m7 1037.4v1h-1.5c-1.939 0-3.5 1.561-3.5 3.5s1.561 3.5 3.5 3.5h1.5v5h-4v1h4v1h1v-1h1.5c1.939 0 3.5-1.561 3.5-3.5s-1.561-3.5-3.5-3.5h-1.5v-5h4v-1h-4v-1h-1zm-1.5 2h1.5v5h-1.5c-1.385 0-2.5-1.115-2.5-2.5s1.115-2.5 2.5-2.5zm2.5 6h1.5c1.385 0 2.5 1.115 2.5 2.5s-1.115 2.5-2.5 2.5h-1.5v-5z" fill="#363636" stroke-linecap="round" stroke-linejoin="round"/>
+ </g>
 </svg>

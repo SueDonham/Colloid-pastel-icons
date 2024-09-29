@@ -1,14 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
-    <path fill="#ffe7a9" d="M8 16A10 10 0 0 1 18 6a10 10 0 0 1 10 10 10 10 0 0 1-10 10A10 10 0 0 1 8 16z"/>
-    <g fill="#ffe7a9" transform="translate(0 -1020.4)">
-        <rect width="2" height="3" x="17" y="1022.4" ry="1"/>
-        <rect width="2" height="3" x="17" y="1047.4" ry="1"/>
-        <rect width="2" height="3" x="1035.4" y="-32" ry="1" transform="rotate(90)"/>
-        <rect width="2" height="3" x="1035.4" y="-7" ry="1" transform="rotate(90)"/>
-        <rect width="2" height="3" x="-721.09" y="731.55" ry="1" transform="rotate(-45)"/>
-        <rect width="2" height="3" x="-721.09" y="756.55" ry="1" transform="rotate(-45)"/>
-        <rect width="2" height="3" x="744.55" y="706.09" ry="1" transform="rotate(45)"/>
-        <rect width="2" height="3" x="744.55" y="731.09" ry="1" transform="rotate(45)"/>
-    </g>
-    <path d="M10.98 9A10 10 0 0 0 1 19a10 10 0 0 0 10 10 10 10 0 0 0 .019 0h8.98a7 7 0 0 0 7-7 7 7 0 0 0-6.833-6.998A10 10 0 0 0 11 9a10 10 0 0 0-.02 0z" opacity=".9" style="fill:#f2f2f2"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <path d="m8 16a10 10 0 0 1 10-10 10 10 0 0 1 10 10 10 10 0 0 1-10 10 10 10 0 0 1-10-10z" fill="#f3dea4"/>
+ <g transform="translate(0,-1020.4)" fill="#f3dea4">
+  <rect x="17" y="1022.4" width="2" height="3" ry="1"/>
+  <rect x="17" y="1047.4" width="2" height="3" ry="1"/>
+  <rect transform="rotate(90)" x="1035.4" y="-32" width="2" height="3" ry="1"/>
+  <rect transform="rotate(90)" x="1035.4" y="-7" width="2" height="3" ry="1"/>
+  <rect transform="rotate(-45)" x="-721.09" y="731.55" width="2" height="3" ry="1"/>
+  <rect transform="rotate(-45)" x="-721.09" y="756.55" width="2" height="3" ry="1"/>
+  <rect transform="rotate(45)" x="744.55" y="706.09" width="2" height="3" ry="1"/>
+  <rect transform="rotate(45)" x="744.55" y="731.09" width="2" height="3" ry="1"/>
+ </g>
+ <path d="m10.98 9a10 10 0 0 0-9.9805 10 10 10 0 0 0 10 10 10 10 0 0 0 0.019531 0h8.9805a7 7 0 0 0 7-7 7 7 0 0 0-6.834-6.998 10 10 0 0 0-9.166-6.002 10 10 0 0 0-0.019531 0z" fill="#f2f2f2" opacity=".9"/>
 </svg>

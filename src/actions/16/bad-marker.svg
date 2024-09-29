@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <path fill="#050505" fill-opacity=".7" d="M1 8v1h14V8z"/>
-    <path fill="#ec9b97" d="m3.02 2.313-.708.707L12.98 13.688l.707-.708z"/>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m1 8v1h14v-1z" fill="#363636"/>
+ <path d="m3.0195 2.3125-0.70703 0.70703 10.668 10.668 0.70703-0.70703z" fill="#d19494"/>
 </svg>

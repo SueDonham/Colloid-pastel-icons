@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <path fill="#050505" fill-opacity=".7" d="M8 16a8 8 0 0 1-8-8 8 8 0 0 1 8-8 8 8 0 0 1 8 8 8 8 0 0 1-8 8zm-.094-1A7 7 0 0 0 8 15a7 7 0 0 0 7-7 7 7 0 0 0-7-7 7 7 0 0 0-7 7 7 7 0 0 0 6.906 7z"/>
-    <path fill="#050505" fill-opacity=".7" d="M8.485 1.828h4v1h-4z" style="paint-order:fill markers stroke" transform="scale(1 -1) rotate(-45)"/>
-    <path fill="#050505" fill-opacity=".7" d="M-2.828-9.485h4v1h-4z" style="paint-order:fill markers stroke" transform="rotate(135)"/>
-    <path fill="#050505" fill-opacity=".7" d="M7.5-12h1v7h-1z" style="paint-order:fill markers stroke" transform="scale(1 -1)"/>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m8 16a8 8 0 0 1-8-8 8 8 0 0 1 8-8 8 8 0 0 1 8 8 8 8 0 0 1-8 8zm-0.09375-1a7 7 0 0 0 0.09375 0 7 7 0 0 0 7-7 7 7 0 0 0-7-7 7 7 0 0 0-7 7 7 7 0 0 0 6.9062 7z" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <rect transform="matrix(.70711 .70711 .70711 -.70711 0 0)" x="8.4853" y="1.8283" width="4" height="1" fill="#363636" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" style="paint-order:fill markers stroke"/>
+ <rect transform="rotate(135)" x="-2.8284" y="-9.4853" width="4" height="1" fill="#363636" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" style="paint-order:fill markers stroke"/>
+ <rect transform="scale(1,-1)" x="7.5" y="-12" width="1" height="7" fill="#363636" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" style="paint-order:fill markers stroke"/>
 </svg>

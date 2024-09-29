@@ -1,9 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <style id="current-color-scheme" type="text/css">
-        .ColorScheme-Highlight{color:#a3c9dc}
-    </style>
-    <rect width="16" height="16" fill="currentColor" class="ColorScheme-Highlight" rx="2"/>
-    <path fill="currentColor" fill-opacity=".6" d="M2 0C.892 0 0 .892 0 2v12c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2V2c0-1.108-.892-2-2-2zm0 1h12c.554 0 1 .446 1 1v12c0 .554-.446 1-1 1H2c-.554 0-1-.446-1-1V2c0-.554.446-1 1-1z" class="ColorScheme-Highlight"/>
-    <path fill-opacity=".2" d="M2 0C.892 0 0 .892 0 2v12c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2V2c0-1.108-.892-2-2-2zm0 1h12c.554 0 1 .446 1 1v12c0 .554-.446 1-1 1H2c-.554 0-1-.446-1-1V2c0-.554.446-1 1-1z" class="ColorScheme-Highlight"/>
-    <path fill-opacity=".46" d="m8 4-6 6 1.414 1.414L8 6.828l4.586 4.586L14 10zm7 10a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1zm-6 0a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1zm3 0a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight {
+            color:#9fbac6;
+        }
+        .ColorScheme-Text {
+            color:#5e5e5e;
+        }</style>
+ <rect class="ColorScheme-Highlight" width="16" height="16" rx="2" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="M2 0C.892 0 0 .892 0 2v12c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2V2c0-1.108-.892-2-2-2zm0 1h12c.554 0 1 .446 1 1v12c0 .554-.446 1-1 1H2c-.554 0-1-.446-1-1V2c0-.554.446-1 1-1z" fill="currentColor" fill-opacity=".6"/>
+ <g fill="#fff">
+  <path d="M8 4l-6 6 1.414 1.414L8 6.828l4.586 4.586L14 10z"/>
+  <path d="m15 14a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1z"/>
+  <path d="m9 14a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1z"/>
+  <path d="m12 14a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1z"/>
+ </g>
 </svg>

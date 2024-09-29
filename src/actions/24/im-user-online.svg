@@ -1,4 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-    <path d="M12 4a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm0 1a3 3 0 0 1 3 3 3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3zm0 8a8 8 0 0 0-7.928 7H5.08A7 7 0 0 1 12 14a7 7 0 0 1 1 .08v-1.01a8 8 0 0 0-1-.07zm4.5 0a3.5 3.5 0 0 0-3.5 3.5 3.5 3.5 0 0 0 3.5 3.5 3.5 3.5 0 0 0 3.5-3.5 3.5 3.5 0 0 0-3.5-3.5z" style="fill:#add49f"/>
-    <path d="m18 15-2 2-1-1-1 1 2 2 3-3-1-1z" style="fill:#000;fill-rule:evenodd"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="im-user-online.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20">
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect547"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-7.3220339"
+     inkscape:cy="12.152542"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     style="fill:#aac69f"
+     d="M 12 4 A 3.99999 4.00003 0 0 0 8 8 A 3.99999 4.00003 0 0 0 12 12 A 3.99999 4.00003 0 0 0 16 8 A 3.99999 4.00003 0 0 0 12 4 z M 12 5 A 3 3.00003 0 0 1 15 8 A 3 3.00003 0 0 1 12 11 A 3 3.00003 0 0 1 9 8 A 3 3.00003 0 0 1 12 5 z M 12 13 A 7.99995 8.00003 0 0 0 4.0722656 20 L 5.0800781 20 A 6.99996 7.00003 0 0 1 12 14 A 6.99996 7.00003 0 0 1 13 14.080078 L 13 13.070312 A 7.99995 8.00003 0 0 0 12 13 z M 16.5 13 A 3.5 3.5 0 0 0 13 16.5 A 3.5 3.5 0 0 0 16.5 20 A 3.5 3.5 0 0 0 20 16.5 A 3.5 3.5 0 0 0 16.5 13 z "
+     id="path10"
+     clip-path="none" />
+  <path
+     style="display:block;fill:#4d4d4d;fill-rule:evenodd"
+     d="m 18,15 -2,2 -1,-1 -1,1 2,2 3,-3 z"
+     id="path545" />
 </svg>

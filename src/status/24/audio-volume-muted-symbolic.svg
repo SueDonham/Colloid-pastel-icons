@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
-    <path fill="#050505" d="M12 9v1l2 2-2 2v1h1l2-2 2 2h1v-1l-2-2 2-2V9h-1l-2 2-2-2z" class="warning" color="#000" opacity=".35" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
-    <path fill="#050505" fill-opacity=".7" fill-rule="evenodd" d="m10 7-3 3H5c-.554 0-1 .445-1 1v2c0 .553.446 1 1 1h2l3 3z" opacity=".35" style="paint-order:normal"/>
-</svg>

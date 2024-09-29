@@ -1,25 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64">
-    <defs>
-        <linearGradient id="a" x1="32.432" x2="32.432" y1="4.138" y2="23.904" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#d1d1d1"/>
-            <stop offset="1" stop-color="#a6a6a6"/>
-        </linearGradient>
-    </defs>
-    <path fill="none" d="M11.768 1.169h39.136v13.504H11.768z"/>
-    <path fill="url(#a)" d="M32 3C19.256 3 8.924 5.583 8.924 8.77l.04.33c.688 3.032 10.737 5.438 23.036 5.438 12.3 0 22.352-2.407 23.036-5.439l.04-.33C55.076 5.583 44.744 3 32 3z" opacity=".6"/>
-    <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAAVCAYAAADvoQY8AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAVJJREFUWIXdltuOwyAMRAnp//9x YV8gmgxj7GxJW9USwrkAPli+pPQDsn14PUp9hxH87xbQLakBXT1LeTjflXHbROc1llQxK12tGWQG oYzNoPNIYlZiAfAoaQSSIAoCDckw5xQDiUJEAArpEoYh0KBMY59AeIZ7QBbEE0A2eH8CQQgG2GEg zH/jIAKCQKWdVxrMs30fPKI8gQAPglBGr0jTFfbpMB2gpPEM9MgBwbfbQTwPrBJrv9zm2uzB2Dig My2yAvZOABbOiF4SSQxhZQvO43eKl3qHOrLTBurWPQ+s8IyqBZhie3Bjyj1gEMLL7VZL8Kpn1M1j RuJxCuqUztkJPxR411OdCvIrRc4yngG42KEHBi9Yh1oVmyv3nW2HVbGl92eHqdjwKvZVCK9iRxrD kPvVLb+ri3Wbv+iB1r9WLFyBmOnqWcqKlmGV3F1/vlv+ANnpsi80YU39AAAAAElFTkSuQmCC" width="49" height="21" x="7.5" y="45.196" image-rendering="optimizeQuality" preserveAspectRatio="none"/>
-    <g transform="translate(.146 .391)">
-        <rect width="19.131" height="18.188" x="30.006" y="-5.038" fill="#8eb9ce" rx="2" ry="2" style="paint-order:markers stroke fill" transform="rotate(9.354)"/>
-        <rect width="26.529" height="12.697" x="22.852" y="15.598" fill="#eabc8a" rx="2" ry="2" style="paint-order:markers stroke fill" transform="matrix(.96074 -.27746 .26384 .96457 0 0)"/>
-        <rect width="16.051" height="13.394" x="18.869" y="1.022" fill="#b89a7a" rx="2" ry="2" style="paint-order:markers stroke fill"/>
-        <rect width="24.624" height="15.533" x="9.055" y="14.601" fill="#ffe7a9" rx="1.934" ry="1.842" style="paint-order:markers stroke fill" transform="matrix(.93988 -.34149 .57208 .82019 0 0)"/>
-        <rect width="13.348" height="10.244" x="9.584" y="4.011" fill="#9393ac" rx="2" ry="2" style="paint-order:markers stroke fill" transform="rotate(-10.551)"/>
-        <rect width="16.316" height="10.723" x="14.823" y="-12.148" fill="#c5b3cd" rx="2" ry="2" style="paint-order:markers stroke fill" transform="rotate(37.652)"/>
-        <rect width="14.611" height="12.624" x="34.802" y="-5.449" fill="#f09da5" rx="2" ry="2" style="paint-order:markers stroke fill" transform="rotate(15.694)"/>
-        <rect width="20.16" height="13.272" x="13.677" y="17.154" fill="#a8decc" rx="2.05" ry="1.722" style="paint-order:markers stroke fill" transform="matrix(.87335 -.48709 .28252 .95926 0 0)"/>
-        <rect width="21.823" height="8.554" x="11.47" y="-6.646" fill="#add49f" rx="2" ry="2" style="paint-order:markers stroke fill" transform="rotate(37.225)"/>
-        <rect width="12.192" height="11.693" x="27.901" y="-15.128" fill="#eeac7c" rx="2" ry="2" style="paint-order:markers stroke fill" transform="matrix(.77563 .63119 -.63614 .77157 0 0)"/>
-        <rect width="13.343" height="8.448" x="36.309" y="18.623" fill="#d39dc1" rx="2" ry="2" style="paint-order:markers stroke fill" transform="rotate(-11.845)"/>
-    </g>
-    <path fill="#f5f5f5" d="m8.924 8.768 5.525 44.978c0 4.16 7.869 7.533 17.575 7.533 9.707 0 17.576-3.372 17.576-7.533l5.476-44.978c-.001 3.186-10.332 5.769-23.076 5.769S8.925 11.954 8.924 8.768z" opacity=".915"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="32.432" x2="32.432" y1="4.138" y2="23.904" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d1d1d1" offset="0"/>
+   <stop stop-color="#a6a6a6" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="M11.768 1.169h39.136v13.504H11.768z" fill="none"/>
+ <path d="M32 3C19.256 3 8.924 5.583 8.924 8.77l.04.33c.688 3.032 10.737 5.438 23.036 5.438 12.3 0 22.352-2.407 23.036-5.439l.04-.33C55.076 5.583 44.744 3 32 3z" fill="url(#a)" opacity=".6"/>
+ <image x="7.5" y="45.196" width="49" height="21" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAAVCAYAAADvoQY8AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAVJJREFUWIXdltuOwyAMRAnp//9x YV8gmgxj7GxJW9USwrkAPli+pPQDsn14PUp9hxH87xbQLakBXT1LeTjflXHbROc1llQxK12tGWQG oYzNoPNIYlZiAfAoaQSSIAoCDckw5xQDiUJEAArpEoYh0KBMY59AeIZ7QBbEE0A2eH8CQQgG2GEg zH/jIAKCQKWdVxrMs30fPKI8gQAPglBGr0jTFfbpMB2gpPEM9MgBwbfbQTwPrBJrv9zm2uzB2Dig My2yAvZOABbOiF4SSQxhZQvO43eKl3qHOrLTBurWPQ+s8IyqBZhie3Bjyj1gEMLL7VZL8Kpn1M1j RuJxCuqUztkJPxR411OdCvIrRc4yngG42KEHBi9Yh1oVmyv3nW2HVbGl92eHqdjwKvZVCK9iRxrD kPvVLb+ri3Wbv+iB1r9WLFyBmOnqWcqKlmGV3F1/vlv+ANnpsi80YU39AAAAAElFTkSuQmCC"/>
+ <g transform="translate(.146 .391)">
+  <rect transform="rotate(9.354)" x="30.006" y="-5.038" width="19.131" height="18.188" rx="2" ry="2" fill="#8eb9ce" style="paint-order:markers stroke fill"/>
+  <rect transform="matrix(.96074 -.27746 .26384 .96457 0 0)" x="22.852" y="15.598" width="26.529" height="12.697" rx="2" ry="2" fill="#eabc8a" style="paint-order:markers stroke fill"/>
+  <rect x="18.869" y="1.022" width="16.051" height="13.394" rx="2" ry="2" fill="#b89a7a" style="paint-order:markers stroke fill"/>
+  <rect transform="matrix(.93988 -.34149 .57208 .82019 0 0)" x="9.055" y="14.601" width="24.624" height="15.533" rx="1.934" ry="1.842" fill="#ffe7a9" style="paint-order:markers stroke fill"/>
+  <rect transform="rotate(-10.551)" x="9.584" y="4.011" width="13.348" height="10.244" rx="2" ry="2" fill="#9393ac" style="paint-order:markers stroke fill"/>
+  <rect transform="rotate(37.652)" x="14.823" y="-12.148" width="16.316" height="10.723" rx="2" ry="2" fill="#c5b3cd" style="paint-order:markers stroke fill"/>
+  <rect transform="rotate(15.694)" x="34.802" y="-5.449" width="14.611" height="12.624" rx="2" ry="2" fill="#f09da5" style="paint-order:markers stroke fill"/>
+  <rect transform="matrix(.87335 -.48709 .28252 .95926 0 0)" x="13.677" y="17.154" width="20.16" height="13.272" rx="2.05" ry="1.722" fill="#a8decc" style="paint-order:markers stroke fill"/>
+  <rect transform="rotate(37.225)" x="11.47" y="-6.646" width="21.823" height="8.554" rx="2" ry="2" fill="#add49f" style="paint-order:markers stroke fill"/>
+  <rect transform="matrix(.77563 .63119 -.63614 .77157 0 0)" x="27.901" y="-15.128" width="12.192" height="11.693" rx="2" ry="2" fill="#eeac7c" style="paint-order:markers stroke fill"/>
+  <rect transform="rotate(-11.845)" x="36.309" y="18.623" width="13.343" height="8.448" rx="2" ry="2" fill="#d39dc1" style="paint-order:markers stroke fill"/>
+ </g>
+ <path d="m8.924 8.768 5.525 44.978c0 4.16 7.869 7.533 17.575 7.533 9.707 0 17.576-3.372 17.576-7.533l5.476-44.978c-.001 3.186-10.332 5.769-23.076 5.769S8.925 11.954 8.924 8.768z" fill="#f5f5f5" opacity=".915"/>
 </svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg8" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+            color:#363636;
+        }</style>
+ <g class="ColorScheme-Text" fill="currentColor">
+  <path id="path881" d="m5.0983 8.9973-2.2204 10.003h16.244l-2.2204-10.003h-2.9v1.0038h2.0954l1.5565 6.9972h-13.307l1.5565-6.9972h2.0974v-1.0038z"/>
+  <path id="rect822" d="m10 3v0.99988h-2.9996c-0.55393 0-0.99988 0.44595-0.99988 0.99988s0.44595 0.99988 0.99988 0.99988h2.9996v6.0032h-2.7067l3.7046 3.7046 3.7066-3.7046h-2.7047v-6.0032h2.9996c0.55393 0 0.99988-0.44595 0.99988-0.99988s-0.44594-0.99988-0.99988-0.99988h-2.9996v-0.99988z"/>
+ </g>
+</svg>

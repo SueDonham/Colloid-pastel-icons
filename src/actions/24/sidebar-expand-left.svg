@@ -1,6 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
-    <g fill="currentColor" style="color:#050505;opacity:.7">
-        <path d="M4 4v16h16V4zm5 1h10v14H9z"/>
-        <path d="M12.354 7.646 16.707 12l-4.353 4.354-.708-.708L15.293 12l-3.647-3.646z"/>
-    </g>
+<svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+            color:#363636;
+        }</style>
+ <g class="ColorScheme-Text" transform="translate(1,1)" fill="currentColor">
+  <path d="m6 3c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h10c1.662 0 3-1.338 3-3v-10c0-1.662-1.338-3-3-3zm0 1h1v14h-1c-1.108 0-2-0.892-2-2v-10c0-1.108 0.892-2 2-2zm2 0h8c1.108 0 2 0.892 2 2v10c0 1.108-0.892 2-2 2h-8z"/>
+  <path d="m11 6.6465 4.3535 4.3535-4.3535 4.3535-0.70703-0.70703 3.6465-3.6465-3.6465-3.6465z"/>
+ </g>
 </svg>

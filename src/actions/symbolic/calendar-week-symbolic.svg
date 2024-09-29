@@ -1,4 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <path fill="#050505" fill-opacity=".7" d="M1 7h4v1H1zM1 10h4v1H1zM1 13h4v1H1zM6 7h4v1H6zM6 10h4v1H6zM6 13h4v1H6zM11 7h4v1h-4zM11 10h4v1h-4zM11 13h4v1h-4z"/>
-    <path fill="#050505" fill-opacity=".7" fill-rule="evenodd" d="M1 3h4v2H1zM6 3h4v2H6zM11 3h4v2h-4z" style="paint-order:stroke fill markers"/>
+<svg width="16px" height="16px" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m1 7h4v1h-4z" fill="#363636"/>
+ <path d="m1 10h4v1h-4z" fill="#363636"/>
+ <path d="m1 13h4v1h-4z" fill="#363636"/>
+ <path d="m6 7h4v1h-4z" fill="#363636"/>
+ <path d="m6 10h4v1h-4z" fill="#363636"/>
+ <path d="m6 13h4v1h-4z" fill="#363636"/>
+ <path d="m11 7h4v1h-4z" fill="#363636"/>
+ <path d="m11 10h4v1h-4z" fill="#363636"/>
+ <path d="m11 13h4v1h-4z" fill="#363636"/>
+ <rect x="1" y="3" width="4" height="2" fill="#363636" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+ <rect x="6" y="3" width="4" height="2" fill="#363636" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+ <rect x="11" y="3" width="4" height="2" fill="#363636" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
 </svg>

@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <g fill="#050505" opacity=".7">
-        <path d="M1.938 7A.935.935 0 0 0 1 7.938v4.125c0 .519.418.937.938.937h12.125c.519 0 .937-.418.937-.937V7.937A.935.935 0 0 0 14.063 7zM2 8h12v4H2z" style="paint-order:stroke fill markers"/>
-        <path d="M5 3c-.562 0-1.1.303-1.4.65-.3.348-.441.71-.55 1.034L2.28 7h1.054L4 5c.175-.526.446-1 1-1h6c.554 0 .825.474 1 1l.666 2h1.055l-.772-2.316c-.108-.324-.249-.686-.549-1.034-.3-.347-.838-.65-1.4-.65z" color="#000" style="paint-order:stroke fill markers"/>
-        <circle cx="4" cy="10" r="1" style="paint-order:stroke fill markers"/>
-        <circle cx="12" cy="10" r="1" style="paint-order:stroke fill markers"/>
-        <rect width="2" height="3" x="2" y="12" rx="1" ry="1" style="paint-order:stroke fill markers"/>
-        <rect width="2" height="3" x="12" y="12" rx="1" ry="1" style="paint-order:stroke fill markers"/>
-    </g>
+<svg width="16px" height="16px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#363636">
+  <path d="m1.9375 7c-0.51937 0-0.9375 0.41813-0.9375 0.9375v4.125c0 0.51937 0.41813 0.9375 0.9375 0.9375h12.125c0.51937 0 0.9375-0.41813 0.9375-0.9375v-4.125c0-0.51937-0.41813-0.9375-0.9375-0.9375zm0.0625 1h12v4h-12z" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  <path d="m5 3c-0.56246 0-1.1007 0.30263-1.4004 0.65039-0.29973 0.34776-0.4409 0.70941-0.54883 1.0332l-0.77148 2.3164h1.0547l0.66602-2c0.17519-0.52557 0.446-1 1-1h6c0.554 0 0.82481 0.47443 1 1l0.66602 2h1.0547l-0.77148-2.3164c-0.10794-0.3238-0.2491-0.68544-0.54883-1.0332-0.29974-0.34776-0.83794-0.65039-1.4004-0.65039z" color="#000000" style="paint-order:stroke fill markers"/>
+  <circle cx="4" cy="10" r="1" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  <circle cx="12" cy="10" r="1" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  <rect x="2" y="12" width="2" height="3" rx="1" ry="1" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  <rect x="12" y="12" width="2" height="3" rx="1" ry="1" stop-color="#000000" style="paint-order:stroke fill markers"/>
+ </g>
 </svg>

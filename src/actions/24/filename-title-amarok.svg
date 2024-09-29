@@ -1,4 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-    <path d="M4 19V3h10l4 4v12H4Zm1-1h12V8h-4V4H5v14Z" style="fill:currentColor;fill-opacity:1;stroke:none;color:#050505;opacity:.7" transform="translate(1 1)"/>
-    <path d="M7 6v2h5V6H7Z" style="fill:currentColor;fill-opacity:1;stroke:none;color:#a0b6cb" transform="translate(1 1)"/>
-</svg>
+<!DOCTYPE svg>
+<svg viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style type="text/css" id="current-color-scheme">
+            .ColorScheme-Text {
+                color:#363636;
+            }
+            .ColorScheme-Highlight {
+                color:#a0b6cb;
+            }
+        </style>
+    </defs><g transform="translate(1,1)">
+    <path class="ColorScheme-Text" style="fill:currentColor; fill-opacity:1; stroke:none" d="M 4 19 L 4 3 L 14 3 L 18 7 L 18 19 L 4 19 Z M 5 18 L 17 18 L 17 8 L 13 8 L 13 4 L 5 4 L 5 18 Z"/>
+    <path class="ColorScheme-Highlight" style="fill:currentColor; fill-opacity:1; stroke:none" d="M 7 6 L 7 8 L 12 8 L 12 6 L 7 6 Z"/>
+</g></svg>

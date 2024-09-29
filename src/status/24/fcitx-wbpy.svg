@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#a0b6cb;
+      }
+      .ColorScheme-ButtonText {
+        color:#363636;
+      }</style>
+ <g transform="translate(1,1)">
+  <g id="fcitx-wbpy">
+   <path id="path4312" class="ColorScheme-Text" transform="translate(-25,-95)" d="m28 98.002v15.998h9v1h8v-10h-1v-6.998zm1 0.99805h14v6h-3.5-4.2637l0.66602-3h4.0977v-1h-9v1h3.877l-0.66602 3h-2.2109v1h1.9883l-0.88867 4h-2.0996v1h6v2h-8zm6.0137 7h1.9863v4h-2.877zm3.9863 1h0.5c0.75 0 1.5317-0.0168 2.2207 0.21289 0.3445 0.11483 0.67639 0.30519 0.91602 0.61328 0.23962 0.30809 0.36328 0.7155 0.36328 1.1738s-0.12366 0.86574-0.36328 1.1738c-0.23962 0.30809-0.57152 0.49845-0.91602 0.61328-0.53384 0.17794-1.1334 0.15946-1.7207 0.16406v2.0488h-1zm1 1.043v1.9141c0.52807-0.0121 1.0828-0.012 1.4043-0.11914 0.218-0.0727 0.35486-0.16356 0.44336-0.27734 0.088504-0.11379 0.15234-0.26888 0.15234-0.56055s-0.06384-0.44676-0.15234-0.56055c-0.0885-0.11378-0.22536-0.20467-0.44336-0.27734-0.32152-0.10717-0.87623-0.10704-1.4043-0.11914z" fill="currentColor"/>
+   <rect id="rect4314" width="22" height="22" fill="none"/>
+  </g>
+ </g>
+</svg>

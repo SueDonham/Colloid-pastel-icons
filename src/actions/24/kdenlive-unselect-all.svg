@@ -1,4 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-    <path d="M3 3v4h1V4h3V3H3zm12 0v1h3v3h1V3h-4zM5 5v5h5V5H5zm7 0v5h5V5h-5zM6 6h3v3H6V6zm7 0h3v3h-3V6zm-8 6v5h5v-5H5zm7 0v5h1v-4h4v-1h-5zm-6 1h3v3H6v-3zm-3 2v4h4v-1H4v-3H3z" style="fill:currentColor;fill-opacity:1;stroke:none;color:#050505;opacity:.7" transform="translate(1 1)"/>
-    <path d="m14.707 14-.707.707 1.793 1.793L14 18.293l.707.707 1.793-1.793L18.293 19l.707-.707-1.793-1.793L19 14.707 18.293 14 16.5 15.793 14.707 14z" style="fill:#d98c8c;fill-opacity:1;stroke:none" transform="translate(1 1)"/>
+<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#363636;
+      }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m6 4c-1.108 0-2 0.892-2 2v2h1v-2c0-0.554 0.446-1 1-1h2v-1zm10 0v1h2c0.554 0 1 0.446 1 1v2h1v-2c0-1.108-0.892-2-2-2zm-12 12v2c0 1.108 0.892 2 2 2h2v-1h-2c-0.554 0-1-0.446-1-1v-2z" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m7 6c-0.554 0-1 0.446-1 1v3c0 0.554 0.446 1 1 1h3c0.554 0 1-0.446 1-1v-3c0-0.554-0.446-1-1-1h-3zm7 0c-0.554 0-1 0.446-1 1v3c0 0.554 0.446 1 1 1h3c0.554 0 1-0.446 1-1v-3c0-0.554-0.446-1-1-1h-3zm-7 1h3v3h-3v-3zm7 0h3v3h-3v-3zm-7 6c-0.554 0-1 0.446-1 1v3c0 0.554 0.446 1 1 1h3c0.554 0 1-0.446 1-1v-3c0-0.554-0.446-1-1-1h-3zm7 0c-0.554 0-1 0.446-1 1v3c0 0.554 0.446 1 1 1v-1-3h3 1c0-0.554-0.446-1-1-1h-3zm-7 1h3v3h-3v-3z" fill="currentColor"/>
+ <path d="m15.707 15-0.70703 0.70703 1.793 1.793-1.793 1.793 0.70703 0.70703 1.793-1.793 1.793 1.793 0.70703-0.70703-1.793-1.793 1.793-1.793-0.70703-0.70703-1.793 1.793z" fill="#d19494"/>
 </svg>

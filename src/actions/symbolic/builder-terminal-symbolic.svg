@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <path fill="#050505" fill-opacity=".7" d="M2 1C.892 1 0 1.892 0 3v10c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2V3c0-1.108-.892-2-2-2zm0 1h12c.554 0 1 .446 1 1v10c0 .554-.446 1-1 1H2c-.554 0-1-.446-1-1V3c0-.554.446-1 1-1z"/>
-    <path fill="#050505" fill-opacity=".7" d="M7 10h4v1H7zM4.172 10.829 7 8l-.707-.707-2.828 2.829z"/>
-    <path fill="#050505" fill-opacity=".7" d="M4.172 5.172 7 8l-.707.707L3.465 5.88z"/>
+<svg width="16px" height="16px" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m2 1c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1z" fill="#363636"/>
+ <rect x="7" y="10" width="4" height="1" fill="#363636"/>
+ <rect transform="matrix(.70711 -.70711 -.70711 -.70711 0 0)" x="-4.7071" y="-10.607" width="4" height="1" fill="#363636"/>
+ <rect transform="rotate(45)" x="6.6066" y=".70711" width="4" height="1" fill="#363636"/>
 </svg>

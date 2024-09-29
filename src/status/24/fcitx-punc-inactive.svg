@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#a0b6cb;
+      }
+      .ColorScheme-ButtonText {
+        color:#363636;
+      }</style>
+ <g transform="translate(1,1)">
+  <g id="fcitx-punc-inactive" transform="translate(0 -170)">
+   <rect id="rect4231" x="-2.471e-9" y="170" width="22" height="22" fill="none"/>
+   <circle id="ellipse4233" class="ColorScheme-Text" cx="7.5" cy="180.5" r="1.5" fill="currentColor"/>
+   <path id="circle4235" class="ColorScheme-Text" d="m14.5 179a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 0.04688-2e-3c-0.53325 0.93921-1.3477 1.6016-1.3477 1.6016l0.60156 0.80078s1.9673-1.4264 2.1621-3.5723a1.5 1.5 0 0 0 0.03711-0.32808 1.5 1.5 0 0 0-1.5-1.5z" fill="currentColor"/>
+  </g>
+ </g>
+</svg>

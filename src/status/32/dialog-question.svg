@@ -1,59 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="32"
-   height="32"
-   version="1.1"
-   id="svg147"
-   sodipodi:docname="dialog-question.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs151" />
-  <sodipodi:namedview
-     id="namedview149"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="23.21875"
-     inkscape:cx="15.117093"
-     inkscape:cy="15.978466"
-     inkscape:window-width="1920"
-     inkscape:window-height="1021"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg147" />
-  <path
-     d="M16 2C7.723 2 1 8.723 1 17s6.723 15 15 15 15-6.723 15-15S24.277 2 16 2z"
-     color="#000"
-     opacity=".15"
-     overflow="visible"
-     id="path139" />
-  <path
-     fill="#eabc8a"
-     d="M16 1C7.723 1 1 7.723 1 16s6.723 15 15 15 15-6.723 15-15S24.277 1 16 1z"
-     color="#000"
-     overflow="visible"
-     id="path141" />
-  <path
-     fill="#000"
-     d="M16 1C7.723 1 1 7.723 1 16c0 .168.006.334.012.5C1.276 8.455 7.89 2 16 2s14.724 6.455 14.988 14.5c.005-.166.011-.332.011-.5 0-8.277-6.723-15-15-15z"
-     opacity=".15"
-     id="path143" />
-  <path
-     fill="#000"
-     d="M16.683 19.873c-.05-1.77.347-3.487 2.018-4.703 1.765-1.376 3.466-3.097 3.286-5.126-.04-1.957-2.32-3.49-4.776-3.711-2.763-.383-6.106.564-7.032 2.722-.47 1.05-.034 2.932 1.542 2.932.921 0 1.345-.595 1.414-1.14.053-.412-.116-.78-.216-1.12-.114-.388.372-1.14.901-1.446.443-.256.906-.342.974-.359 1.588-.381 3.172.462 3.833 1.488.66 1.027-.067 2.584-1.112 4.098-1.046 1.514-2.168 3.233-2.164 5.06 0 .695-.062.931-.018 1.212.036.225.78.198 1.35.093zm-.725 2.38c-1.52-.082-2.57 1.64-1.658 2.737.815 1.212 3.1.913 3.491-.459.408-1.067-.572-2.295-1.833-2.277z"
-     font-family="Standard Symbols L"
-     font-size="72"
-     font-weight="700"
-     style="fill:#000000;fill-opacity:0.69999999"
-     id="path145" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg10" width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path id="path2" d="M16 2C7.723 2 1 8.723 1 17s6.723 15 15 15 15-6.723 15-15S24.277 2 16 2z" opacity=".15" overflow="visible"/>
+ <path id="path4" d="M16 1C7.723 1 1 7.723 1 16s6.723 15 15 15 15-6.723 15-15S24.277 1 16 1z" fill="#deb68c" overflow="visible"/>
+ <path id="path6" d="M16 1C7.723 1 1 7.723 1 16c0 .168.006.334.012.5C1.276 8.455 7.89 2 16 2s14.724 6.455 14.988 14.5c.005-.166.011-.332.011-.5 0-8.277-6.723-15-15-15z" fill="#fff" opacity=".15"/>
+ <path id="path8" d="M16.683 19.873c-.05-1.77.347-3.487 2.018-4.703 1.765-1.376 3.466-3.097 3.286-5.126-.04-1.957-2.32-3.49-4.776-3.711-2.763-.383-6.106.564-7.032 2.722-.47 1.05-.034 2.932 1.542 2.932.921 0 1.345-.595 1.414-1.14.053-.412-.116-.78-.216-1.12-.114-.388.372-1.14.901-1.446.443-.256.906-.342.974-.359 1.588-.381 3.172.462 3.833 1.488.66 1.027-.067 2.584-1.112 4.098-1.046 1.514-2.168 3.233-2.164 5.06 0 .695-.062.931-.018 1.212.036.225.78.198 1.35.093zm-.725 2.38c-1.52-.082-2.57 1.64-1.658 2.737.815 1.212 3.1.913 3.491-.459.408-1.067-.572-2.295-1.833-2.277z" fill="#fff" font-family="Standard Symbols L" font-size="72" font-weight="700"/>
 </svg>

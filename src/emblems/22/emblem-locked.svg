@@ -1,18 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
-    <defs>
-        <filter id="filter976" width="1.294" height="1.294" x="-.147" y="-.147" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".259"/>
-        </filter>
-    </defs>
-    <style id="current-color-scheme" type="text/css">
-        .ColorScheme-NeutralText{color:#ffce99}.ColorScheme-Text{color:#232629}
-    </style>
-    <rect width="4.234" height="4.234" x="-5.292" y="-5.027" filter="url(#filter976)" opacity=".25" rx="2.117" ry="2.117" transform="matrix(0 -3.7794 -3.7794 0 0 0)"/>
-    <g transform="translate(15 -1094.498) scale(3.7794)">
-        <rect width="4.233" height="4.233" x="-294.62" y="-1.058" fill="#eeac7c" rx="2.117" ry="2.117" transform="matrix(0 -1 -1 0 0 0)"/>
-        <rect width="1.323" height="1.852" x="-1.72" y="291.31" fill="none" stroke="#000" stroke-linejoin="round" stroke-opacity=".46" stroke-width=".265" ry=".661"/>
-        <path fill="#eeac7c" d="M-2.117 292.24H0v1.323h-2.117z"/>
-        <path fill-opacity=".46" d="M-2.117 292.24H0v1.323h-2.117z"/>
-    </g>
-    <path stroke-width="3.78" d="M11 3a7.982 7.982 0 0 0-7.984 8.5C3.272 7.303 6.736 4 11 4s7.728 3.303 7.984 7.5A7.982 7.982 0 0 0 11 3z" opacity=".2"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter976" x="-.147" y="-.147" width="1.294" height="1.294" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.2592991"/>
+  </filter>
+ </defs>
+ <style id="current-color-scheme" type="text/css">.ColorScheme-NeutralText {
+            color:#deb68c;
+        }
+        .ColorScheme-Text {
+            color:#5e5e5e;
+        }</style>
+ <rect transform="matrix(0,-3.7794,-3.7794,0,0,0)" x="-5.2918" y="-5.0272" width="4.2335" height="4.2335" rx="2.1172" ry="2.1172" filter="url(#filter976)" opacity=".25" stroke-width="1.0001"/>
+ <g transform="matrix(3.7794 0 0 3.7794 4.5041e-8 -1100.5)">
+  <g transform="translate(3.969,1.588)">
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-294.62" y="-1.058" width="4.233" height="4.233" rx="2.117" ry="2.117" fill="#dba892"/>
+   <path d="m-2.117 292.24h2.117v1.323h-2.117z" fill="#fff"/>
+   <rect x="-1.72" y="291.31" width="1.323" height="1.852" ry=".661" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width=".265"/>
+  </g>
+ </g>
+ <path d="m11 3c-4.432 0-8 3.568-8 8 0 0.16818 0.0055 0.33446 0.015625 0.5 0.25676-4.197 3.7206-7.5 7.9844-7.5s7.7276 3.303 7.9844 7.5c0.01013-0.16554 0.01563-0.33182 0.01563-0.5 0-4.432-3.568-8-8-8z" fill="#fff" opacity=".1" stroke-width="3.7798"/>
 </svg>

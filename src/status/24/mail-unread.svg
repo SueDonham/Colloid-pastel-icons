@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#a0b6cb;
+      }
+      .ColorScheme-ButtonText {
+        color:#363636;
+      }</style>
+ <g transform="translate(1,1)">
+  <g id="mail-unread">
+   <path id="rect4144" class="ColorScheme-Text" d="m1 3v1 8 6 0.41406 0.58594h1 6 6 6 1v-0.58594-0.41406-6-9h-0.048828-0.95117-0.46289-17.074-0.46289-1zm1 1h0.048828l0.22266 0.22266 5.752 5.7539-6.0234 6.0234v-4-7.7773-0.22266zm1.4629 0h15.074l-7.5371 7.5371-7.5371-7.5371zm16.488 0h0.048828v0.22266 7.7773 4l-6.0234-6.0234 5.752-5.7539 0.22266-0.22266zm-11.221 6.6836 1.4531 1.4512 0.81445 0.81445h2e-3l0.81641-0.81445 1.4531-1.4512 6.7304 6.7305v0.58594h-6-6-6v-0.58594l6.7305-6.7305z" fill="currentColor"/>
+   <rect id="rect4193" width="22" height="22" fill="none"/>
+  </g>
+ </g>
+</svg>

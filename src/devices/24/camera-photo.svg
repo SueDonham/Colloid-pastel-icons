@@ -1,13 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
-    <defs>
-        <style id="current-color-scheme" type="text/css">
-            .ColorScheme-Highlight{color:#a0b6cb}
-        </style>
-    </defs>
-    <g fill="currentColor" style="color:#050505;opacity:.7" transform="translate(4 3)">
-        <path d="M10.5 6A3.5 3.5 0 0 0 7 9.5a3.5 3.5 0 0 0 3.5 3.5A3.5 3.5 0 0 0 14 9.5 3.5 3.5 0 0 0 10.5 6zm0 1A2.5 2.5 0 0 1 13 9.5a2.5 2.5 0 0 1-2.5 2.5A2.5 2.5 0 0 1 8 9.5 2.5 2.5 0 0 1 10.5 7z"/>
-        <path d="M1 3c-1.108 0-2 .892-2 2v9c0 1.108.892 2 2 2h14c1.108 0 2-.892 2-2V5c0-1.108-.892-2-2-2zm0 1h14c.554 0 1 .446 1 1v9c0 .554-.446 1-1 1H1c-.554 0-1-.446-1-1V5c0-.554.446-1 1-1z"/>
-        <rect width="6" height="1" x="7" y="1" rx="0" ry="0"/>
-        <rect width="2" height="1" x="2" y="6" rx="0" ry="0"/>
-    </g>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#c2a3ae; }</style>
+ </defs>
+ <g class="ColorScheme-Text" transform="translate(4,3)" fill="currentColor">
+  <path d="m10.5 6a3.5 3.5 0 0 0-3.5 3.5 3.5 3.5 0 0 0 3.5 3.5 3.5 3.5 0 0 0 3.5-3.5 3.5 3.5 0 0 0-3.5-3.5zm0 1a2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5 2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5z"/>
+  <path d="m1 3c-1.108 0-2 0.892-2 2v9c0 1.108 0.892 2 2 2h14c1.108 0 2-0.892 2-2v-9c0-1.108-0.892-2-2-2zm0 1h14c0.554 0 1 0.446 1 1v9c0 0.554-0.446 1-1 1h-14c-0.554 0-1-0.446-1-1v-9c0-0.554 0.446-1 1-1z"/>
+  <rect x="7" y="1" width="6" height="1" rx="0" ry="0"/>
+  <rect x="2" y="6" width="2" height="1" rx="0" ry="0"/>
+ </g>
 </svg>

@@ -1,3 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <path fill="#050505" d="M7 295.77h1v10H7z" opacity=".7" style="paint-order:normal" transform="translate(0 -292.77)"/>
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -292.77)">
+  <rect x="7" y="295.77" width="1" height="10" fill="#363636" style="paint-order:normal"/>
+ </g>
 </svg>

@@ -1,3 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-    <path d="M16 4a12 12 0 0 0-8.113 3.18l-.002-.002a12 12 0 0 0-.037.037A12 12 0 0 0 4 16a12 12 0 0 0 12 12 12 12 0 0 0 8.113-3.18l.007.002a12 12 0 0 0 .032-.037A12 12 0 0 0 28 16 12 12 0 0 0 16 4m0 1a11 11 0 0 1 11 11 11 11 0 0 1-2.885 7.408L8.592 7.885A11 11 0 0 1 16 5M7.885 8.592 23.408 24.12A11 11 0 0 1 16 27 11 11 0 0 1 5 16a11 11 0 0 1 2.885-7.408" style="fill:currentColor;fill-opacity:1;stroke:none;color:#050505;opacity:.7"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 32 32"
+   id="svg11"
+   sodipodi:docname="dialog-cancel.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="25.65625"
+     inkscape:cx="11.186358"
+     inkscape:cy="16.038977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color: #fcfcfc; }</style>
+  </defs>
+  <g
+     id="g194"
+     transform="matrix(1.5,0,0,1.5,-8,-8)"
+     style="fill:#bd7575;stroke-width:0.666667">
+    <path
+       d="M 16,6 A 10,10 0 0 0 6,16 10,10 0 0 0 16,26 10,10 0 0 0 26,16 10,10 0 0 0 16,6 Z m 0,1 a 9,9 0 0 1 9,9 9,9 0 0 1 -9,9 9,9 0 0 1 -9,-9 9,9 0 0 1 9,-9 z"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path7"
+       style="fill:#bd7575;stroke-width:0.444444" />
+    <rect
+       transform="rotate(45)"
+       x="12.627"
+       y="-0.5"
+       width="20"
+       height="1"
+       rx="0.5"
+       ry="0.5"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="rect9"
+       style="fill:#bd7575;stroke-width:0.444444" />
+  </g>
 </svg>

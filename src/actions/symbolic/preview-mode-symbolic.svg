@@ -1,9 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <style>
-        .success{fill:#add49f}.warning{fill:#f4b9be}.error{fill:#a0b6cb}
-    </style>
-    <g id="layercompo">
-        <path fill="#050505" d="M3 1v5.768l.951-1.563L5.04 6.848l.188-1.912 1.693 1.01-.662-1.807 1.965.176-1.38-1.34 1.846-.696-1.824-.607.64-.672zM10.257 8.843A4.237 4.127 0 0 0 6.02 12.97 4.237 4.127 0 0 0 6.578 15H13V9.826a4.237 4.127 0 0 0-2.743-.983z" opacity=".3"/>
-        <path fill="#050505" fill-opacity=".7" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2 0v16h12V5.414l.01.01V4.01L14 4l-4-4H2zm1 1h6.586L13 4.414V15H3V1z" style="paint-order:stroke fill markers"/>
-    </g>
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <style>.success { fill:#aac69f; }
+.warning { fill:#d48787; }
+.error { fill:#a0b6cb; }</style>
+ <style>@import '../../highlights.css';</style>
+ <g id="layercompo">
+  <path d="m3 1v5.7676l0.95117-1.5625 1.0879 1.6426 0.1875-1.9121 1.6934 1.0098-0.66211-1.8066 1.9648 0.17578-1.3789-1.3398 1.8457-0.69531-1.8242-0.60742 0.64062-0.67188z" fill="#363636" opacity=".3"/>
+  <path d="m10.257 8.8432a4.2371 4.1271 0 0 0-4.2371 4.1273 4.2371 4.1271 0 0 0 0.55851 2.0296h6.4219v-5.1742a4.2371 4.1271 0 0 0-2.7433-0.98259z" fill="#363636" opacity=".3"/>
+  <path d="m0 0h16v16h-16z" opacity="0"/>
+  <path d="m2 0v16h12v-10.586l0.009766 0.0097656v-1.4141l-0.009766-0.0097656-4-4h-8zm1 1h6.5859l3.4141 3.4141v10.586h-10v-14z" fill="#363636" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ </g>
 </svg>

@@ -1,11 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.0">
-    <text xml:space="preserve" x="63.912" y="297.749" font-family="'Droid Sans'" font-size="11.085" font-weight="700" style="line-height:0%" transform="translate(0 -172)"><tspan x="63.912" y="297.749" font-size="9.238" style="line-height:1.25"> </tspan></text>
-    <g stroke-width="1.083">
-        <path fill="none" d="M25.038 28.855h75.869v75.87h-75.87z"/>
-        <path fill="#b7c8b7" d="M62.972 52.574a14.225 14.225 0 1 0 0 28.45 14.225 14.225 0 0 0 0-28.45zm-2.338 3.917c1.774 0 3.24 1.47 3.24 3.31 0 1.834-1.466 3.38-3.24 3.38-1.773 0-3.238-1.546-3.238-3.38 0-1.836 1.465-3.31 3.238-3.31z"/>
-        <path fill="#b7c8b7" d="M62.972 38.339c-20.95 0-37.934 28.45-37.934 28.45s16.985 28.452 37.934 28.452 37.935-28.451 37.935-28.451S83.92 38.339 62.972 38.339zm0 9.484c18.332 0 28.451 18.967 28.451 18.967s-10.119 18.967-28.45 18.967S34.52 66.79 34.52 66.79s10.12-18.967 28.451-18.967z"/>
-        <path fill="none" stroke="#b7c8b7" stroke-linecap="round" stroke-width="5.135" d="M34.521 57.022 29.78 52.28m61.644 4.742 4.742-4.742m-52.161 0-9.484-9.484m16.004 2.665L44.005 34.2m16.302 8.891-3.262-14.225M84.016 52.28l7.407-9.484m-13.927 2.665 6.307-10.214M67.714 43.09l4.097-14.225"/>
-    </g>
-    <path fill="#b7c8b7" fill-rule="evenodd" d="M64 4A60 60 0 0 0 4 64a60 60 0 0 0 60 60 60 60 0 0 0 60-60A60 60 0 0 0 64 4zm0 8a52 52 0 0 1 52 52 52 52 0 0 1-52 52 52 52 0 0 1-52-52 52 52 0 0 1 52-52z"/>
-    <path fill="#b7c8b7" fill-rule="evenodd" d="m18.745 103.598 84.853-84.853 5.657 5.657-84.853 84.853z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <text transform="translate(0 -172)" x="63.912" y="297.749" enable-background="new" font-family="'Droid Sans'" font-size="11.085px" font-weight="700" style="line-height:0%" xml:space="preserve"><tspan x="63.912" y="297.749" font-size="9.2378px" style="line-height:1.25"> </tspan></text>
+  <g transform="matrix(.70805 0 0 .70805 351.87 -202.98)" enable-background="new" stroke-width="1.0825">
+   <g stroke-width="1.0825">
+    <path transform="matrix(6.697 0 0 6.697 -1566.6 -6110.8)" d="m165 961.36h16v16h-16z" fill="none"/>
+    <path transform="matrix(6.697 0 0 6.697 -1566.6 -6110.8)" d="M173 966.362a3 3 0 1 0 0 6 3 3 0 0 0 0-6zm-.493.826c.374 0 .683.31.683.698 0 .387-.309.713-.683.713-.374 0-.683-.326-.683-.713 0-.387.309-.698.683-.698z" fill="#babdb6"/>
+    <path transform="matrix(6.697 0 0 6.697 -1566.6 -6110.8)" d="m173 963.36c-4.418 0-8 6-8 6s3.582 6 8 6 8-6 8-6-3.582-6-8-6zm0 2c3.866 0 6 4 6 4s-2.134 4-6 4-6-4-6-4 2.134-4 6-4z" fill="#babdb6"/>
+    <path transform="matrix(6.697 0 0 6.697 -1566.6 -6110.8)" d="m167 967.3-1-1m13 1 1-1" enable-background="accumulate" fill="none" stroke="#babdb6" stroke-linecap="round" stroke-width="1.0825"/>
+    <path transform="matrix(6.697 0 0 6.697 -1566.6 -6110.8)" d="m169 966.3-2-2m3.375 0.562-1.375-2.375m3.438 1.875-0.688-3m5.688 4.938 1.562-2m-2.937 0.562 1.33-2.154m-3.393 1.654 0.864-3" enable-background="accumulate" fill="none" stroke="#babdb6" stroke-linecap="round" stroke-width="1.0825"/>
+   </g>
+  </g>
+ </g>
+ <path d="m64 4a60 60 0 0 0-60 60 60 60 0 0 0 60 60 60 60 0 0 0 60-60 60 60 0 0 0-60-60zm0 8a52 52 0 0 1 52 52 52 52 0 0 1-52 52 52 52 0 0 1-52-52 52 52 0 0 1 52-52z" fill="#babdb6" fill-rule="evenodd"/>
+ <rect transform="rotate(-45)" x="-60" y="86.51" width="120" height="8" fill="#babdb6" fill-rule="evenodd"/>
 </svg>

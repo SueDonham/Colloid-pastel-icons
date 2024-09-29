@@ -21,6 +21,7 @@ git clone https://github.com/SueDonham/Colloid-pastel-icons.git
 -d, --dest DIR          Specify destination directory (Default: $HOME/.local/share/icons)
 -n, --name NAME         Specify theme name (Default: Colloid-pastel)
 -c, --folder COLORS     Specify folder color variant(s) [default|blue|pink|red|orange|yellow|green|teal|grey|all] (Default: purple)
+-r, --remove            Remove/Uninstall icon theme(s)
 -h, --help              Show help
 ```
 For example, to install a version with blue folders and call it Connie instead of Colloid-pastel, open a terminal in your Colloid-pastel-icons directory and run:

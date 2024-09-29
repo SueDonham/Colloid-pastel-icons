@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22" height="22" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs4157">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-ButtonFocus{
+        color:#a0b6cb;
+      }</style>
+ </defs>
+ <path id="path4664" class="ColorScheme-ButtonFocus" d="m3 19 16-16v16z" fill="currentColor" fill-rule="evenodd"/>
+</svg>

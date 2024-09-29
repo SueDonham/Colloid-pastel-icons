@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none">
-    <style id="current-color-scheme" type="text/css">
-        .ColorScheme-Text{color:#050505;opacity:.7}
-    </style>
-    <path fill="currentColor" fill-rule="evenodd" d="M2 2h12v7.707L9.707 14H2V2Zm1 1v10h6V9h4V3H3Zm9.293 7H10v2.293L12.293 10Z" class="ColorScheme-Text" clip-rule="evenodd"/>
-    <path fill="currentColor" d="M7 6.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0ZM10 6.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Z" class="ColorScheme-Text"/>
-    <path fill="currentColor" fill-rule="evenodd" d="M11.354 8.854a4.743 4.743 0 0 1-6.708 0l.708-.708a3.743 3.743 0 0 0 5.292 0l.708.708Z" class="ColorScheme-Text" clip-rule="evenodd"/>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><style type="text/css" id="current-color-scheme">.ColorScheme-Text { color: #363636; }</style>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2 2H14V9.70711L9.70711 14H2V2ZM3 3V13H9V9H13V3H3ZM12.2929 10H10V12.2929L12.2929 10Z" fill="currentColor" class="ColorScheme-Text"/>
+<path d="M7 6.5C7 6.77614 6.77614 7 6.5 7C6.22386 7 6 6.77614 6 6.5C6 6.22386 6.22386 6 6.5 6C6.77614 6 7 6.22386 7 6.5Z" fill="currentColor" class="ColorScheme-Text"/>
+<path d="M10 6.5C10 6.77614 9.77614 7 9.5 7C9.22386 7 9 6.77614 9 6.5C9 6.22386 9.22386 6 9.5 6C9.77614 6 10 6.22386 10 6.5Z" fill="currentColor" class="ColorScheme-Text"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.3536 8.85356C9.50144 10.7057 6.49857 10.7057 4.64645 8.85356L5.35356 8.14645C6.81515 9.60805 9.18486 9.60805 10.6465 8.14645L11.3536 8.85356Z" fill="currentColor" class="ColorScheme-Text"/>
 </svg>

@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
-    <g fill="#050505" opacity=".7">
-        <path fill-rule="evenodd" d="M-15 4h1v8h-1z" style="paint-order:stroke fill markers" transform="matrix(-1 0 0 1 4 4)"/>
-        <path d="M6 8v8l6-4-5.4-3.6zM12 8v8l6-4-5.4-3.6z"/>
-    </g>
+<svg width="24" height="24" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(4,4)" fill="#363636">
+  <rect transform="scale(-1,1)" x="-15" y="4" width="1" height="8" fill-rule="evenodd" stop-color="#000000" stroke-width="0" style="paint-order:stroke fill markers"/>
+  <path d="m2 4v8l6-4-5.4-3.6z" stroke-width=".60302"/>
+  <path d="m8 4v8l6-4-5.4-3.6z" stroke-width=".60302"/>
+ </g>
 </svg>

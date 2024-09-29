@@ -1,10 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <style id="current-color-scheme" type="text/css">
-            .ColorScheme-Text{color:#050505;opacity:.7}
+            .ColorScheme-Text {
+                color:#363636;
+            }
         </style>
     </defs>
-    <path fill="currentColor" d="M11 7c-2.203 0-4 1.797-4 4 0 2.203 1.797 4 4 4 2.203 0 4-1.797 4-4 0-2.203-1.797-4-4-4zm0 1c1.663 0 3 1.337 3 3s-1.337 3-3 3-3-1.337-3-3 1.337-3 3-3zM10.5 5v1h1V5zM10.5 16v1h1v-1zM5 10.5v1h1v-1zM16 10.5v1h1v-1z" class="ColorScheme-Text"/>
-    <path fill="currentColor" d="M11 7.75v6.5h2.167l1.083-2.167V9.917L13.167 7.75z" class="ColorScheme-Text"/>
-    <path fill="currentColor" d="M10.984 7.734v6.532h2.192l1.09-2.178V9.912l-1.09-2.178h-2.192zm.032.032h2.14l1.078 2.154v2.16l-1.078 2.154h-2.14V7.766zM14.807 14.1l-.707.707.707.707.707-.707zM7.207 14.1l-.707.707.707.707.707-.707zM14.807 6.5l-.707.707.707.707.707-.707zM7.207 6.5l-.707.707.707.707.707-.707Z" class="ColorScheme-Text"/>
+    <g shape-rendering="auto">
+        <path d="m11 7c-2.2032167 0-4 1.7967833-4 4 0 2.203217 1.7967833 4 4 4 2.203217 0 4-1.796783 4-4 0-2.2032167-1.796783-4-4-4zm0 1c1.662777 0 3 1.3372234 3 3 0 1.662777-1.337223 3-3 3-1.6627766 0-3-1.337223-3-3 0-1.6627766 1.3372234-3 3-3z" class="ColorScheme-Text" fill="currentColor" color-rendering="auto" dominant-baseline="auto" image-rendering="auto"/>
+        <path d="m10.5 5v1h1v-1z" class="ColorScheme-Text" fill="currentColor" color-rendering="auto" dominant-baseline="auto" image-rendering="auto"/>
+        <path d="m10.5 16v1h1v-1z" class="ColorScheme-Text" fill="currentColor" color-rendering="auto" dominant-baseline="auto" image-rendering="auto"/>
+        <path d="m5 10.5v1h1v-1z" class="ColorScheme-Text" fill="currentColor" color-rendering="auto" dominant-baseline="auto" image-rendering="auto"/>
+        <path d="m16 10.5v1h1v-1z" class="ColorScheme-Text" fill="currentColor" color-rendering="auto" dominant-baseline="auto" image-rendering="auto"/>
+        <g>
+            <path d="m11.000001 7.7500005v6.4999985h2.166665l1.083333-2.166666v-2.1666663l-1.083333-2.1666662z" class="ColorScheme-Text" fill="currentColor" color-rendering="auto" dominant-baseline="auto" image-rendering="auto"/>
+            <path d="m10.984375 7.734375v0.015625 6.515625h2.191406l1.089844-2.177734v-2.1757816l-1.089844-2.1777344h-2.191406zm0.03125 0.03125h2.140625l1.078125 2.1542969v2.1601561l-1.078125 2.154297h-2.140625v-6.46875z" class="ColorScheme-Text" fill="currentColor" color-rendering="auto" dominant-baseline="auto" image-rendering="auto"/>
+        </g>
+        <path d="m14.807107 14.1-0.707107 0.707107 0.707107 0.707107 0.707107-0.707107z" class="ColorScheme-Text" fill="currentColor" color-rendering="auto" dominant-baseline="auto" image-rendering="auto"/>
+        <path d="m7.207107 14.1-0.707107 0.707107 0.707107 0.707107 0.707107-0.707107z" class="ColorScheme-Text" fill="currentColor" color-rendering="auto" dominant-baseline="auto" image-rendering="auto"/>
+        <path d="m14.807107 6.5-0.707107 0.707107 0.707107 0.707107 0.707107-0.707107z" class="ColorScheme-Text" fill="currentColor" color-rendering="auto" dominant-baseline="auto" image-rendering="auto"/>
+        <path d="M 7.207107,6.5 6.5,7.207107 7.207107,7.914214 7.914214,7.207107 Z" class="ColorScheme-Text" fill="currentColor" color-rendering="auto" dominant-baseline="auto" image-rendering="auto"/>
+    </g>
 </svg>

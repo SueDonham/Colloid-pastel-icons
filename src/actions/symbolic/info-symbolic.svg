@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <path fill="#050505" fill-opacity=".7" fill-rule="evenodd" d="M8 0a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 1a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z" style="paint-order:stroke fill markers"/>
-    <circle cx="8" cy="4.5" r=".5" fill="#050505" fill-opacity=".7" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
-    <rect width="1" height="6" x="7.5" y="6" fill="#050505" fill-opacity=".7" fill-rule="evenodd" rx=".5" ry=".5" style="paint-order:stroke fill markers"/>
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <style/>
+ <path d="m8 0a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 1a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z" fill="#363636" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ <circle cx="8" cy="4.5" r=".5" fill="#363636" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ <rect x="7.5" y="6" width="1" height="6" rx=".5" ry=".5" fill="#363636" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
 </svg>

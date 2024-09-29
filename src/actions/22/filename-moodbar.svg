@@ -1,8 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-    <path d="M331 537.362h3v16h-3z" style="fill:#ec9b97" transform="translate(-326 -534.362)"/>
-    <path d="M337 537.362h3v16h-3z" style="fill:#a8decc" transform="translate(-326 -534.362)"/>
-    <path d="M343 537.362h3v16h-3z" style="fill:#808cb3" transform="translate(-326 -534.362)"/>
-    <path d="M328 537.362h3v16h-3z" style="fill:#fae3a8" transform="translate(-326 -534.362)"/>
-    <path d="M340 537.362h3v16h-3z" style="fill:#a0b6cb" transform="translate(-326 -534.362)"/>
-    <path d="M334 537.362h3v16h-3z" style="fill:#c6d98c" transform="translate(-326 -534.362)"/>
+ <g transform="translate(-326-534.3622)">
+  <path d="m331 537.362h3v16h-3z" style="fill:#d48787"/>
+  <path d="m337 537.362h3v16h-3z" style="fill:#80b2a2"/>
+  <path d="m343 537.362h3v16h-3z" style="fill:#507e95"/>
+  <path d="m328 537.362h3v16h-3z" style="fill:#f3dea4"/>
+  <path d="m340 537.362h3v16h-3z" style="fill:#a0b6cb"/>
+  <path d="m334 537.362h3v16h-3z" style="fill:#b8d3e0"/>
+ </g>
 </svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#a0b6cb;
+      }
+      .ColorScheme-ButtonText {
+        color:#363636;
+      }</style>
+ <g transform="translate(1,1)">
+  <g id="fcitx-rime">
+   <path id="path4365" class="ColorScheme-Text" transform="translate(-110,-12)" d="m113 15v16h16v-16h-16zm1 1h14v14h-14v-14zm6 1v6.9824c-1.811-0.08165-2.7205-0.60659-3.2617-1.4922-0.58985-0.96521-0.73828-2.5111-0.73828-4.4902h-1c0 2.0208 0.10157 3.725 0.88672 5.0098 0.72658 1.189 2.0629 1.874 4.1133 1.9707v3.0195h-5v1h11v-1h-5v-3.0195c2.0504-0.09674 3.3867-0.78175 4.1133-1.9707 0.78515-1.2848 0.88672-2.9889 0.88672-5.0098h-1c0 1.9792-0.14843 3.525-0.73828 4.4902-0.5412 0.8856-1.4508 1.4105-3.2617 1.4922v-6.9824h-1z" fill="currentColor"/>
+   <rect id="rect4367" width="22" height="22" fill="none"/>
+  </g>
+ </g>
+</svg>

@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <path fill="#050505" fill-opacity=".7" d="M8 0a5 5 0 0 0-5 5c0 .345.028.675.094 1 .375 2.84 3.932 4.926 4.937 8.969C9.016 10.983 12.997 8.05 13 5a5 5 0 0 0-5-5zm0 1a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4z"/>
-    <circle cx="8" cy="5" r="2" fill="#050505" fill-opacity=".7" style="paint-order:fill markers stroke"/>
+<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
+    <g transform='translate(-393 -77)'>
+        
+        <path color='#000' d='M401 77a5 5 0 0 0-5 5c0 .345.028.675.094 1 .375 2.84 3.933 4.926 4.938 8.969.985-3.986 4.997-6.918 5-9.969H406a5 5 0 0 0-5-5zm0 2a3 3 0 1 1 0 6 3 3 0 0 1 0-6z' fill='#363636' overflow='visible' style='marker:none'/>
+    </g>
 </svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#a0b6cb;
+      }
+      .ColorScheme-ButtonText {
+        color:#363636;
+      }</style>
+ <g transform="translate(1,1)">
+  <g id="fcitx-punc-active" transform="translate(0 -170)">
+   <path id="path4251" class="ColorScheme-Text" d="m7.5 178c-1.3748 0-2.5 1.1252-2.5 2.5s1.1252 2.5 2.5 2.5 2.5-1.1252 2.5-2.5-1.1252-2.5-2.5-2.5zm0 1c0.83435 0 1.5 0.66565 1.5 1.5s-0.66565 1.5-1.5 1.5-1.5-0.66565-1.5-1.5 0.66565-1.5 1.5-1.5z" fill="currentColor"/>
+   <rect id="rect4245" x="-2.471e-9" y="170" width="22" height="22" fill="none"/>
+   <path id="path4255" class="ColorScheme-Text" transform="translate(-198 82)" d="m212.5 96c-1.3748 0-2.5 1.1252-2.5 2.5s1.1252 2.5 2.5 2.5c0.36519 0 0.70988-0.0842 1.0234-0.22656-0.34093 0.6932-0.81988 1.1673-1.3066 1.502-0.89509 0.61537-1.7793 0.72852-1.7793 0.72852l0.125 0.99218s1.1158-0.13685 2.2207-0.89648c1.1049-0.75963 2.2168-2.2015 2.2168-4.5996 0-1.3748-1.1252-2.5-2.5-2.5zm0 1c0.83435 0 1.5 0.66565 1.5 1.5s-0.66565 1.5-1.5 1.5-1.5-0.66565-1.5-1.5 0.66565-1.5 1.5-1.5z" fill="currentColor"/>
+  </g>
+ </g>
+</svg>

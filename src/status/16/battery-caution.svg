@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="16">
-    <g fill="#d98c8c" fill-rule="evenodd">
-        <rect width="3" height="6" x="2" y="5" rx=".505" ry=".546" style="paint-order:stroke fill markers"/>
-        <path d="M2 3C.892 3 0 3.892 0 5v6c0 1.108.892 2 2 2h13c1.108 0 2-.892 2-2V5c0-1.108-.892-2-2-2zm0 1h13c.554 0 1 .446 1 1v6c0 .554-.446 1-1 1H2c-.554 0-1-.446-1-1V5c0-.554.446-1 1-1zM18 6v4a2 2 0 0 0 2-2 2 2 0 0 0-2-2z" style="paint-order:stroke fill markers"/>
-    </g>
-</svg>

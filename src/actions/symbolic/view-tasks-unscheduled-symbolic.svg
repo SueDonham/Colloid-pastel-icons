@@ -1,13 +1,13 @@
-<svg width="16" height="16">
-    <g fill="#050505" fill-opacity=".7" stroke-linecap="round" stroke-linejoin="round">
-        <rect width="7" height="1" x="8" y="3" rx=".5" ry=".5"/>
-        <rect width="4" height="1" x="2.656" y=".415" ry=".5" transform="rotate(45)"/>
-        <rect width="6" height="1" x="-1.414" y="5.657" ry=".5" transform="rotate(-45)"/>
-        <rect width="7" height="1" x="8" y="8" rx=".5" ry=".5"/>
-        <rect width="4" height="1" x="6.192" y="3.95" ry=".5" transform="rotate(45)"/>
-        <rect width="6" height="1" x="-4.95" y="9.192" ry=".5" transform="rotate(-45)"/>
-        <rect width="7" height="1" x="8" y="13" rx=".5" ry=".5"/>
-        <rect width="4" height="1" x="9.727" y="7.486" ry=".5" transform="rotate(45)"/>
-        <rect width="6" height="1" x="-8.485" y="12.728" ry=".5" transform="rotate(-45)"/>
-    </g>
+<svg width="16" height="16" version="1.1">
+ <g fill="#363636" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="8" y="3" width="7" height="1" rx=".5" ry=".5"/>
+  <rect transform="rotate(45)" x="2.6562" y=".41486" width="4" height="1" ry=".5"/>
+  <rect transform="rotate(-45)" x="-1.4142" y="5.6569" width="6" height="1" ry=".5"/>
+  <rect x="8" y="8" width="7" height="1" rx=".5" ry=".5"/>
+  <rect transform="rotate(45)" x="6.1917" y="3.9504" width="4" height="1" ry=".5"/>
+  <rect transform="rotate(-45)" x="-4.9497" y="9.1924" width="6" height="1" ry=".5"/>
+  <rect x="8" y="13" width="7" height="1" rx=".5" ry=".5"/>
+  <rect transform="rotate(45)" x="9.7273" y="7.4859" width="4" height="1" ry=".5"/>
+  <rect transform="rotate(-45)" x="-8.4853" y="12.728" width="6" height="1" ry=".5"/>
+ </g>
 </svg>

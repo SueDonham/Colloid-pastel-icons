@@ -1,7 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-    <path fill="currentColor" d="m433.47 538.29.707.707-1.793 1.793 1.793 1.793-.707.707-1.793-1.793-1.793 1.793-.707-.707 1.793-1.793-1.793-1.793.707-.707 1.793 1.793z" color="#d98c8c" style="color:#d98c8c" transform="matrix(-1 0 0 1 437.71 -532.29)"/>
-    <g fill="currentColor" style="color:#050505;opacity:.7" transform="matrix(-1 0 0 1 16 0)">
-        <path d="M2 2C.892 2 0 2.892 0 4v9c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2V4c0-1.108-.892-2-2-2zm0 1h12c.554 0 1 .446 1 1v9c0 .554-.446 1-1 1H2c-.554 0-1-.446-1-1V4c0-.554.446-1 1-1z"/>
-        <rect width="1" height="11" x="5" y="3" ry="0"/>
-    </g>
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-NegativeText {
+        color:#d19494;
+      }</style>
+ </defs>
+ <g transform="matrix(-1,0,0,1,437.71,-532.29)">
+  <path class="ColorScheme-NegativeText" d="m433.47 538.29 0.70703 0.70703-1.793 1.793 1.793 1.793-0.70703 0.70703-1.793-1.793-1.793 1.793-0.70703-0.70703 1.793-1.793-1.793-1.793 0.70703-0.70703 1.793 1.793z" fill="currentColor"/>
+ </g>
+ <g class="ColorScheme-Text" transform="matrix(-1,0,0,1,16,0)" fill="currentColor">
+  <path d="m2 2c-1.108 0-2 0.892-2 2v9c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-9c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v9c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-9c0-0.554 0.446-1 1-1z"/>
+  <rect x="5" y="3" width="1" height="11" ry="0"/>
+ </g>
 </svg>

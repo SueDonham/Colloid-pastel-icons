@@ -1,14 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg6517" width="16" height="16" version="1.1">
-    <style id="current-color-scheme" type="text/css">
-        .ColorScheme-Text{color:#232629}
-    </style>
-    <rect id="rect6503" width="16" height="16" fill="#d67171" rx="2" style="color:#da4453"/>
-    <path id="path6505" fill="#d67171" fill-opacity=".6" d="M2 0C.892 0 0 .892 0 2v12c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2V2c0-1.108-.892-2-2-2zm0 1h12c.554 0 1 .446 1 1v12c0 .554-.446 1-1 1H2c-.554 0-1-.446-1-1V2c0-.554.446-1 1-1z" class="ColorScheme-Text"/>
-    <path id="path6506" fill="#000" fill-opacity=".2" d="M2 0C.892 0 0 .892 0 2v12c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2V2c0-1.108-.892-2-2-2zm0 1h12c.554 0 1 .446 1 1v12c0 .554-.446 1-1 1H2c-.554 0-1-.446-1-1V2c0-.554.446-1 1-1z" class="ColorScheme-Text"/>
-    <g id="g6515" fill="#000" fill-opacity=".46">
-        <path id="path6507" d="M2 7v2h12V7z"/>
-        <path id="path6509" d="M15 14a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1z"/>
-        <path id="path6511" d="M9 14a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1z"/>
-        <path id="path6513" d="M12 14a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1z"/>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-NegativeText {
+            color:#d19494;
+        }
+        .ColorScheme-Text {
+            color:#5e5e5e;
+        }</style>
+ <rect class="ColorScheme-NegativeText" width="16" height="16" rx="2" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="M2 0C.892 0 0 .892 0 2v12c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2V2c0-1.108-.892-2-2-2zm0 1h12c.554 0 1 .446 1 1v12c0 .554-.446 1-1 1H2c-.554 0-1-.446-1-1V2c0-.554.446-1 1-1z" fill="currentColor" fill-opacity=".6"/>
+ <g fill="#fff">
+  <path d="M2 7v2h12V7z"/>
+  <path d="m15 14a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1z"/>
+  <path d="m9 14a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1z"/>
+  <path d="m12 14a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1z"/>
+ </g>
 </svg>

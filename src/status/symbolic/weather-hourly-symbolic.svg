@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <g fill="currentColor" fill-opacity=".7" class="ColorScheme-Text" color="#050505" transform="matrix(-1 0 0 1 16 0)">
-        <path d="M8 0a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 1a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z"/>
-        <rect width="1" height="7" x="8" y="2" ry=".5"/>
-        <rect width="1" height="6" x="8" y="-9" ry=".5" transform="rotate(90)"/>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g class="ColorScheme-Text" transform="matrix(-1,0,0,1,16,0)" color="#363636" fill="currentColor">
+  <path d="m8 0a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 1a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z"/>
+  <rect x="8" y="2" width="1" height="7" ry=".5"/>
+  <rect transform="rotate(90)" x="8" y="-9" width="1" height="6" ry=".5"/>
+ </g>
 </svg>

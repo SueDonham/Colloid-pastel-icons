@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+            color:#363636;
+        }</style>
+ <g class="ColorScheme-Text" fill="currentColor">
+  <path d="m3 2v12h6v-1h-2v-2h2v-1h-3.293l-1-1h-0.70703v-1h0.70703l1-1h5.293v-0.70703l-0.29297-0.29297h-0.70703v-2h1c0.554 0 1 0.446 1 1v2h1v-2.707l-2.293-2.293zm2 2h1v2h-0.70703l-1.293 1.293v-2.293c0-0.554 0.446-1 1-1zm2 0h2v2h-2zm-3 5.707 1.293 1.293h0.70703v2h-1c-0.554 0-1-0.446-1-1z"/>
+  <path d="m12.5 8a1.5 1.5 0 0 0-1.5 1.5v1.5h-1v3h5v-3h-1v-1.5a1.5 1.5 0 0 0-1.5-1.5zm0 1a0.5 0.5 0 0 1 0.5 0.5v1.5h-1v-1.5a0.5 0.5 0 0 1 0.5-0.5z" fill-rule="evenodd"/>
+ </g>
+</svg>

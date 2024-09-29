@@ -1,5 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-    <g fill="currentColor" style="color:#d98c8c">
-        <path d="M7 3C5.338 3 4 4.338 4 6v4h1V6c0-1.108.892-2 2-2h5v5h5v1h1V8l-5-5H7zm6 1.414L16.586 8H13V4.414zM3 11h16v1H3zM4 13h1v6H4zM6 13h1v6H6zM8 13h1v6H8zM10 13h1v6h-1zM12 13h1v6h-1zM14 13h1v6h-1zM16 13h1v6h-1z"/>
-    </g>
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-NegativeText{color:#d19494;}</style>
+ <g class="ColorScheme-NegativeText" fill="currentColor">
+  <path d="m7 3c-1.662 0-3 1.338-3 3v4h1v-4c0-1.108 0.892-2 2-2h5v5h5v1h1v-2l-5-5h-1-5zm6 1.4141 3.5859 3.5859h-3.5859v-3.5859z"/>
+  <path d="m3 11 16 1.2e-5 -1.2e-5 0.99999-16-1.2e-5z"/>
+  <path d="m4 13 0.99999 7.2e-5 -1.17e-5 5.9999-0.99999-7.2e-5z"/>
+  <path d="m6 13 0.99999 7.2e-5 -1.17e-5 5.9999-0.99999-7.2e-5z"/>
+  <path d="m8 13 0.99999 7.2e-5 -1.17e-5 5.9999-0.99999-7.2e-5z"/>
+  <path d="m10 13 0.99999 7.2e-5 -1.2e-5 5.9999-0.99999-7.2e-5z"/>
+  <path d="m12 13 0.99999 7.2e-5 -1.2e-5 5.9999-0.99999-7.2e-5z"/>
+  <path d="m14 13 0.99999 7.2e-5 -1.1e-5 5.9999-0.99999-7.2e-5z"/>
+  <path d="m16 13 0.99999 7.2e-5 -1.2e-5 5.9999-0.99999-7.2e-5z"/>
+ </g>
 </svg>

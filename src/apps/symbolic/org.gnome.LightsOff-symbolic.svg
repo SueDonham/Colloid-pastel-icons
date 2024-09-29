@@ -1,9 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <g fill="#050505" opacity=".7">
-        <path d="M2.03 1C1.459 1 .999 1.46.999 2.031V5.97c0 .571.46 1.03 1.031 1.03h3.937C6.54 7 7 6.54 7 5.97V2.03C6.999 1.46 6.539 1 5.967 1H2.03zm-.031 1h4v4h-4V2zM9.03 8c-.571 0-1.031.46-1.031 1.031v3.938c0 .571.46 1.03 1.031 1.03h3.937C13.54 14 14 13.54 14 12.97V9.03c0-.571-.46-1.031-1.032-1.031H9.03zm-.031 1h4v4h-4V9z" opacity=".5"/>
-        <path d="M9.03 1c-.571 0-1.031.46-1.031 1.031V5.97c0 .571.46 1.03 1.031 1.03h3.937C13.54 7 14 6.54 14 5.97V2.03c0-.571-.46-1.031-1.032-1.031H9.03zm-.031 1h4v4h-4V2zM2.03 8C1.459 8 .999 8.46.999 9.031v3.938c0 .571.46 1.03 1.031 1.03h3.937C6.54 14 7 13.54 7 12.97V9.03C6.999 8.46 6.539 8 5.967 8H2.03zm-.031 1h4v4h-4V9z"/>
-        <path fill-rule="evenodd" d="M365-143h4v4h-4z" opacity=".25" style="paint-order:stroke fill markers" transform="translate(-363 145)"/>
-        <path fill-rule="evenodd" d="M372-143h4v4h-4zM365-136h4v4h-4z" opacity=".5" style="paint-order:stroke fill markers" transform="translate(-363 145)"/>
-        <path fill-rule="evenodd" d="M372-136h4v4h-4z" opacity=".25" style="paint-order:stroke fill markers" transform="translate(-363 145)"/>
-    </g>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <title>Gnome Symbolic Icon Theme</title>
+ <g transform="translate(-363 145)" fill="#363636">
+  <path d="m365.03-144c-0.57131 0-1.0312 0.45994-1.0312 1.0312v3.9375c0 0.57131 0.45994 1.0312 1.0312 1.0312h3.9375c0.57131 0 1.0312-0.45994 1.0312-1.0312v-3.9375c0-0.57131-0.45994-1.0312-1.0312-1.0312h-3.9375zm-0.03125 1h4v4h-4v-4z" opacity=".5"/>
+  <path d="m372.03-137c-0.57131 0-1.0312 0.45994-1.0312 1.0312v3.9375c0 0.57131 0.45994 1.0312 1.0312 1.0312h3.9375c0.57131 0 1.0312-0.45994 1.0312-1.0312v-3.9375c0-0.57131-0.45994-1.0312-1.0312-1.0312h-3.9375zm-0.03125 1h4v4h-4v-4z" opacity=".5"/>
+  <path d="m372.03-144c-0.57131 0-1.0312 0.45994-1.0312 1.0312v3.9375c0 0.57131 0.45994 1.0312 1.0312 1.0312h3.9375c0.57131 0 1.0312-0.45994 1.0312-1.0312v-3.9375c0-0.57131-0.45994-1.0312-1.0312-1.0312h-3.9375zm-0.03125 1h4v4h-4v-4z"/>
+  <path d="m365.03-137c-0.57131 0-1.0312 0.45994-1.0312 1.0312v3.9375c0 0.57131 0.45994 1.0312 1.0312 1.0312h3.9375c0.57131 0 1.0312-0.45994 1.0312-1.0312v-3.9375c0-0.57131-0.45994-1.0312-1.0312-1.0312h-3.9375zm-0.03125 1h4v4h-4v-4z"/>
+  <rect x="365" y="-143" width="4" height="4" fill-rule="evenodd" opacity=".25" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+  <rect x="372" y="-143" width="4" height="4" fill-rule="evenodd" opacity=".5" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+  <rect x="365" y="-136" width="4" height="4" fill-rule="evenodd" opacity=".5" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+  <rect x="372" y="-136" width="4" height="4" fill-rule="evenodd" opacity=".25" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ </g>
 </svg>

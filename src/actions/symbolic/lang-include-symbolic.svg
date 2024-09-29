@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <path fill="#050505" fill-opacity=".7" fill-rule="evenodd" d="M2 4h12v1H2zM2 10h12v1H2z"/>
-    <path fill="#050505" fill-opacity=".7" fill-rule="evenodd" d="M5 1h1v13H5zM10 1h1v13h-1z"/>
+<svg width="16px" height="16px" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <rect x="2" y="4" width="12" height="1" fill="#363636" fill-rule="evenodd" stop-color="#000000" stroke-width="1.0445"/>
+ <rect x="2" y="10" width="12" height="1" fill="#363636" fill-rule="evenodd" stop-color="#000000" stroke-width="1.0445"/>
+ <rect x="5" y="1" width="1" height="13" fill="#363636" fill-rule="evenodd" stop-color="#000000" stroke-width=".96362"/>
+ <rect x="10" y="1" width="1" height="13" fill="#363636" fill-rule="evenodd" stop-color="#000000" stroke-width=".96362"/>
 </svg>

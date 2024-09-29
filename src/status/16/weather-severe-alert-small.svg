@@ -1,9 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <path fill="#5e5c64" d="M7 5v8h5.063A3.938 4 0 0 0 16 9a3.938 4 0 0 0-3.937-4z"/>
-    <circle cx="6" cy="7" r="6" fill="#5e5c64"/>
-    <g fill-rule="evenodd">
-        <circle cx="8.5" cy="12.5" r="3.5" fill="#f5cba3" style="paint-order:stroke fill markers"/>
-        <rect width="1" height="3" x="8" y="10" fill="#000" rx=".5" ry=".5" style="paint-order:stroke fill markers;fill:#040404;fill-opacity:1"/>
-        <rect width="1" height="1" x="8" y="14" fill="#000" rx=".5" ry=".5" style="paint-order:stroke fill markers;fill:#040404;fill-opacity:1"/>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg406" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path id="path394" d="m7 5v8h5.0625a3.9375 4 0 0 0 3.9375-4 3.9375 4 0 0 0-3.9375-4z" fill="#5e5c64" stroke-width=".56695"/>
+ <circle id="circle396" cx="6" cy="7" r="6" fill="#5e5c64" stroke-width=".6"/>
+ <g id="g404" fill-rule="evenodd">
+  <circle id="circle398" cx="8.5" cy="12.5" r="3.5" fill="#deb68c" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  <rect id="rect400" x="8" y="10" width="1" height="3" rx=".5" ry=".5" fill="#f9f9f9" stop-color="#000000" style="paint-order:stroke fill markers"/>
+  <rect id="rect402" x="8" y="14" width="1" height="1" rx=".5" ry=".5" fill="#f9f9f9" stop-color="#000000" style="paint-order:stroke fill markers"/>
+ </g>
 </svg>

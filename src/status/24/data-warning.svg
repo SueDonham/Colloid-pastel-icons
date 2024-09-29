@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg9" width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-NeutralText {
+            color:#f5cba3;
+        }</style>
+ <g id="g7" transform="translate(1,1)">
+  <path id="path3" class="ColorScheme-NeutralText" d="m11.006 3a0.72729 0.72727 0 0 0-0.65674 0.40218l-7.2729 14.545a0.72729 0.72727 0 0 0 0.65092 1.0524h14.546a0.72729 0.72727 0 0 0 0.65092-1.0524l-7.2729-14.545a0.72729 0.72727 0 0 0-0.6451-0.40218z" fill="#deb68c"/>
+  <path id="path5" d="m10 7v5h2v-5zm0 7v2h2v-2z" fill="#fff"/>
+ </g>
+</svg>

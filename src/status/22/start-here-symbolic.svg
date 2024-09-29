@@ -1,12 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
-    <defs>
-        <style id="current-color-scheme" type="text/css">
-            .ColorScheme-Text{color:#050505;opacity:.7}.ColorScheme-Highlight{color:#a0b6cb}
-        </style>
-    </defs>
-    <g fill="#050505" opacity=".7" transform="translate(3 3)">
-        <path d="M8 1a7 7 0 0 0-7 7 7 7 0 0 0 7 7 7 7 0 0 0 7-7 7 7 0 0 0-7-7zm0 1a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" opacity=".45"/>
-        <path d="M7.975 3A4.975 4.975 0 0 0 3 7.975a4.975 4.975 0 0 0 4.975 4.974A4.975 4.975 0 0 0 12.83 9h-2.064a2.975 2.975 0 0 1-2.791 1.95A2.975 2.975 0 0 1 5 7.974 2.975 2.975 0 0 1 7.975 5a2.975 2.975 0 0 1 2.806 2h2.059a4.975 4.975 0 0 0-4.865-4Z"/>
-        <circle cx="8" cy="8" r="2" opacity=".45"/>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#a0b6cb; }</style>
+ </defs>
+ <g id="22-22-start-here-kde" class="ColorScheme-Text" transform="translate(-45,35)" fill="currentColor">
+  <path d="m56-35a11 11 0 0 0-11 11 11 11 0 0 0 11 11 11 11 0 0 0 11-11 11 11 0 0 0-11-11zm0 2a9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9 9 9 0 0 1 9-9z" opacity=".5"/>
+  <circle cx="56" cy="-24" r="2" opacity=".5"/>
+  <path d="m56-31a7 7 0 0 0-7 7 7 7 0 0 0 7 7 7 7 0 0 0 6.9297-6h-3.0723a4 4 0 0 1-3.8574 3 4 4 0 0 1-4-4 4 4 0 0 1 4-4 4 4 0 0 1 3.8711 3h3.0566a7 7 0 0 0-6.9277-6z"/>
+ </g>
 </svg>

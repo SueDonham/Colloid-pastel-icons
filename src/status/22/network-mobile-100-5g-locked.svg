@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22" height="22" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#a0b6cb;
+      }
+      .ColorScheme-ViewText {
+        color:#363636;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#b8d3e0;
+      }
+      .ColorScheme-ViewFocus{
+        color:#a0b6cb;
+      }
+      .ColorScheme-ButtonText {
+        color:#363636;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#b8d3e0;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#a0b6cb;
+      }
+      .ColorScheme-NegativeText{
+        color:#ec9b97;
+      }</style>
+ <g id="network-mobile-100-5g-locked" transform="translate(22 88)">
+  <rect id="rect4856-5" x="-22" y="-88" width="22" height="22" fill="none" opacity=".55"/>
+  <path id="path4858-9" class="ColorScheme-Text" d="m-3-85-16 16h11v-3l1-1v-2l2-2h2z" fill="currentColor" fill-rule="evenodd"/>
+  <path id="path4860-2" class="ColorScheme-Text" d="m-4-76c-1.108 0-2 0.892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1v2h-2v-2c0-0.554 0.446-1 1-1z" fill="currentColor"/>
+  <path id="path5068-2" class="ColorScheme-Text" d="m-14-85v5h4v-3h-2v1h1v1h-2v-3h3v-1h-3z" fill="currentColor"/>
+  <path id="rect1642-5" class="ColorScheme-Text" d="m-19-85v3h3v1h-3v1h4v-3h-3v-1h3v-1z" fill="currentColor"/>
+ </g>
+</svg>

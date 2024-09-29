@@ -1,60 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24">
-    <defs>
-        <linearGradient id="b" x1="424.57" x2="408.57" y1="523.8" y2="539.8" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#cc0"/>
-            <stop offset=".312" stop-color="#cc0"/>
-            <stop offset=".562" stop-color="#fae3a8"/>
-            <stop offset=".75" stop-color="#f5cba3"/>
-            <stop offset="1" stop-color="#ec9b97"/>
-        </linearGradient>
-        <linearGradient id="a" x1="8" x2="24" y1="24" y2="8" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#f4b9be"/>
-            <stop offset=".312" stop-color="#f4b9be"/>
-            <stop offset=".562" stop-color="#a79cc9"/>
-            <stop offset=".75" stop-color="#a0b6cb"/>
-            <stop offset="1" stop-color="#a0b6cb"/>
-        </linearGradient>
-        <linearGradient id="f" x1="424.57" x2="408.57" y1="523.8" y2="507.8" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#cc0"/>
-            <stop offset=".312" stop-color="#c6d98c"/>
-            <stop offset=".562" stop-color="#c6d98c"/>
-            <stop offset=".75" stop-color="#a8decc"/>
-            <stop offset="1" stop-color="#a0b6cb"/>
-        </linearGradient>
-        <linearGradient id="c" x1="392.57" x2="408.57" y1="523.8" y2="539.8" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#f4b9be"/>
-            <stop offset=".312" stop-color="#f4b9be"/>
-            <stop offset=".562" stop-color="#d98c8c"/>
-            <stop offset=".75" stop-color="#ec9b97"/>
-            <stop offset="1" stop-color="#d98c8c"/>
-        </linearGradient>
-        <path id="d" fill="url(#a)" d="M24 8C15.136 8 8 15.136 8 24h16V8"/>
-        <path id="g" fill="url(#b)" d="M408.571 539.798c8.864 0 16-7.136 16-16h-16v16"/>
-        <path id="e" fill="url(#c)" d="M408.571 539.798c-8.864 0-16-7.136-16-16h16v16"/>
-    </defs>
-    <g transform="matrix(1.09334 0 0 1.09335 -.027 -1127.57)">
-        <g transform="rotate(15 -3071.937 46.542) scale(.4)">
-            <use xlink:href="#d" clip-path="url(#5)" transform="translate(384.57 499.8)"/>
-            <use xlink:href="#e" clip-path="url(#6)"/>
-            <path fill="url(#f)" d="M408.571 507.798c8.864 0 16 7.136 16 16h-16v-16" clip-path="url(#7)"/>
-            <use xlink:href="#g" clip-path="url(#8)"/>
-        </g>
-        <g opacity=".7" transform="matrix(.4 0 0 .4 -152.43 831.84)">
-            <use xlink:href="#d" clip-path="url(#9)" filter="url(#4)" transform="translate(384.57 499.8)"/>
-            <use xlink:href="#e" clip-path="url(#A)" filter="url(#4)"/>
-            <use xlink:href="#g" clip-path="url(#B)" filter="url(#4)"/>
-            <path fill="url(#f)" d="M408.571 507.798c8.864 0 16 7.136 16 16h-16v-16" clip-path="url(#C)" filter="url(#4)"/>
-        </g>
-        <use xlink:href="#d" clip-path="url(#9)" opacity=".35" transform="scale(.4) rotate(45 -3087.91 1317.946)"/>
-        <path fill="url(#c)" d="M408.571 539.798c-8.864 0-16-7.136-16-16h16v16" clip-path="url(#A)" opacity=".35" transform="scale(.4) rotate(45 -2292.3 1103.62)"/>
-        <use xlink:href="#g" clip-path="url(#B)" opacity=".35" transform="scale(.4) rotate(45 -2292.3 1103.62)"/>
-        <path fill="url(#f)" d="M408.571 507.798c8.864 0 16 7.136 16 16h-16v-16" clip-path="url(#C)" opacity=".35" transform="scale(.4) rotate(45 -2292.3 1103.62)"/>
-        <g transform="rotate(75 -454.826 526.113) scale(.4)">
-            <use xlink:href="#d" clip-path="url(#D)" opacity=".3" transform="translate(384.57 499.8)"/>
-            <use xlink:href="#e" clip-path="url(#E)" opacity=".3"/>
-            <use xlink:href="#g" clip-path="url(#F)" opacity=".3"/>
-            <path fill="url(#f)" d="M408.571 507.798c8.864 0 16 7.136 16 16h-16v-16" clip-path="url(#G)" opacity=".3"/>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24" width="24" height="24">
+  <defs>
+    <path fill="url(#0)" id="H" d="m24 8c-8.863992 0-16 7.136008-16 16h16v-16"/>
+    <path fill="url(#3)" id="I" d="m408.57143 539.798c8.86399 0 16-7.13601 16-16h-16v16"/>
+    <path fill="url(#1)" id="J" d="m408.57143 539.798c-8.86399 0-16-7.13601-16-16h16v16"/>
+    <linearGradient id="3" y1="523.8" y2="539.8" x1="424.57" x2="408.57" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c6d98c"/>
+      <stop offset="0.312" stop-color="#f3dea4"/>
+      <stop offset="0.562" stop-color="#f3dea4"/>
+      <stop offset="0.75" stop-color="#f5cba3"/>
+      <stop offset="1" stop-color="#deb68c"/>
+    </linearGradient>
+    <linearGradient id="0" y1="24" y2="8" x1="8" x2="24" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#de8787"/>
+      <stop offset="0.312" stop-color="#de8787"/>
+      <stop offset="0.562" stop-color="#bdb3c1"/>
+      <stop offset="0.75" stop-color="#80a2b2"/>
+      <stop offset="1" stop-color="#8eb9ce"/>
+    </linearGradient>
+    <linearGradient id="2" y1="523.8" y2="507.8" x1="424.57" x2="408.57" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c6d98c"/>
+      <stop offset="0.312" stop-color="#c6d98c"/>
+      <stop offset="0.562" stop-color="#aac69f"/>
+      <stop offset="0.75" stop-color="#9fc6be"/>
+      <stop offset="1" stop-color="#8eb9ce"/>
+    </linearGradient>
+    <linearGradient id="1" y1="523.8" y2="539.8" x1="392.57" x2="408.57" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#de8787"/>
+      <stop offset="0.312" stop-color="#de8787"/>
+      <stop offset="0.562" stop-color="#d48787"/>
+      <stop offset="0.75" stop-color="#d48787"/>
+      <stop offset="1" stop-color="#d48787"/>
+    </linearGradient>
+    <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text {
+    color:#363636;
+   }
+  </style>
+  </defs>
+  <g transform="translate(1,1)">
+    <g transform="matrix(1.093343,0,0,1.0933518,-1.0272637,-1128.5694)">
+      <g transform="matrix(0.38637 0.10353 -0.10353 0.38637 -92.63 796.68)">
+        <use xlink:href="#H" clip-path="url(#5)" transform="matrix(1 0 0 1 384.57 499.8)"/>
+        <use xlink:href="#J" clip-path="url(#6)"/>
+        <path fill="url(#2)" d="m408.57143 507.798c8.86399 0 16 7.13601 16 16h-16v-16" clip-path="url(#7)"/>
+        <use xlink:href="#I" clip-path="url(#8)"/>
+      </g>
+      <g opacity="0.7" transform="matrix(0.4 0 0 0.4 -152.43 831.84)">
+        <use filter="url(#4)" xlink:href="#H" clip-path="url(#9)" transform="matrix(1 0 0 1 384.57 499.8)"/>
+        <use filter="url(#4)" xlink:href="#J" clip-path="url(#A)"/>
+        <use filter="url(#4)" xlink:href="#I" clip-path="url(#B)"/>
+        <path fill="url(#2)" filter="url(#4)" d="m408.57143 507.798c8.86399 0 16 7.13601 16 16h-16v-16" clip-path="url(#C)"/>
+      </g>
+      <use opacity="0.35" xlink:href="#H" clip-path="url(#9)" transform="matrix(0.28284 0.28284 -0.28284 0.28284 11 1027.79)"/>
+      <path opacity="0.35" fill="url(#1)" d="m408.57143 539.798c-8.86399 0-16-7.13601-16-16h16v16" clip-path="url(#A)" transform="matrix(0.28284 0.28284 -0.28284 0.28284 43.591 777.65)"/>
+      <use opacity="0.35" xlink:href="#I" clip-path="url(#B)" transform="matrix(0.28284 0.28284 -0.28284 0.28284 43.591 777.65)"/>
+      <path opacity="0.35" fill="url(#2)" d="m408.57143 507.798c8.86399 0 16 7.13601 16 16h-16v-16" clip-path="url(#C)" transform="matrix(0.28284 0.28284 -0.28284 0.28284 43.591 777.65)"/>
+      <g transform="matrix(0.10353 0.38637 -0.38637 0.10353 171.08 829.27)">
+        <use opacity="0.3" xlink:href="#H" clip-path="url(#D)" transform="matrix(1 0 0 1 384.57 499.8)"/>
+        <use opacity="0.3" xlink:href="#J" clip-path="url(#E)"/>
+        <use opacity="0.3" xlink:href="#I" clip-path="url(#F)"/>
+        <path opacity="0.3" fill="url(#2)" d="m408.57143 507.798c8.86399 0 16 7.13601 16 16h-16v-16" clip-path="url(#G)"/>
+      </g>
     </g>
-    <path d="m1 15.708 3.5 3.5 3.5-3.5L7.293 15 5 17.294V10a6 6 0 0 1 12 0h1a7 7 0 1 0-14 0v7.294L1.707 15 1 15.708Z" style="fill:currentColor;fill-opacity:1;stroke:none;color:#050505;opacity:.7" transform="translate(1 1)"/>
+    <path d="M 1 15.7075 L 4.5 19.2075 L 8 15.7075 L 7.29297 15.0005 L 5 17.2935 L 5 9.99997 C 5 6.68627 7.6863 3.99997 11 3.99997 C 14.3137 3.99997 17 6.68627 17 9.99997 L 18 9.99997 C 18 6.13397 14.866 2.99997 11 2.99997 C 7.13402 2.99997 4 6.13397 4 9.99997 L 4 17.2935 L 1.70704 15.0005 L 1 15.7075 Z" class="ColorScheme-Text" style="fill:currentColor; fill-opacity:1; stroke:none"/>
+  </g>
 </svg>

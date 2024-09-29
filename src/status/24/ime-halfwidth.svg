@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#a0b6cb;
+      }
+      .ColorScheme-ButtonText {
+        color:#363636;
+      }</style>
+ <g transform="translate(1,1)">
+  <g id="ime-halfwidth" transform="translate(0 -170)">
+   <rect id="rect4222" x="-2.471e-9" y="170" width="22" height="22" fill="none"/>
+   <path id="ellipse4224" class="ColorScheme-Text" transform="translate(-154 82)" d="m167.57 91.432a8 8 0 0 1 0.43359 2.5684 8 8 0 0 1-8 8 8 8 0 0 1-2.5664-0.43164 8 8 0 0 0 7.5664 5.4316 8 8 0 0 0 8-8 8 8 0 0 0-5.4336-7.5684z" fill="currentColor"/>
+  </g>
+ </g>
+</svg>

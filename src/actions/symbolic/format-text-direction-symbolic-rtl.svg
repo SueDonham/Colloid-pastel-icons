@@ -1,7 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <g fill="#050505" color="#050505">
-        <path d="M-568.001 58h14v1h-14zM-568.001 61h14v1h-14z" opacity=".7" overflow="visible" style="marker:none" transform="matrix(-1 0 0 1 -553 -57)"/>
-        <path d="M568.001 67h-10v1h10zm-12 1v2h10v1h-10v2l-3-2.5z" opacity=".7" overflow="visible" style="marker:none" transform="translate(-553 -57)"/>
-        <path d="M-568.001 64h14v1h-14z" opacity=".7" overflow="visible" style="marker:none" transform="matrix(-1 0 0 1 -553 -57)"/>
+<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
+    <g color='#363636' transform='translate(-553 -57)'>
+        <rect fill='#363636' height='1' overflow='visible' style='marker:none' transform='scale(-1 1)' width='14' x='-568.001' y='58'/>
+        <rect fill='#363636' height='1' overflow='visible' style='marker:none' transform='scale(-1 1)' width='14' x='-568.001' y='61'/>
+        <path d='M568.001 67h-10v1h10zM556.001 68v2h10v1h-10v2l-3-2.5z' fill='#363636' overflow='visible' style='marker:none'/>
+        <rect fill='#363636' height='1' overflow='visible' style='marker:none' transform='scale(-1 1)' width='14' x='-568.001' y='64'/>
+        
     </g>
 </svg>

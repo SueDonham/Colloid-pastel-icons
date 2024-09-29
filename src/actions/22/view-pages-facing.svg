@@ -1,5 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-    <g style="fill:currentColor;fill-opacity:1;stroke:none;color:#050505;opacity:.7">
-        <path d="M12 17V5h6l3 3v9zm1-1h7V9h-3V6h-4zM10 17V5H4L1 8v9zm-1-1H2V9h3V6h4z"/>
+<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+    <style type="text/css" id="current-color-scheme">
+        .ColorScheme-Text {
+            color:#363636;
+        }</style>
+    <g  style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text">
+        <path d="m12 17v-12h6l3 3v9zm1-1h7v-7h-3v-3h-4z"/>
+        <path d="m10 17v-12h-6l-3 3v9zm-1-1h-7v-7h3v-3h4z"/>
     </g>
 </svg>

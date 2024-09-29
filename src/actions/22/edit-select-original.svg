@@ -1,12 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-    <defs>
-        <style id="current-color-scheme" type="text/css">
-            .ColorScheme-Text{color:#050505;opacity:.7}
-        </style>
-    </defs>
-    <g fill="currentColor" class="ColorScheme-Text">
-        <path d="M16 13a2 2 0 0 0-2 2v2h-1v3h6v-3h-1v-2a2 2 0 0 0-2-2zm0 1a1 1 0 0 1 1 1v2h-2v-2a1 1 0 0 1 1-1z" class="ColorScheme-Text"/>
-    </g>
-    <path fill="currentColor" d="M8 4C6.338 4 5 5.338 5 7v10c0 1.662 1.338 3 3 3h4v-1H8c-1.108 0-2-.892-2-2V7c0-1.108.892-2 2-2h8c1.108 0 2 .892 2 2v5h1V7c0-1.662-1.338-3-3-3H8z" class="ColorScheme-Text"/>
-    <path fill="currentColor" d="M6 2C4.338 2 3 3.338 3 5v10c0 1.36.902 2.491 2.139 2.861A2.982 2.982 0 0 1 5 17v-.275A1.99 1.99 0 0 1 4 15V5c0-1.108.892-2 2-2h8a1.99 1.99 0 0 1 1.725 1H16c.302 0 .587.056.861.139A2.984 2.984 0 0 0 14 1.999z" style="color:#a0b6cb"/>
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-Highlight {
+        color:#a0b6cb;
+      }</style>
+ </defs>
+ <g class="ColorScheme-Text" transform="translate(4,5)" fill="currentColor">
+  <path class="ColorScheme-Text" d="m12 8c-1.1046 1e-7 -2 0.89543-2 2v2h-1v3h6v-3h-1v-2c0-1.1046-0.89543-2-2-2zm0 1c0.55228 0 1 0.44772 1 1v2h-2v-2c0-0.55228 0.44772-1 1-1z" fill="currentColor"/>
+ </g>
+ <path d="m8 4c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h4v-1h-4c-1.108 0-2-0.892-2-2v-10c0-1.108 0.892-2 2-2h8c1.108 0 2 0.892 2 2v5h1v-5c0-1.662-1.338-3-3-3h-8z" class="ColorScheme-Text" fill="currentColor"/>
+ <path d="m6 2c-1.662 0-3 1.338-3 3v10c0 1.3601 0.90221 2.491 2.1387 2.8613-0.082195-0.2744-0.13867-0.55948-0.13867-0.86133v-0.27539c-0.5958-0.34556-1-0.98354-1-1.7246v-10c0-1.108 0.892-2 2-2h8c0.74107 0 1.379 0.4042 1.7246 1h0.27539c0.30185 0 0.58693 0.056477 0.86133 0.13867-0.37037-1.2365-1.5012-2.1387-2.8613-2.1387z" class="ColorScheme-Highlight" fill="currentColor"/>
 </svg>

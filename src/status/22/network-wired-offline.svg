@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
-    <defs>
-        <style id="current-color-scheme" type="text/css">
-            .ColorScheme-Highlight{color:#a0b6cb}
-        </style>
-    </defs>
-    <path fill="currentColor" d="m5.352 3.758-.94.942 13.543 13.542.94-.942-1.407-1.406a1 1 0 0 0 .34-.312l2.938-3.918a1 1 0 0 0 .029-.038 1 1 0 0 0 .205-.607 1 1 0 0 0-.254-.662l-2.894-3.861a1 1 0 0 0-.854-.474A1 1 0 0 0 16 7.024a1 1 0 0 0 .2.596l-.005.002 2.551 3.402-2.55 3.402.001.002a1 1 0 0 0-.068.108l-2.682-2.682a1 1 0 0 0 .553.168 1 1 0 0 0 0-2 1 1 0 0 0-.83 1.555zm-.829 2.384a1 1 0 0 0-.375.356l-2.894 3.86a1 1 0 0 0-.254.663 1 1 0 0 0 .205.607 1 1 0 0 0 .03.038l2.937 3.918a1 1 0 0 0 .826.439A1 1 0 0 0 6 15.024a1 1 0 0 0-.197-.596l.002-.002-2.551-3.402 2.55-3.402-.003-.002a1 1 0 0 0 .078-.123L4.523 6.141zM8 10.022a1 1 0 0 0 0 2 1 1 0 0 0 .777-1.627l-.15-.15A1 1 0 0 0 8 10.022z" opacity=".5" style="color:#050505;opacity:.7"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#a0b6cb; }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m5 4c-1.108 0-2 0.892-2 2v8c0 1.108 0.892 2 2 2h2c0 1.108 0.892 2 2 2h4c1.108 0 2-0.892 2-2h2c1.108 0 2-0.892 2-2v-8c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v8c0 0.554-0.446 1-1 1h-3v1c0 0.554-0.446 1-1 1h-4c-0.554 0-1-0.446-1-1v-1h-3c-0.554 0-1-0.446-1-1v-8c0-0.554 0.446-1 1-1z" fill="currentColor" opacity=".35"/>
+ <path class="ColorScheme-Text" d="m8.5 8c-0.277 0-0.5 0.223-0.5 0.5v3c0 0.277 0.223 0.5 0.5 0.5s0.5-0.223 0.5-0.5v-3c0-0.277-0.223-0.5-0.5-0.5zm5 0c-0.277 0-0.5 0.223-0.5 0.5v3c0 0.277 0.223 0.5 0.5 0.5s0.5-0.223 0.5-0.5v-3c0-0.277-0.223-0.5-0.5-0.5z" fill="currentColor" opacity=".35"/>
+ <rect class="ColorScheme-Text" transform="rotate(45)" x="4.5563" y="-.5" width="22" height="1" rx=".5" ry=".5" color="#363636" fill="currentColor"/>
 </svg>

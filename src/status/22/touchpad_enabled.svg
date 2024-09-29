@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22" height="22" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#a0b6cb;
+      }
+      .ColorScheme-ButtonText {
+        color:#363636;
+      }
+      .ColorScheme-NegativeText {
+        color:#d19494;
+      }</style>
+ <g id="22-22-touchpad_enabled" transform="translate(0 -10)">
+  <path id="path7" class="ColorScheme-Text" d="m4 13c-0.554 0-1 0.446-1 1v14c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-14c0-0.554-0.446-1-1-1h-14zm0 1h14v11h-14v-11zm0 12h6v2h-6v-2zm8 0h6v2h-6v-2z" fill="currentColor"/>
+  <path id="path9" d="m0 10v22h22v-22h-22z" fill="none"/>
+ </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#a0b6cb;
+      }
+      .ColorScheme-ButtonText {
+        color:#363636;
+      }
+      .ColorScheme-NegativeText{
+        color:#ec9b97;
+      }</style>
+ <g transform="translate(1,1)">
+  <g id="network-wired-activated-limited" transform="translate(-44)">
+   <path id="path4601" class="ColorScheme-Text" d="m47 3v6h2v7c0 1.662 1.338 3 3 3h1 1 2v-2h1.4l0.6-1v-1-1h-2-5v1 1h1 1v1 0.72656 0.27344h-1c-1.108 0-2-0.892-2-2v-7h2v-6zm6 0v1h9v7 4h1v-4-8h-1zm-5 1h3v4h-3zm1 1v2h1v-2zm-2 5v6h1v-6z" fill="currentColor"/>
+   <rect id="rect4604" x="44" width="22" height="22" fill="none"/>
+   <path id="path4606" d="m57 19 3-5 3 5z" fill="#f3dea4" fill-rule="evenodd"/>
+  </g>
+ </g>
+</svg>

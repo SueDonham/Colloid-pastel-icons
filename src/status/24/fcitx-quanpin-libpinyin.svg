@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#a0b6cb;
+      }
+      .ColorScheme-ButtonText {
+        color:#363636;
+      }</style>
+ <g transform="translate(1,1)">
+  <g id="fcitx-quanpin-libpinyin" transform="translate(0 8e-6)">
+   <path id="path4202" class="ColorScheme-Text" transform="translate(25.5,18)" d="m-22.5-15v16h16v-16h-16zm7.5098 1.9023 0.98047 0.19531c-0.01013 0.0507-0.03402 0.09672-0.04687 0.14648 1.8764 2.289 5.7324 3.7871 5.7324 3.7871l-0.35156 0.9375c-1e-7 0-0.80843-0.32176-1.8242-0.83789l-5e-6 0.86914h-3.5v2h2.5v1h-2.5v3h4.5v1h-10v-1h4.5v-3h-2.5v-1h2.5v-2h-3.5v-0.82422c-1.0287 0.50172-1.8301 0.79492-1.8301 0.79492l-0.33984-0.94141s1.3412-0.48881 2.7363-1.2773c1.3951-0.78853 2.7575-1.9202 2.9434-2.8496zm0.49023 1.3301c-0.66759 0.99691-1.8461 1.7716-2.9414 2.3906-0.24781 0.14006-0.48317 0.256-0.7207 0.37695h7.3965c-1.1914-0.63048-2.6182-1.5528-3.7344-2.7676z" fill="currentColor"/>
+   <rect id="rect4196" width="22" height="22" fill="none"/>
+  </g>
+ </g>
+</svg>
