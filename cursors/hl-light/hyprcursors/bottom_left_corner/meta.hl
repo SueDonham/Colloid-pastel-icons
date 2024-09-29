@@ -1,0 +1,8 @@
+hotspot_x = .1666666666
+hotspot_y = .7500000000
+
+define_size = 0, bottom_left_corner.svg, 50
+
+define_override = bottom_left_corner
+define_override = ll_angle
+define_override = sw-resize

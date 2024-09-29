@@ -1,0 +1,6 @@
+hotspot_x = .1666666666
+hotspot_y = .5000000000
+
+define_size = 0, left_side.svg, 50
+
+define_override = left_side
