@@ -4,7 +4,8 @@ set -eo pipefail
 
 ROOT_UID=0
 DEST_DIR=
-CURSOR_DIR=$PWD/cursors
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+CURSOR_DIR=$SCRIPT_DIR/cursors
 
 [ "$UID" -eq "$ROOT_UID" ] && DEST_DIR="/usr/share/icons" || DEST_DIR="$HOME/.local/share/icons"
 SRC_DIR="$(cd "$(dirname "$0")" && pwd)"
@@ -203,6 +204,5 @@ done
 install_theme
 echo "Done."
 
-read -p "Install cursor theme? [y/n] " YN
+read -p "Install cursor theme? [y|N] " YN
 [[ "$YN" == [yY]* ]] && bash $CURSOR_DIR/install.sh
-

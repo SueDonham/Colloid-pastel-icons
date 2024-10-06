@@ -2,7 +2,9 @@
 
 # warning: this script removes your files if you run script in wrong directory
 
-echo -e "build-hl.sh is supposed to be run from Colloid-pastel-icons/cursors/\nIf it is not true, cd into cursors first"
+# Ensure user is in the right dir:
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+[[ "$PWD" != "$SCRIPT_DIR" ]] && echo -e "build-hl.sh is supposed to be run from Colloid-pastel-icons/cursors/\nIf it is not true, cd into cursors first"
 
 if ! which hyprcursor-util >/dev/null 2>&1; then
 	echo "You need \`hyprcursor-util\` to be available to build hyprcursor theme"
