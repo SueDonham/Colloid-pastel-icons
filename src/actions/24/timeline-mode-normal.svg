@@ -8,8 +8,8 @@
         color:#9fbac6;
       }</style>
  </defs>
- <g transform="translate(1,1)" fill="currentColor">
-  <path class="ColorScheme-Text" d="m3 11v4h16v-4h-16z"/>
-  <path class="ColorScheme-Highlight" d="m8 4v5h6v-5h-6z"/>
+ <g transform="translate(1,1)" >
+  <path class="ColorScheme-Text" fill="currentColor" d="m3 11v4h16v-4h-16z"/>
+  <path class="ColorScheme-Highlight" fill="currentColor" d="m8 4v5h6v-5h-6z"/>
  </g>
 </svg>
