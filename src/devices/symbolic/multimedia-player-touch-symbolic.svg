@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" enable-background="new" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" color-interpolation-filters="sRGB">
+   <feBlend in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g transform="translate(-361 116)" filter="url(#a)">
+  <path d="m365-115c-1 0-1 1-1 1v12s0 1 1 1h8c1 0 1-1 1-1v-12s0-1-1-1zm0 1h8v12h-8z" fill="#363636"/>
+ </g>
+</svg>

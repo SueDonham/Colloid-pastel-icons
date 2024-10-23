@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg1791" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs1771">
+  <filter id="c" x="-.10824" y="-.10781" width="1.2165" height="1.2156" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur1765" stdDeviation="1.51"/>
+  </filter>
+  <filter id="b" x="-.047998" y="-.047998" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur1768" stdDeviation="1.12"/>
+  </filter>
+  <linearGradient id="linearGradient2311" x1="4" x2="60.002" y1="31.97" y2="31.97" gradientTransform="translate(-.031 -63.971)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2305" stop-color="#f3dea4" offset="0"/>
+   <stop id="stop2307" stop-color="#eeac7c" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect id="rect1773" width="64" height="64" rx="0" ry="0" fill="none" style="paint-order:stroke fill markers"/>
+ <rect id="rect1775" x="3.999" y="3.999" width="56.002" height="56.002" rx="13.002" ry="13.002" filter="url(#b)" opacity=".3"/>
+ <rect id="rect1777" transform="rotate(90)" x="3.969" y="-60.002" width="56.002" height="56.002" rx="13.002" ry="13.002" fill="url(#linearGradient2311)"/>
+ <ellipse id="ellipse1779" cx="32" cy="32" rx="22.5" ry="23.116" fill="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width=".61175"/>
+ <path id="path1781" d="M31.981 15.192a16.8 16.8 0 0 0-10.333 3.602h20.72a16.8 16.8 0 0 0-10.387-3.602m-11.703 4.802a16.8 16.8 0 0 0-2.81 3.602h9.912a9.6 9.6 0 0 1 4.601-1.2 9.6 9.6 0 0 1 4.643 1.2h9.907a16.8 16.8 0 0 0-2.79-3.602Zm-3.726 5.403A16.8 16.8 0 0 0 15.26 30.8h7.203a9.6 9.6 0 0 1 2.572-5.403zm22.4 0a9.6 9.6 0 0 1 2.556 5.403h7.232a16.8 16.8 0 0 0-1.306-5.403zM15.26 33.2a16.8 16.8 0 0 0 1.066 4.803h8.182a9.6 9.6 0 0 1-2.045-4.803zm26.239 0a9.6 9.6 0 0 1-2.044 4.803h8.181a16.8 16.8 0 0 0 1.066-4.803zm-23.27 8.404a16.82 16.82 0 0 0 13.752 7.204 16.82 16.82 0 0 0 13.752-7.204z" filter="url(#c)" opacity=".7" stroke-width="1.1082"/>
+ <path id="path1783" d="M31.981 15.192a16.8 16.8 0 0 0-10.333 3.602h20.72a16.8 16.8 0 0 0-10.387-3.602m-11.703 4.802a16.8 16.8 0 0 0-2.81 3.602h9.912a9.6 9.6 0 0 1 4.601-1.2 9.6 9.6 0 0 1 4.643 1.2h9.907a16.8 16.8 0 0 0-2.79-3.602Zm-3.726 5.403A16.8 16.8 0 0 0 15.26 30.8h7.203a9.6 9.6 0 0 1 2.572-5.403zm22.4 0a9.6 9.6 0 0 1 2.556 5.403h7.232a16.8 16.8 0 0 0-1.306-5.403zM15.26 33.2a16.8 16.8 0 0 0 1.066 4.803h8.182a9.6 9.6 0 0 1-2.045-4.803zm26.239 0a9.6 9.6 0 0 1-2.044 4.803h8.181a16.8 16.8 0 0 0 1.066-4.803zm-23.27 8.404a16.82 16.82 0 0 0 13.752 7.204 16.82 16.82 0 0 0 13.752-7.204z" fill="#fff" stroke-width="1.1082"/>
+ <circle id="circle1785" cx="32.02" cy="32.044" r="30.001" fill="none"/>
+ <path id="path1787" d="M3.998 45.998v1c0 7.203 5.8 13.004 13.004 13.004h29.996c7.203 0 13.004-5.8 13.004-13.004v-1c0 7.203-5.8 13.002-13.004 13.002H17.002A12.975 12.975 0 0 1 3.998 45.998" opacity=".15"/>
+ <path id="path1789" d="M3.998 18.004v-1C3.998 9.801 9.798 4 17.002 4h29.996c7.203 0 13.004 5.8 13.004 13.004v1c0-7.203-5.8-13.002-13.004-13.002H17.002A12.975 12.975 0 0 0 3.998 18.004" fill="#fff" opacity=".15"/>
+</svg>
