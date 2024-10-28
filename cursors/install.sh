@@ -2,7 +2,7 @@
 
 ROOT_UID=0
 DEST_DIR=
-THEME_NAME=Colloid-pastel
+THEME_NAME=Colloid-Pastel
 
 # Destination directory
 if [ "$UID" -eq "$ROOT_UID" ]; then
@@ -10,6 +10,7 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
 else
   DEST_DIR="$HOME/.icons"
 fi
+
 
 # Ensure user is in the right dir:
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
@@ -30,11 +31,17 @@ esac
 copy_variant() {
 	var=$1
 	dest_dir="$DEST_DIR/$THEME_NAME-cursors-$var"
+	source_dir="$SCRIPT_DIR/dist-$var"
 
-	[[ -d "$dest_dir" ]] && rm -r "$dest_dir"
-
-	mkdir -p $dest_dir
-	cp -r dist-$var/* $dest_dir
+	if [ ! -d $source_dir  ] ; then
+		[[ "$var" =~ "hl" ]] && build="build-hl" || build="build"
+		echo -e "\033[0;31mPre-built theme not found at $source_dir. \\n\033[0mRun $build.sh to build cursor theme."
+		exit 1
+	else
+		[[ -d "$dest_dir" ]] && rm -r "$dest_dir"
+		mkdir -p $dest_dir
+		cp -r $source_dir/* $dest_dir
+	fi
 }
 
 
@@ -47,5 +54,6 @@ if [[ "$HYPRCURSOR" ]] ; then
   copy_variant 'hl-light'
   copy_variant 'hl-dark'
 fi
+
 
 echo "Cursors copied to $DEST_DIR"

@@ -10,9 +10,9 @@ CURSOR_DIR=$SCRIPT_DIR/cursors
 [ "$UID" -eq "$ROOT_UID" ] && DEST_DIR="/usr/share/icons" || DEST_DIR="$HOME/.local/share/icons"
 SRC_DIR="$(cd "$(dirname "$0")" && pwd)"
 
-THEME_NAME=Colloid-pastel
-VARIANTS=('-light' '-dark' '')
-COLOR_OPTS=('' '-blue' '-pink' '-red' '-orange' '-yellow' '-green' '-teal' '-grey')
+THEME_NAME=Colloid-Pastel
+VARIANTS=('-Light' '-Dark' '')
+COLOR_OPTS=('' '-Blue' '-Pink' '-Red' '-Orange' '-Yellow' '-Green' '-Teal' '-Grey')
 COLORS=()
 
 
@@ -34,12 +34,13 @@ EOF
 set_colors() {
   input=("$@")
   for color in "${input[@]}"; do
+    color="${color^}"
     if [[ " ${COLOR_OPTS[*]} " == *" -$color "* ]]; then
       COLORS+=("-$color")
     elif [[ "$color" == "all" ]]; then
       COLORS+=("${COLOR_OPTS[@]}")
     else
-      echo "ERROR: Unrecognized color variant '$i'."
+      echo "ERROR: Unrecognized color variant '$1'."
       echo "Try '$0 --help' for more information."
       exit 1
     fi
@@ -50,14 +51,14 @@ set_colors() {
 color_folders() {
   case "$color" in
     '') theme_color='#c3b6c9' ;;
-    -blue) theme_color='#b9cfde' ;;
-    -pink) theme_color='#f4b9be' ;;
-    -red) theme_color='#d19494' ;;
-    -orange) theme_color='#f5cba3' ;;
-    -yellow) theme_color='#f3dea4' ;;
-    -green) theme_color='#aac69f' ;;
-    -teal) theme_color='#9fc6be' ;;
-    -grey) theme_color='#a19d91' ;;
+    -Blue) theme_color='#b9cfde' ;;
+    -Pink) theme_color='#f4b9be' ;;
+    -Red) theme_color='#d19494' ;;
+    -Orange) theme_color='#f5cba3' ;;
+    -Yellow) theme_color='#f3dea4' ;;
+    -Green) theme_color='#aac69f' ;;
+    -Teal) theme_color='#9fc6be' ;;
+    -Grey) theme_color='#a19d91' ;;
   esac
 }
 
@@ -75,7 +76,7 @@ install_variant() {
   local name=${2}
   local color=${3}
   local variant=${4}
-  local theme_dir=${dest}/${name}${color}${variant}
+  local theme_dir="${dest}/${name}${color}${variant}"
 
   [[ -d "${theme_dir}" ]] && rm -rf "${theme_dir}"
 
@@ -83,9 +84,9 @@ install_variant() {
 
   mkdir -p "${theme_dir}"
   cp -r "${SRC_DIR}"/src/index.theme "${theme_dir}"
-  sed -i "s/Colloid-pastel/${name}${color}${variant}/g" "${theme_dir}"/index.theme
+  sed -i "s/Colloid-Pastel/${name}${color}${variant}/g" "${theme_dir}"/index.theme
 
-  if [[ "${variant}" == '-light' ]]; then
+  if [[ "${variant}" == '-Light' ]]; then
     cp -r "${SRC_DIR}"/src/{actions,apps,categories,devices,emblems,mimetypes,places,status} "${theme_dir}"
 
     if [[ "${color}" != '' ]]; then
@@ -96,7 +97,7 @@ install_variant() {
     cp -r "${SRC_DIR}"/links/* "${theme_dir}"
   fi
 
-  if [[ "${variant}" == '-dark' ]]; then
+  if [[ "${variant}" == '-Dark' ]]; then
     mkdir -p "${theme_dir}"/{apps,categories,devices,emblems,mimetypes,places,status}
     cp -r "${SRC_DIR}"/src/actions "${theme_dir}"
     cp -r "${SRC_DIR}"/src/apps/{22,symbolic} "${theme_dir}"/apps
@@ -122,26 +123,26 @@ install_variant() {
     cp -r "${SRC_DIR}"/links/mimetypes/symbolic "${theme_dir}"/mimetypes
 
     cd "${dest}"
-    ln -sf ../../"${name}${color}"-light/apps/scalable "${name}${color}"-dark/apps/scalable
-    ln -sf ../../"${name}${color}"-light/devices/scalable "${name}${color}"-dark/devices/scalable
-    ln -sf ../../"${name}${color}"-light/places/scalable "${name}${color}"-dark/places/scalable
-    ln -sf ../../"${name}${color}"-light/categories/32 "${name}${color}"-dark/categories/32
-    ln -sf ../../"${name}${color}"-light/emblems/16 "${name}${color}"-dark/emblems/16
-    ln -sf ../../"${name}${color}"-light/emblems/22 "${name}${color}"-dark/emblems/22
-    ln -sf ../../"${name}${color}"-light/status/32 "${name}${color}"-dark/status/32
-    ln -sf ../../"${name}${color}"-light/mimetypes/scalable "${name}${color}"-dark/mimetypes/scalable
+    ln -sf ../../"${name}${color}"-Light/apps/scalable "${name}${color}"-Dark/apps/scalable
+    ln -sf ../../"${name}${color}"-Light/devices/scalable "${name}${color}"-Dark/devices/scalable
+    ln -sf ../../"${name}${color}"-Light/places/scalable "${name}${color}"-Dark/places/scalable
+    ln -sf ../../"${name}${color}"-Light/categories/32 "${name}${color}"-Dark/categories/32
+    ln -sf ../../"${name}${color}"-Light/emblems/16 "${name}${color}"-Dark/emblems/16
+    ln -sf ../../"${name}${color}"-Light/emblems/22 "${name}${color}"-Dark/emblems/22
+    ln -sf ../../"${name}${color}"-Light/status/32 "${name}${color}"-Dark/status/32
+    ln -sf ../../"${name}${color}"-Light/mimetypes/scalable "${name}${color}"-Dark/mimetypes/scalable
   fi
 
   if [[ "${variant}" == '' ]]; then
     cd ${dest}
-    ln -sf ../"${name}${color}"-light/apps "${name}${color}"/apps
-    ln -sf ../"${name}${color}"-light/actions "${name}${color}"/actions
-    ln -sf ../"${name}${color}"-light/devices "${name}${color}"/devices
-    ln -sf ../"${name}${color}"-light/emblems "${name}${color}"/emblems
-    ln -sf ../"${name}${color}"-light/places "${name}${color}"/places
-    ln -sf ../"${name}${color}"-light/categories "${name}${color}"/categories
-    ln -sf ../"${name}${color}"-light/mimetypes "${name}${color}"/mimetypes
-    ln -sf ../"${name}${color}"-dark/status "${name}${color}"/status
+    ln -sf ../"${name}${color}"-Light/apps "${name}${color}"/apps
+    ln -sf ../"${name}${color}"-Light/actions "${name}${color}"/actions
+    ln -sf ../"${name}${color}"-Light/devices "${name}${color}"/devices
+    ln -sf ../"${name}${color}"-Light/emblems "${name}${color}"/emblems
+    ln -sf ../"${name}${color}"-Light/places "${name}${color}"/places
+    ln -sf ../"${name}${color}"-Light/categories "${name}${color}"/categories
+    ln -sf ../"${name}${color}"-Light/mimetypes "${name}${color}"/mimetypes
+    ln -sf ../"${name}${color}"-Dark/status "${name}${color}"/status
   fi
 
   (
@@ -162,7 +163,7 @@ install_variant() {
 
 remove_theme() {
   echo "Removing theme(s) ..."
-  for color in '' '-blue' '-pink' '-red' '-orange' '-yellow' '-green' '-teal' '-grey'; do
+  for color in '' '-Blue' '-Pink' '-Red' '-Orange' '-Yellow' '-Green' '-Teal' '-Grey'; do
     for var in "${VARIANTS[@]}"; do
     local theme_dir="${DEST_DIR}/${THEME_NAME}${color}${var}"
     [[ -d "$theme_dir" ]] && rm -rf "$theme_dir" && echo -e "Removed $theme_dir"
@@ -187,7 +188,7 @@ while [[ "$#" -gt 0 ]]; do
       shift ;;
     -c|--color)
       shift
-      set_colors "${@}"
+      set_colors "${@,,}"
       shift "${#@}" ;;
     -h|--help)
       print_menu
