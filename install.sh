@@ -37,7 +37,7 @@ set_colors() {
     color="${color^}"
     if [[ " ${COLOR_OPTS[*]} " == *" -$color "* ]]; then
       COLORS+=("-$color")
-    elif [[ "$color" == "all" ]]; then
+    elif [[ "$color" == "All" ]]; then
       COLORS+=("${COLOR_OPTS[@]}")
     else
       echo "ERROR: Unrecognized color variant '$1'."
