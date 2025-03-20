@@ -101,7 +101,7 @@ install_variant() {
     mkdir -p "${theme_dir}"/{apps,categories,devices,emblems,mimetypes,places,status}
     cp -r "${SRC_DIR}"/src/actions "${theme_dir}"
     cp -r "${SRC_DIR}"/src/apps/{22,symbolic} "${theme_dir}"/apps
-    cp -r "${SRC_DIR}"/src/categories/symbolic "${theme_dir}"/categories
+   cp -r "${SRC_DIR}"/src/categories/{22,symbolic}   "${theme_dir}"/categories
     cp -r "${SRC_DIR}"/src/emblems/symbolic "${theme_dir}"/emblems
     cp -r "${SRC_DIR}"/src/mimetypes/symbolic "${theme_dir}"/mimetypes
     cp -r "${SRC_DIR}"/src/devices/{16,22,24,32,symbolic} "${theme_dir}"/devices
@@ -112,6 +112,7 @@ install_variant() {
     sed -i "s/#363636/#dedede/g" "${theme_dir}"/{actions,devices,places,status}/{16,22,24}/*.svg
     sed -i "s/#363636/#dedede/g" "${theme_dir}"/{actions,devices}/32/*.svg
     sed -i "s/#363636/#dedede/g" "${theme_dir}"/apps/22/*.svg
+   sed -i "s/#363636/#dedede/g" "${theme_dir}"/categories/22/*.svg
     sed -i "s/#363636/#dedede/g" "${theme_dir}"/{actions,apps,categories,devices,emblems,mimetypes,places,status}/symbolic/*.svg
 
     cp -r "${SRC_DIR}"/links/actions/{16,22,24,32,symbolic} "${theme_dir}"/actions
@@ -119,7 +120,7 @@ install_variant() {
     cp -r "${SRC_DIR}"/links/places/{16,22,24,symbolic} "${theme_dir}"/places
     cp -r "${SRC_DIR}"/links/status/{16,22,24,symbolic} "${theme_dir}"/status
     cp -r "${SRC_DIR}"/links/apps/{22,symbolic} "${theme_dir}"/apps
-    cp -r "${SRC_DIR}"/links/categories/symbolic "${theme_dir}"/categories
+   cp -r "${SRC_DIR}"/links/categories/{22,symbolic}   "${theme_dir}"/categories
     cp -r "${SRC_DIR}"/links/mimetypes/symbolic "${theme_dir}"/mimetypes
 
     cd "${dest}"
